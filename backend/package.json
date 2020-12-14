@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "main": "main.js",
   "dependencies": {
+    "google-spreadsheet": "^3.0.14",
     "howlongtobeat": "^1.2.1",
     "promise-throttle": "^1.1.2"
   },

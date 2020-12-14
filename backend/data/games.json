@@ -6,7 +6,8 @@
     "gameplayMain": 10.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 15.5,
-    "imageUrl": "https://howlongtobeat.com/games/65080_A_Plague_Tale_Innocence.jpeg"
+    "imageUrl": "https://howlongtobeat.com/games/65080_A_Plague_Tale_Innocence.jpeg",
+    "releaseDate": "May 2019"
   },
   {
     "id": "46386",
@@ -15,25 +16,28 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 7,
-    "imageUrl": "https://howlongtobeat.com/games/46386_A_Way_Out.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/46386_A_Way_Out.jpg",
+    "releaseDate": "Mar 2018"
+  },
+  {
+    "id": "26629",
+    "name": "ARK Survival Evolved",
+    "search": "ARK: Survival Evolved",
+    "gameplayMain": 165,
+    "gameplayMainExtra": 257,
+    "gameplayCompletionist": 161,
+    "imageUrl": "https://howlongtobeat.com/games/ARK_Survival_Evolved_header.jpg",
+    "releaseDate": "Dec 2016"
   },
   {
     "id": "53763",
     "name": "Ace Combat 7 Skies Unknown",
-    "search": "ACE COMBAT 7",
+    "search": "Ace Combat 7: Skies Unknown",
     "gameplayMain": 11,
     "gameplayMainExtra": 16.5,
     "gameplayCompletionist": 56.5,
-    "imageUrl": "https://howlongtobeat.com/games/53763_Ace_Combat_7.jpg"
-  },
-  {
-    "id": "59880",
-    "name": "Age of Wonders Planetfall",
-    "search": "Age of Wonders: Planetfall",
-    "gameplayMain": 48,
-    "gameplayMainExtra": 0,
-    "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/59880_Age_of_Wonders_Planetfall.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/53763_Ace_Combat_7.jpg",
+    "releaseDate": "Jan 2019"
   },
   {
     "id": "319",
@@ -42,7 +46,8 @@
     "gameplayMain": 11,
     "gameplayMainExtra": 14.5,
     "gameplayCompletionist": 26,
-    "imageUrl": "https://howlongtobeat.com/games/Alan-wake-0.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Alan-wake-0.jpg",
+    "releaseDate": "May 2010"
   },
   {
     "id": "340",
@@ -51,7 +56,8 @@
     "gameplayMain": 14,
     "gameplayMainExtra": 16,
     "gameplayCompletionist": 22.5,
-    "imageUrl": "https://howlongtobeat.com/games/AliceMadnessReturns.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/AliceMadnessReturns.jpg",
+    "releaseDate": "Jun 2011"
   },
   {
     "id": "16638",
@@ -60,7 +66,8 @@
     "gameplayMain": 18.5,
     "gameplayMainExtra": 23,
     "gameplayCompletionist": 32.5,
-    "imageUrl": "https://howlongtobeat.com/games/Alien_Isolation.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Alien_Isolation.jpg",
+    "releaseDate": "Oct 2014"
   },
   {
     "id": "67659",
@@ -69,7 +76,8 @@
     "gameplayMain": 7.5,
     "gameplayMainExtra": 11,
     "gameplayCompletionist": 16,
-    "imageUrl": "https://howlongtobeat.com/games/67659_Alvastia_Chronicles.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/67659_Alvastia_Chronicles.jpg",
+    "releaseDate": "Feb 2019"
   },
   {
     "id": "46387",
@@ -78,7 +86,8 @@
     "gameplayMain": 13,
     "gameplayMainExtra": 26,
     "gameplayCompletionist": 45.5,
-    "imageUrl": "https://howlongtobeat.com/games/46387_Anthem.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/46387_Anthem.jpg",
+    "releaseDate": "Feb 2019"
   },
   {
     "id": "622",
@@ -87,7 +96,8 @@
     "gameplayMain": 6.5,
     "gameplayMainExtra": 7.5,
     "gameplayCompletionist": 11,
-    "imageUrl": "https://howlongtobeat.com/games/256px-ArmyofTwo_front-1-.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/256px-ArmyofTwo_front-1-.jpg",
+    "releaseDate": "Mar 2008"
   },
   {
     "id": "16887",
@@ -96,7 +106,8 @@
     "gameplayMain": 40.5,
     "gameplayMainExtra": 95,
     "gameplayCompletionist": 130,
-    "imageUrl": "https://howlongtobeat.com/games/Assetto_Corsa_cover.png"
+    "imageUrl": "https://howlongtobeat.com/games/Assetto_Corsa_cover.png",
+    "releaseDate": "Dec 2014"
   },
   {
     "id": "42182",
@@ -105,7 +116,8 @@
     "gameplayMain": 17.5,
     "gameplayMainExtra": 39.5,
     "gameplayCompletionist": 67.5,
-    "imageUrl": "https://howlongtobeat.com/games/42182_Astroneer.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/42182_Astroneer.jpg",
+    "releaseDate": "Dec 2016"
   },
   {
     "id": "834",
@@ -114,16 +126,18 @@
     "gameplayMain": 11,
     "gameplayMainExtra": 14.5,
     "gameplayCompletionist": 15,
-    "imageUrl": "https://howlongtobeat.com/games/250px-BanjoKazooieCover500px.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/250px-BanjoKazooieCover500px.jpg",
+    "releaseDate": "Jun 1998"
   },
   {
     "id": "836",
     "name": "BanjoKazooie Nuts  Bolts",
-    "search": "Banjo Kazooie: N n B",
+    "search": "Banjo-Kazooie: Nuts & Bolts",
     "gameplayMain": 15.5,
     "gameplayMainExtra": 23,
     "gameplayCompletionist": 44.5,
-    "imageUrl": "https://howlongtobeat.com/games/Banjokazooiecover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Banjokazooiecover.jpg",
+    "releaseDate": "Nov 2008"
   },
   {
     "id": "837",
@@ -132,16 +146,18 @@
     "gameplayMain": 16,
     "gameplayMainExtra": 23,
     "gameplayCompletionist": 23.5,
-    "imageUrl": "https://howlongtobeat.com/games/250px-Banjo-Tooie_Coverart.png"
+    "imageUrl": "https://howlongtobeat.com/games/250px-Banjo-Tooie_Coverart.png",
+    "releaseDate": "Nov 2000"
   },
   {
-    "id": "875",
-    "name": "Batman NES",
-    "search": "Batman",
-    "gameplayMain": 1.5,
-    "gameplayMainExtra": 2,
-    "gameplayCompletionist": 2,
-    "imageUrl": "https://howlongtobeat.com/games/220px-Batman_NES.jpg"
+    "id": "18005",
+    "name": "Batman Arkham Knight",
+    "search": "Batman: Arkham Knight",
+    "gameplayMain": 16.5,
+    "gameplayMainExtra": 30,
+    "gameplayCompletionist": 47,
+    "imageUrl": "https://howlongtobeat.com/games/Batman_Arkham_Knight_Cover_Art.jpg",
+    "releaseDate": "Jun 2015"
   },
   {
     "id": "30017",
@@ -150,7 +166,8 @@
     "gameplayMain": 27.5,
     "gameplayMainExtra": 41.5,
     "gameplayCompletionist": 64.5,
-    "imageUrl": "https://howlongtobeat.com/games/Battle_Chasers_Nightwar_download.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Battle_Chasers_Nightwar_download.jpg",
+    "releaseDate": "Oct 2017"
   },
   {
     "id": "38001",
@@ -159,7 +176,18 @@
     "gameplayMain": 6.5,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 17,
-    "imageUrl": "https://howlongtobeat.com/games/38001_Battlefield_1.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/38001_Battlefield_1.jpg",
+    "releaseDate": "Oct 2016"
+  },
+  {
+    "id": "38001",
+    "name": "Battlefield 1",
+    "search": "Battlefield: Hardline",
+    "gameplayMain": 6.5,
+    "gameplayMainExtra": 9,
+    "gameplayCompletionist": 17,
+    "imageUrl": "https://howlongtobeat.com/games/38001_Battlefield_1.jpg",
+    "releaseDate": "Mar 2015"
   },
   {
     "id": "934",
@@ -168,7 +196,8 @@
     "gameplayMain": 24,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 22.5,
-    "imageUrl": "https://howlongtobeat.com/games/Battlefield_1943_Coverart.png"
+    "imageUrl": "https://howlongtobeat.com/games/Battlefield_1943_Coverart.png",
+    "releaseDate": "Jul 2009"
   },
   {
     "id": "941",
@@ -177,7 +206,8 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 58,
-    "imageUrl": "https://howlongtobeat.com/games/Bf3-pc-cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Bf3-pc-cover.jpg",
+    "releaseDate": "Oct 2011"
   },
   {
     "id": "942",
@@ -186,7 +216,8 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 13,
-    "imageUrl": "https://howlongtobeat.com/games/Battlefield_4.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Battlefield_4.jpg",
+    "releaseDate": "Oct 2013"
   },
   {
     "id": "945",
@@ -195,25 +226,18 @@
     "gameplayMain": 7.5,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 56,
-    "imageUrl": "https://howlongtobeat.com/games/Bfbc-360-cover.png"
+    "imageUrl": "https://howlongtobeat.com/games/Bfbc-360-cover.png",
+    "releaseDate": "Jun 2008"
   },
   {
     "id": "946",
     "name": "Battlefield Bad Company 2",
-    "search": "Battlefield Bad Company 2",
+    "search": "Battlefield: Bad Company 2",
     "gameplayMain": 7,
     "gameplayMainExtra": 10.5,
     "gameplayCompletionist": 15,
-    "imageUrl": "https://howlongtobeat.com/games/Bc2lowres.jpg"
-  },
-  {
-    "id": "21620",
-    "name": "Battlefield Hardline",
-    "search": "Battlefield Hardline",
-    "gameplayMain": 7.5,
-    "gameplayMainExtra": 10.5,
-    "gameplayCompletionist": 22,
-    "imageUrl": "https://howlongtobeat.com/games/Battlefield_Hardline.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Bc2lowres.jpg",
+    "releaseDate": "Mar 2010"
   },
   {
     "id": "57352",
@@ -222,7 +246,8 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 8.5,
     "gameplayCompletionist": 25,
-    "imageUrl": "https://howlongtobeat.com/games/57352_Battlefield_V.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/57352_Battlefield_V.jpg",
+    "releaseDate": "Nov 2018"
   },
   {
     "id": "80699",
@@ -231,7 +256,8 @@
     "gameplayMain": 4,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 6.5,
-    "imageUrl": "https://howlongtobeat.com/games/80699_Battletoads_(2020).jpg"
+    "imageUrl": "https://howlongtobeat.com/games/80699_Battletoads_(2020).jpg",
+    "releaseDate": "Aug 2020"
   },
   {
     "id": "1000",
@@ -240,7 +266,8 @@
     "gameplayMain": 1.5,
     "gameplayMainExtra": 2.5,
     "gameplayCompletionist": 2.5,
-    "imageUrl": "https://howlongtobeat.com/games/Bejeweled2cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Bejeweled2cover.jpg",
+    "releaseDate": "Nov 2004"
   },
   {
     "id": "1001",
@@ -249,7 +276,8 @@
     "gameplayMain": 4.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 42,
-    "imageUrl": "https://howlongtobeat.com/games/256px-Bejeweled_3.png"
+    "imageUrl": "https://howlongtobeat.com/games/256px-Bejeweled_3.png",
+    "releaseDate": "Dec 2010"
   },
   {
     "id": "1088",
@@ -258,7 +286,8 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 8.5,
     "gameplayCompletionist": 22.5,
-    "imageUrl": "https://howlongtobeat.com/games/Black_cover_art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Black_cover_art.jpg",
+    "releaseDate": "Feb 2006"
   },
   {
     "id": "30340",
@@ -267,7 +296,8 @@
     "gameplayMain": 72,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/Black_Desert_Online.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Black_Desert_Online.jpg",
+    "releaseDate": "Mar 2016"
   },
   {
     "id": "68319",
@@ -276,7 +306,8 @@
     "gameplayMain": 5,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 7.5,
-    "imageUrl": "https://howlongtobeat.com/games/68319_Blair_Witch.jfif"
+    "imageUrl": "https://howlongtobeat.com/games/68319_Blair_Witch.jfif",
+    "releaseDate": "Aug 2019"
   },
   {
     "id": "68093",
@@ -285,7 +316,8 @@
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 6.5,
-    "imageUrl": "https://howlongtobeat.com/games/68093_Bleeding_Edge.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/68093_Bleeding_Edge.jpg",
+    "releaseDate": "Mar 2020"
   },
   {
     "id": "26266",
@@ -294,7 +326,8 @@
     "gameplayMain": 13.5,
     "gameplayMainExtra": 19.5,
     "gameplayCompletionist": 33.5,
-    "imageUrl": "https://howlongtobeat.com/games/Bloodstained_ritual_of_the_night_logo.png"
+    "imageUrl": "https://howlongtobeat.com/games/Bloodstained_ritual_of_the_night_logo.png",
+    "releaseDate": "Jun 2019"
   },
   {
     "id": "51365",
@@ -303,7 +336,8 @@
     "gameplayMain": 13,
     "gameplayMainExtra": 17,
     "gameplayCompletionist": 18.5,
-    "imageUrl": "https://howlongtobeat.com/games/51365_Bridge_Constructor_Portal.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/51365_Bridge_Constructor_Portal.jpg",
+    "releaseDate": "Dec 2017"
   },
   {
     "id": "1345",
@@ -312,16 +346,18 @@
     "gameplayMain": 9,
     "gameplayMainExtra": 14,
     "gameplayCompletionist": 24,
-    "imageUrl": "https://howlongtobeat.com/games/256px-BrutalLegendCover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/256px-BrutalLegendCover.jpg",
+    "releaseDate": "Oct 2009"
   },
   {
-    "id": "1410",
-    "name": "Burnout Paradise Remastered",
-    "search": "Burnout Paradise Remastered",
-    "gameplayMain": 10.5,
-    "gameplayMainExtra": 21,
-    "gameplayCompletionist": 38,
-    "imageUrl": "https://howlongtobeat.com/games/BurnoutParadiseTheUltimateBox.jpg"
+    "id": "1403",
+    "name": "Burnout",
+    "search": "Burnout: Paradise - Remastered",
+    "gameplayMain": 9,
+    "gameplayMainExtra": 9,
+    "gameplayCompletionist": 10.5,
+    "imageUrl": "https://howlongtobeat.com/games/256px-Burnout.jpg",
+    "releaseDate": "Jan 2008"
   },
   {
     "id": "77918",
@@ -330,7 +366,8 @@
     "gameplayMain": 5,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 7,
-    "imageUrl": "https://howlongtobeat.com/games/77918_Call_of_the_Sea.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/77918_Call_of_the_Sea.jpg",
+    "releaseDate": "Dec 2020"
   },
   {
     "id": "68169",
@@ -339,7 +376,8 @@
     "gameplayMain": 4,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 5.5,
-    "imageUrl": "https://howlongtobeat.com/games/68169_Carrion.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/68169_Carrion.jpg",
+    "releaseDate": "Jul 2020"
   },
   {
     "id": "80570",
@@ -348,7 +386,8 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 6.5,
-    "imageUrl": "https://howlongtobeat.com/games/80570_Carto.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/80570_Carto.jpg",
+    "releaseDate": "Oct 2020"
   },
   {
     "id": "42818",
@@ -357,7 +396,8 @@
     "gameplayMain": 8,
     "gameplayMainExtra": 13.5,
     "gameplayCompletionist": 37.5,
-    "imageUrl": "https://howlongtobeat.com/games/42818_Celeste.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/42818_Celeste.jpg",
+    "releaseDate": "Jan 2018"
   },
   {
     "id": "22534",
@@ -366,16 +406,18 @@
     "gameplayMain": 13.5,
     "gameplayMainExtra": 17,
     "gameplayCompletionist": 27.5,
-    "imageUrl": "https://howlongtobeat.com/games/Children-of-Morta.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Children-of-Morta.jpg",
+    "releaseDate": "Sep 2019"
   },
   {
     "id": "24640",
     "name": "Cities Skylines",
-    "search": "Cities",
+    "search": "Cities: Skylines",
     "gameplayMain": 25.5,
     "gameplayMainExtra": 52.5,
     "gameplayCompletionist": 116,
-    "imageUrl": "https://howlongtobeat.com/games/Cities_Skylines_cover_art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Cities_Skylines_cover_art.jpg",
+    "releaseDate": "Mar 2015"
   },
   {
     "id": "40215",
@@ -384,7 +426,8 @@
     "gameplayMain": 3.5,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 8,
-    "imageUrl": "https://howlongtobeat.com/games/40215_Clustertruck.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/40215_Clustertruck.jpg",
+    "releaseDate": "Sep 2016"
   },
   {
     "id": "57507",
@@ -393,7 +436,8 @@
     "gameplayMain": 11.5,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 25.5,
-    "imageUrl": "https://howlongtobeat.com/games/57507_Control.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/57507_Control.jpg",
+    "releaseDate": "Aug 2019"
   },
   {
     "id": "21537",
@@ -402,7 +446,8 @@
     "gameplayMain": 6.5,
     "gameplayMainExtra": 7.5,
     "gameplayCompletionist": 9.5,
-    "imageUrl": "https://howlongtobeat.com/games/CostumeQuest2header.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/CostumeQuest2header.jpg",
+    "releaseDate": "Oct 2014"
   },
   {
     "id": "38828",
@@ -411,7 +456,8 @@
     "gameplayMain": 6.5,
     "gameplayMainExtra": 10,
     "gameplayCompletionist": 24,
-    "imageUrl": "https://howlongtobeat.com/games/38828_Crackdown_3.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/38828_Crackdown_3.jpg",
+    "releaseDate": "Feb 2019"
   },
   {
     "id": "69179",
@@ -420,7 +466,8 @@
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/69179_Cricket_19.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/69179_Cricket_19.jpg",
+    "releaseDate": "May 2019"
   },
   {
     "id": "24970",
@@ -429,7 +476,18 @@
     "gameplayMain": 31.5,
     "gameplayMainExtra": 48.5,
     "gameplayCompletionist": 75.5,
-    "imageUrl": "https://howlongtobeat.com/games/crosscode_indie.png"
+    "imageUrl": "https://howlongtobeat.com/games/crosscode_indie.png",
+    "releaseDate": "May 2015"
+  },
+  {
+    "id": "24970",
+    "name": "CrossCode",
+    "search": "CrossCode",
+    "gameplayMain": 31.5,
+    "gameplayMainExtra": 48.5,
+    "gameplayCompletionist": 75.5,
+    "imageUrl": "https://howlongtobeat.com/games/crosscode_indie.png",
+    "releaseDate": "May 2015"
   },
   {
     "id": "2068",
@@ -438,7 +496,8 @@
     "gameplayMain": 10,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 13.5,
-    "imageUrl": "https://howlongtobeat.com/games/Crysis_Cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Crysis_Cover.jpg",
+    "releaseDate": "Nov 2007"
   },
   {
     "id": "2069",
@@ -447,7 +506,8 @@
     "gameplayMain": 9,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 15,
-    "imageUrl": "https://howlongtobeat.com/games/Crysis_2_cover.png"
+    "imageUrl": "https://howlongtobeat.com/games/Crysis_2_cover.png",
+    "releaseDate": "Mar 2011"
   },
   {
     "id": "2070",
@@ -456,7 +516,8 @@
     "gameplayMain": 7,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 13,
-    "imageUrl": "https://howlongtobeat.com/games/Crysis_3_cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Crysis_3_cover.jpg",
+    "releaseDate": "Feb 2013"
   },
   {
     "id": "2195",
@@ -465,16 +526,18 @@
     "gameplayMain": 8,
     "gameplayMainExtra": 9.5,
     "gameplayCompletionist": 15,
-    "imageUrl": "https://howlongtobeat.com/games/Dantes_Inferno.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Dantes_Inferno.jpg",
+    "releaseDate": "Feb 2010"
   },
   {
     "id": "26803",
     "name": "Dark Souls III",
-    "search": "ARK",
+    "search": "ARK: Survival Evolved - Explorer's Edition",
     "gameplayMain": 32,
     "gameplayMainExtra": 47.5,
     "gameplayCompletionist": 93,
-    "imageUrl": "https://howlongtobeat.com/games/Dark_souls_3_cover_art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Dark_souls_3_cover_art.jpg",
+    "releaseDate": "Dec 2016"
   },
   {
     "id": "68043",
@@ -483,7 +546,8 @@
     "gameplayMain": 14,
     "gameplayMainExtra": 19.5,
     "gameplayCompletionist": 28.5,
-    "imageUrl": "https://howlongtobeat.com/games/68043_Darksiders_Genesis.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/68043_Darksiders_Genesis.jpg",
+    "releaseDate": "Dec 2019"
   },
   {
     "id": "35880",
@@ -492,7 +556,8 @@
     "gameplayMain": 4.5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 6.5,
-    "imageUrl": "https://howlongtobeat.com/games/35880_Day_of_the_Tentacle_Remastered.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/35880_Day_of_the_Tentacle_Remastered.jpg",
+    "releaseDate": "Mar 2016"
   },
   {
     "id": "2290",
@@ -501,7 +566,8 @@
     "gameplayMain": 65.5,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 77,
-    "imageUrl": "https://howlongtobeat.com/games/DayZ_Standalone_Logo.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/DayZ_Standalone_Logo.jpg",
+    "releaseDate": "Dec 2013"
   },
   {
     "id": "45727",
@@ -510,7 +576,8 @@
     "gameplayMain": 13,
     "gameplayMainExtra": 26,
     "gameplayCompletionist": 84.5,
-    "imageUrl": "https://howlongtobeat.com/games/45727_Dead_Cells.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/45727_Dead_Cells.jpg",
+    "releaseDate": "May 2017"
   },
   {
     "id": "2333",
@@ -519,7 +586,8 @@
     "gameplayMain": 11,
     "gameplayMainExtra": 13,
     "gameplayCompletionist": 20.5,
-    "imageUrl": "https://howlongtobeat.com/games/Dead_Space_Box_Art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Dead_Space_Box_Art.jpg",
+    "releaseDate": "Jan 2011"
   },
   {
     "id": "2335",
@@ -528,7 +596,8 @@
     "gameplayMain": 9,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 16,
-    "imageUrl": "https://howlongtobeat.com/games/Dead_Space_2_Box_Art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Dead_Space_2_Box_Art.jpg",
+    "releaseDate": "Jan 2011"
   },
   {
     "id": "2337",
@@ -537,25 +606,28 @@
     "gameplayMain": 13,
     "gameplayMainExtra": 16.5,
     "gameplayCompletionist": 24,
-    "imageUrl": "https://howlongtobeat.com/games/Dead_Space_3_PC_game_cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Dead_Space_3_PC_game_cover.jpg",
+    "releaseDate": "Feb 2013"
   },
   {
     "id": "2340",
     "name": "Dead Space Ignition",
-    "search": "Dead Space Ignition",
+    "search": "Dead Space: Ignition",
     "gameplayMain": 1.5,
     "gameplayMainExtra": 2.5,
     "gameplayCompletionist": 4,
-    "imageUrl": "https://howlongtobeat.com/games/Dead_Space_Ignition_Coverart.png"
+    "imageUrl": "https://howlongtobeat.com/games/Dead_Space_Ignition_Coverart.png",
+    "releaseDate": "Oct 2010"
   },
   {
     "id": "37986",
     "name": "Dead by Daylight",
-    "search": "Dead by Daylight",
+    "search": "Dead by Daylight: Special Edition",
     "gameplayMain": 0,
     "gameplayMainExtra": 461,
     "gameplayCompletionist": 189,
-    "imageUrl": "https://howlongtobeat.com/games/37986_Dead_by_Daylight.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/37986_Dead_by_Daylight.jpg",
+    "releaseDate": "Jun 2016"
   },
   {
     "id": "47424",
@@ -564,7 +636,8 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 7,
     "gameplayCompletionist": 9,
-    "imageUrl": "https://howlongtobeat.com/games/47424_Death_Squared.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/47424_Death_Squared.jpg",
+    "releaseDate": "Mar 2017"
   },
   {
     "id": "47169",
@@ -573,16 +646,18 @@
     "gameplayMain": 99,
     "gameplayMainExtra": 100,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/47169_Deep_Rock_Galactic.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/47169_Deep_Rock_Galactic.jpg",
+    "releaseDate": "May 2020"
   },
   {
     "id": "71372",
     "name": "Deliver Us The Moon",
-    "search": "Deliver Us The Moon",
+    "search": "Deliver Us the Moon",
     "gameplayMain": 5,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 6.5,
-    "imageUrl": "https://howlongtobeat.com/games/71372_Deliver_Us_The_Moon.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/71372_Deliver_Us_The_Moon.jpg",
+    "releaseDate": "Oct 2019"
   },
   {
     "id": "55598",
@@ -591,7 +666,8 @@
     "gameplayMain": 4.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/55598_Descenders.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/55598_Descenders.jpg",
+    "releaseDate": "Feb 2018"
   },
   {
     "id": "43894",
@@ -600,25 +676,38 @@
     "gameplayMain": 12,
     "gameplayMainExtra": 29,
     "gameplayCompletionist": 120,
-    "imageUrl": "https://howlongtobeat.com/games/43894_Destiny_2.png"
+    "imageUrl": "https://howlongtobeat.com/games/43894_Destiny_2.png",
+    "releaseDate": "Sep 2017"
   },
   {
     "id": "43894",
     "name": "Destiny 2",
-    "search": "Destiny 2",
+    "search": "Destiny 2: Forsaken",
     "gameplayMain": 12,
     "gameplayMainExtra": 29,
     "gameplayCompletionist": 120,
-    "imageUrl": "https://howlongtobeat.com/games/43894_Destiny_2.png"
+    "imageUrl": "https://howlongtobeat.com/games/43894_Destiny_2.png",
+    "releaseDate": "Sep 2017"
   },
   {
     "id": "43894",
     "name": "Destiny 2",
-    "search": "Destiny 2",
+    "search": "Destiny 2: Shadowkeep",
     "gameplayMain": 12,
     "gameplayMainExtra": 29,
     "gameplayCompletionist": 120,
-    "imageUrl": "https://howlongtobeat.com/games/43894_Destiny_2.png"
+    "imageUrl": "https://howlongtobeat.com/games/43894_Destiny_2.png",
+    "releaseDate": "Sep 2017"
+  },
+  {
+    "id": "43894",
+    "name": "Destiny 2",
+    "search": "Destiny 2: Beyond Light",
+    "gameplayMain": 12,
+    "gameplayMainExtra": 29,
+    "gameplayCompletionist": 120,
+    "imageUrl": "https://howlongtobeat.com/games/43894_Destiny_2.png",
+    "releaseDate": "Sep 2017"
   },
   {
     "id": "43274",
@@ -627,7 +716,8 @@
     "gameplayMain": 30,
     "gameplayMainExtra": 50.5,
     "gameplayCompletionist": 88,
-    "imageUrl": "https://howlongtobeat.com/games/43274_Dirt_4.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/43274_Dirt_4.jpg",
+    "releaseDate": "Jun 2017"
   },
   {
     "id": "26731",
@@ -636,7 +726,8 @@
     "gameplayMain": 12.5,
     "gameplayMainExtra": 22.5,
     "gameplayCompletionist": 44,
-    "imageUrl": "https://howlongtobeat.com/games/dishonored2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/dishonored2.jpg",
+    "releaseDate": "Nov 2016"
   },
   {
     "id": "4994",
@@ -645,7 +736,8 @@
     "gameplayMain": 16,
     "gameplayMainExtra": 17,
     "gameplayCompletionist": 28.5,
-    "imageUrl": "https://howlongtobeat.com/games/Disneyland_Adventures.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Disneyland_Adventures.jpg",
+    "releaseDate": "Nov 2011"
   },
   {
     "id": "2675",
@@ -654,16 +746,18 @@
     "gameplayMain": 33,
     "gameplayMainExtra": 77,
     "gameplayCompletionist": 128,
-    "imageUrl": "https://howlongtobeat.com/games/2675_Dont_Starve.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/2675_Dont_Starve.jpg",
+    "releaseDate": "Sep 2014"
   },
   {
     "id": "57506",
     "name": "Doom Eternal",
-    "search": "DOOM Eternal ",
+    "search": "DOOM Eternal",
     "gameplayMain": 13.5,
-    "gameplayMainExtra": 18.5,
+    "gameplayMainExtra": 18,
     "gameplayCompletionist": 24,
-    "imageUrl": "https://howlongtobeat.com/games/57506_Doom_Eternal.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/57506_Doom_Eternal.jpg",
+    "releaseDate": "Mar 2020"
   },
   {
     "id": "2727",
@@ -672,7 +766,8 @@
     "gameplayMain": 3.5,
     "gameplayMainExtra": 4.5,
     "gameplayCompletionist": 11.5,
-    "imageUrl": "https://howlongtobeat.com/games/Double_Dragon_Neon_promotional_poster.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Double_Dragon_Neon_promotional_poster.jpg",
+    "releaseDate": "Sep 2012"
   },
   {
     "id": "53061",
@@ -681,16 +776,28 @@
     "gameplayMain": 3,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 7.5,
-    "imageUrl": "https://howlongtobeat.com/games/53061_Double_Kick_Heroes.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/53061_Double_Kick_Heroes.jpg",
+    "releaseDate": "Aug 2020"
   },
   {
     "id": "2756",
     "name": "Dragon Age II",
-    "search": "Dragon Age 2",
+    "search": "Dragon Age II",
     "gameplayMain": 26.5,
     "gameplayMainExtra": 37.5,
     "gameplayCompletionist": 58,
-    "imageUrl": "https://howlongtobeat.com/games/Image_dragon_age_2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Image_dragon_age_2.jpg",
+    "releaseDate": "Mar 2011"
+  },
+  {
+    "id": "11627",
+    "name": "Dragon Age Inquisition",
+    "search": "Dragon Age: Inquisition",
+    "gameplayMain": 46.5,
+    "gameplayMainExtra": 87.5,
+    "gameplayCompletionist": 127,
+    "imageUrl": "https://howlongtobeat.com/games/Dragon_Age_Inquisition_BoxArt.jpg",
+    "releaseDate": "Nov 2014"
   },
   {
     "id": "2760",
@@ -699,25 +806,18 @@
     "gameplayMain": 40.5,
     "gameplayMainExtra": 59,
     "gameplayCompletionist": 87,
-    "imageUrl": "https://howlongtobeat.com/games/Dragon_Age.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Dragon_Age.jpg",
+    "releaseDate": "Nov 2009"
   },
   {
     "id": "69743",
     "name": "Dragon Quest XI S Echoes of an Elusive Age  Definitive Edition",
-    "search": "DRAGON QUEST XI S",
+    "search": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
     "gameplayMain": 56.5,
     "gameplayMainExtra": 89.5,
     "gameplayCompletionist": 130,
-    "imageUrl": "https://howlongtobeat.com/games/69743_Dragon_Quest_XI_S_Echoes_of_an_Elusive_Age_-_Definitive_Edition.jpg"
-  },
-  {
-    "id": "69743",
-    "name": "Dragon Quest XI S Echoes of an Elusive Age  Definitive Edition",
-    "search": "Dragon Age",
-    "gameplayMain": 56.5,
-    "gameplayMainExtra": 89.5,
-    "gameplayCompletionist": 130,
-    "imageUrl": "https://howlongtobeat.com/games/69743_Dragon_Quest_XI_S_Echoes_of_an_Elusive_Age_-_Definitive_Edition.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/69743_Dragon_Quest_XI_S_Echoes_of_an_Elusive_Age_-_Definitive_Edition.jpg",
+    "releaseDate": "Jul 2017"
   },
   {
     "id": "82637",
@@ -726,7 +826,8 @@
     "gameplayMain": 11.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/82637_Drake_Hollow.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/82637_Drake_Hollow.jpg",
+    "releaseDate": "Aug 2020"
   },
   {
     "id": "17454",
@@ -735,25 +836,38 @@
     "gameplayMain": 7,
     "gameplayMainExtra": 19,
     "gameplayCompletionist": 54.5,
-    "imageUrl": "https://howlongtobeat.com/games/DungeonoftheEndless.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/DungeonoftheEndless.jpg",
+    "releaseDate": "Oct 2014"
+  },
+  {
+    "id": "19375",
+    "name": "EA Sports UFC",
+    "search": "EA Sports UFC",
+    "gameplayMain": 11,
+    "gameplayMainExtra": 17.5,
+    "gameplayCompletionist": 22,
+    "imageUrl": "https://howlongtobeat.com/games/EA_UFC.jpg",
+    "releaseDate": "Jun 2014"
+  },
+  {
+    "id": "35849",
+    "name": "EA Sports UFC 2",
+    "search": "EA Sports UFC 2",
+    "gameplayMain": 6,
+    "gameplayMainExtra": 32,
+    "gameplayCompletionist": 40.5,
+    "imageUrl": "https://howlongtobeat.com/games/35849_EA_Sports_UFC_2.jpg",
+    "releaseDate": "Mar 2016"
   },
   {
     "id": "52971",
     "name": "EA Sports UFC 3",
-    "search": " UFC",
+    "search": "EA Sports UFC 3",
     "gameplayMain": 9,
     "gameplayMainExtra": 17,
     "gameplayCompletionist": 29.5,
-    "imageUrl": "https://howlongtobeat.com/games/52971_EA_Sports_UFC_3.jpg"
-  },
-  {
-    "id": "52971",
-    "name": "EA Sports UFC 3",
-    "search": " UFC 3",
-    "gameplayMain": 9,
-    "gameplayMainExtra": 17,
-    "gameplayCompletionist": 29.5,
-    "imageUrl": "https://howlongtobeat.com/games/52971_EA_Sports_UFC_3.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/52971_EA_Sports_UFC_3.jpg",
+    "releaseDate": "Feb 2018"
   },
   {
     "id": "65001",
@@ -762,16 +876,18 @@
     "gameplayMain": 11.5,
     "gameplayMainExtra": 13,
     "gameplayCompletionist": 13.5,
-    "imageUrl": "https://howlongtobeat.com/games/65001_Eastshade.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/65001_Eastshade.jpg",
+    "releaseDate": "Feb 2019"
   },
   {
     "id": "35549",
     "name": "Enter the Gungeon",
-    "search": "Enter The Gungeon",
+    "search": "Enter the Gungeon",
     "gameplayMain": 20.5,
     "gameplayMainExtra": 50.5,
     "gameplayCompletionist": 157,
-    "imageUrl": "https://howlongtobeat.com/games/35549_Enter_the_Gungeon.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/35549_Enter_the_Gungeon.jpg",
+    "releaseDate": "Apr 2016"
   },
   {
     "id": "68644",
@@ -780,7 +896,8 @@
     "gameplayMain": 16,
     "gameplayMainExtra": 42,
     "gameplayCompletionist": 108,
-    "imageUrl": "https://howlongtobeat.com/games/68644_F1_2019.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/68644_F1_2019.jpg",
+    "releaseDate": "Jun 2019"
   },
   {
     "id": "21232",
@@ -789,25 +906,28 @@
     "gameplayMain": 143,
     "gameplayMainExtra": 126,
     "gameplayCompletionist": 54.5,
-    "imageUrl": "https://howlongtobeat.com/games/FIFA_15_Cover_Art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/FIFA_15_Cover_Art.jpg",
+    "releaseDate": "Sep 2014"
   },
   {
     "id": "30476",
     "name": "FIFA 16",
-    "search": " FIFA 16",
+    "search": "FIFA 16",
     "gameplayMain": 105,
     "gameplayMainExtra": 6.5,
     "gameplayCompletionist": 73,
-    "imageUrl": "https://howlongtobeat.com/games/FIFA_16_cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/FIFA_16_cover.jpg",
+    "releaseDate": "Sep 2015"
   },
   {
     "id": "38724",
     "name": "FIFA 17",
-    "search": " FIFA 17",
+    "search": "FIFA 17",
     "gameplayMain": 54.5,
     "gameplayMainExtra": 1000,
     "gameplayCompletionist": 94,
-    "imageUrl": "https://howlongtobeat.com/games/38724_FIFA_17.jpeg"
+    "imageUrl": "https://howlongtobeat.com/games/38724_FIFA_17.jpeg",
+    "releaseDate": "Sep 2016"
   },
   {
     "id": "49476",
@@ -816,7 +936,8 @@
     "gameplayMain": 37.5,
     "gameplayMainExtra": 18.5,
     "gameplayCompletionist": 62.5,
-    "imageUrl": "https://howlongtobeat.com/games/49476_FIFA_18.png"
+    "imageUrl": "https://howlongtobeat.com/games/49476_FIFA_18.png",
+    "releaseDate": "Sep 2017"
   },
   {
     "id": "57351",
@@ -825,16 +946,18 @@
     "gameplayMain": 57,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 129,
-    "imageUrl": "https://howlongtobeat.com/games/57351_Fifa_19.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/57351_Fifa_19.jpg",
+    "releaseDate": "Sep 2018"
   },
   {
     "id": "68094",
     "name": "FIFA 20",
-    "search": " FIFA 20",
+    "search": "FIFA 20",
     "gameplayMain": 30.5,
     "gameplayMainExtra": 200,
     "gameplayCompletionist": 94,
-    "imageUrl": "https://howlongtobeat.com/games/68094_FIFA_20.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/68094_FIFA_20.jpg",
+    "releaseDate": "Sep 2019"
   },
   {
     "id": "16586",
@@ -843,7 +966,8 @@
     "gameplayMain": 14,
     "gameplayMainExtra": 20.5,
     "gameplayCompletionist": 32,
-    "imageUrl": "https://howlongtobeat.com/games/Fable_Anniversary.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Fable_Anniversary.jpg",
+    "releaseDate": "Feb 2014"
   },
   {
     "id": "3314",
@@ -852,7 +976,8 @@
     "gameplayMain": 13,
     "gameplayMainExtra": 23.5,
     "gameplayCompletionist": 52,
-    "imageUrl": "https://howlongtobeat.com/games/Fable_II.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Fable_II.jpg",
+    "releaseDate": "Oct 2008"
   },
   {
     "id": "3316",
@@ -861,16 +986,18 @@
     "gameplayMain": 13,
     "gameplayMainExtra": 25.5,
     "gameplayCompletionist": 47,
-    "imageUrl": "https://howlongtobeat.com/games/Fableiii.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Fableiii.jpg",
+    "releaseDate": "Oct 2010"
   },
   {
     "id": "57416",
     "name": "Fallout 76",
-    "search": "Fallout 76",
+    "search": "Fallout 76: Wastelanders",
     "gameplayMain": 34,
     "gameplayMainExtra": 94.5,
     "gameplayCompletionist": 193,
-    "imageUrl": "https://howlongtobeat.com/games/57416_Fallout_76.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/57416_Fallout_76.jpg",
+    "releaseDate": "Nov 2018"
   },
   {
     "id": "3351",
@@ -879,16 +1006,8 @@
     "gameplayMain": 27.5,
     "gameplayMainExtra": 59.5,
     "gameplayCompletionist": 129,
-    "imageUrl": "https://howlongtobeat.com/games/Fallout_New_Vegas.jpg"
-  },
-  {
-    "id": "40668",
-    "name": "Farming Simulator 17",
-    "search": "Farming Simulator 17",
-    "gameplayMain": 37,
-    "gameplayMainExtra": 150,
-    "gameplayCompletionist": 486,
-    "imageUrl": "https://howlongtobeat.com/games/40668_Farming_Simulator_17.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Fallout_New_Vegas.jpg",
+    "releaseDate": "Oct 2010"
   },
   {
     "id": "48468",
@@ -897,7 +1016,8 @@
     "gameplayMain": 5.5,
     "gameplayMainExtra": 7,
     "gameplayCompletionist": 12,
-    "imageUrl": "https://howlongtobeat.com/games/48468_Fe.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/48468_Fe.jpg",
+    "releaseDate": "Feb 2018"
   },
   {
     "id": "3425",
@@ -906,70 +1026,78 @@
     "gameplayMain": 2,
     "gameplayMainExtra": 3.5,
     "gameplayCompletionist": 13,
-    "imageUrl": "https://howlongtobeat.com/games/1331205-feedingfrenzy_box_large.png"
+    "imageUrl": "https://howlongtobeat.com/games/1331205-feedingfrenzy_box_large.png",
+    "releaseDate": "Mar 2006"
   },
   {
     "id": "3426",
     "name": "Feeding Frenzy 2 Shipwreck Showdown",
-    "search": "Feeding Frenzy 2",
+    "search": "Feeding Frenzy 2: Shipwreck Showdown",
     "gameplayMain": 2.5,
     "gameplayMainExtra": 2.5,
     "gameplayCompletionist": 3,
-    "imageUrl": "https://howlongtobeat.com/games/Feedingfrenzy2cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Feedingfrenzy2cover.jpg",
+    "releaseDate": "Feb 2006"
   },
   {
     "id": "3463",
     "name": "Fight Night Champion",
-    "search": "FIGHT NIGHT CHAMPION",
+    "search": "Fight Night: Champion",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 40.5,
-    "imageUrl": "https://howlongtobeat.com/games/Fight_Night_Champion.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Fight_Night_Champion.jpg",
+    "releaseDate": "Mar 2011"
   },
   {
     "id": "3505",
     "name": "Final Fantasy IX",
-    "search": "FINAL FANTASY IX",
+    "search": "Final Fantasy IX",
     "gameplayMain": 39.5,
     "gameplayMainExtra": 54,
     "gameplayCompletionist": 84,
-    "imageUrl": "https://howlongtobeat.com/games/Ffixbox.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Ffixbox.jpg",
+    "releaseDate": "Jul 2000"
   },
   {
     "id": "3521",
     "name": "Final Fantasy VII",
-    "search": "FINAL FANTASY VII",
+    "search": "Final Fantasy VII",
     "gameplayMain": 37.5,
     "gameplayMainExtra": 52,
     "gameplayCompletionist": 84,
-    "imageUrl": "https://howlongtobeat.com/games/Ffviibox.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Ffviibox.jpg",
+    "releaseDate": "Jan 1997"
   },
   {
     "id": "3524",
     "name": "Final Fantasy VIII",
-    "search": "FINAL FANTASY VIII Remastered",
+    "search": "Final Fantasy VIII: Remastered",
     "gameplayMain": 41.5,
     "gameplayMainExtra": 56.5,
     "gameplayCompletionist": 85.5,
-    "imageUrl": "https://howlongtobeat.com/games/Final_Fantasy_8_ntsc-front.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Final_Fantasy_8_ntsc-front.jpg",
+    "releaseDate": "Sep 2019"
   },
   {
-    "id": "53305",
-    "name": "Final Fantasy XV Complete Edition",
-    "search": "FINAL FANTASY XV ROYAL EDITION",
-    "gameplayMain": 25.5,
-    "gameplayMainExtra": 55.5,
-    "gameplayCompletionist": 117,
-    "imageUrl": "https://howlongtobeat.com/games/53305_FINAL_FANTASY_XV_WINDOWS_EDITION.jpg"
+    "id": "3537",
+    "name": "Final Fantasy XV",
+    "search": "Final Fantasy XV",
+    "gameplayMain": 28,
+    "gameplayMainExtra": 53,
+    "gameplayCompletionist": 94,
+    "imageUrl": "https://howlongtobeat.com/games/final-fantasy-15-box-art-280x400.jpg",
+    "releaseDate": "Nov 2016"
   },
   {
     "id": "70306",
     "name": "Fishing Sim World Pro Tour",
-    "search": "Fishing Sim World",
+    "search": "Fishing Sim World: Pro Tour",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/70306_Fishing_Sim_World_Pro_Tour.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/70306_Fishing_Sim_World_Pro_Tour.jpg",
+    "releaseDate": "Sep 2018"
   },
   {
     "id": "20811",
@@ -978,16 +1106,8 @@
     "gameplayMain": 2,
     "gameplayMainExtra": 3,
     "gameplayCompletionist": 6,
-    "imageUrl": "https://howlongtobeat.com/games/FiveNightsatFreddys.jpg"
-  },
-  {
-    "id": "20811",
-    "name": "Five Nights at Freddys",
-    "search": "Five Nights at Freddy's",
-    "gameplayMain": 2,
-    "gameplayMainExtra": 3,
-    "gameplayCompletionist": 6,
-    "imageUrl": "https://howlongtobeat.com/games/FiveNightsatFreddys.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/FiveNightsatFreddys.jpg",
+    "releaseDate": "Aug 2014"
   },
   {
     "id": "22612",
@@ -996,7 +1116,8 @@
     "gameplayMain": 3,
     "gameplayMainExtra": 9.5,
     "gameplayCompletionist": 24,
-    "imageUrl": "https://howlongtobeat.com/games/FiveNightsatFreddys2_header.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/FiveNightsatFreddys2_header.jpg",
+    "releaseDate": "Nov 2014"
   },
   {
     "id": "24456",
@@ -1005,7 +1126,8 @@
     "gameplayMain": 2,
     "gameplayMainExtra": 3.5,
     "gameplayCompletionist": 4.5,
-    "imageUrl": "https://howlongtobeat.com/games/Five_Nights_at_Freddys_3_header.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Five_Nights_at_Freddys_3_header.jpg",
+    "releaseDate": "Mar 2015"
   },
   {
     "id": "28975",
@@ -1014,7 +1136,8 @@
     "gameplayMain": 2.5,
     "gameplayMainExtra": 3,
     "gameplayCompletionist": 4,
-    "imageUrl": "https://howlongtobeat.com/games/Five_Nights_at_Freddys_4_header.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Five_Nights_at_Freddys_4_header.jpg",
+    "releaseDate": "Jul 2015"
   },
   {
     "id": "45024",
@@ -1023,7 +1146,8 @@
     "gameplayMain": 9.5,
     "gameplayMainExtra": 32.5,
     "gameplayCompletionist": 89.5,
-    "imageUrl": "https://howlongtobeat.com/games/45024_For_The_King.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/45024_For_The_King.jpg",
+    "releaseDate": "Feb 2018"
   },
   {
     "id": "62412",
@@ -1032,25 +1156,28 @@
     "gameplayMain": 14,
     "gameplayMainExtra": 20.5,
     "gameplayCompletionist": 27.5,
-    "imageUrl": "https://howlongtobeat.com/games/62412_Forager.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/62412_Forager.jpg",
+    "releaseDate": "Apr 2019"
   },
   {
     "id": "55661",
     "name": "Forza Horizon 4",
-    "search": "Forza Horizon 4 ",
+    "search": "Forza Horizon 4",
     "gameplayMain": 11.5,
     "gameplayMainExtra": 35.5,
     "gameplayCompletionist": 98,
-    "imageUrl": "https://howlongtobeat.com/games/55661_Forza_Horizon_4.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/55661_Forza_Horizon_4.jpg",
+    "releaseDate": "Sep 2018"
   },
   {
     "id": "46400",
     "name": "Forza Motorsport 7",
-    "search": "Forza Motorsport 7 ",
+    "search": "Forza Motorsport 7",
     "gameplayMain": 29.5,
     "gameplayMainExtra": 78.5,
     "gameplayCompletionist": 145,
-    "imageUrl": "https://howlongtobeat.com/games/46400_Forza_Motorsport_7.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/46400_Forza_Motorsport_7.jpg",
+    "releaseDate": "Oct 2017"
   },
   {
     "id": "72380",
@@ -1059,7 +1186,8 @@
     "gameplayMain": 1,
     "gameplayMainExtra": 1,
     "gameplayCompletionist": 1,
-    "imageUrl": "https://howlongtobeat.com/games/72380_Fractured_Minds.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/72380_Fractured_Minds.jpg",
+    "releaseDate": "Nov 2019"
   },
   {
     "id": "41585",
@@ -1068,7 +1196,8 @@
     "gameplayMain": 10,
     "gameplayMainExtra": 20.5,
     "gameplayCompletionist": 44.5,
-    "imageUrl": "https://howlongtobeat.com/games/41585_Frostpunk.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/41585_Frostpunk.jpg",
+    "releaseDate": "Apr 2018"
   },
   {
     "id": "44400",
@@ -1077,7 +1206,8 @@
     "gameplayMain": 4,
     "gameplayMainExtra": 4,
     "gameplayCompletionist": 4.5,
-    "imageUrl": "https://howlongtobeat.com/games/44400_Full_Throttle_Remastered.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/44400_Full_Throttle_Remastered.jpg",
+    "releaseDate": "Apr 2017"
   },
   {
     "id": "3768",
@@ -1086,7 +1216,8 @@
     "gameplayMain": 4,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/Fuzion_Frenzy_Coverart.png"
+    "imageUrl": "https://howlongtobeat.com/games/Fuzion_Frenzy_Coverart.png",
+    "releaseDate": "Nov 2001"
   },
   {
     "id": "67569",
@@ -1095,25 +1226,18 @@
     "gameplayMain": 3,
     "gameplayMainExtra": 4,
     "gameplayCompletionist": 4,
-    "imageUrl": "https://howlongtobeat.com/games/67569_Gato_Roboto.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/67569_Gato_Roboto.jpg",
+    "releaseDate": "May 2019"
   },
   {
     "id": "57422",
     "name": "Gears 5",
-    "search": "Gears 5",
+    "search": "Gears 5: Ultimate Edition",
     "gameplayMain": 10.5,
     "gameplayMainExtra": 14,
     "gameplayCompletionist": 17.5,
-    "imageUrl": "https://howlongtobeat.com/games/57422_Gears_5.jpg"
-  },
-  {
-    "id": "57422",
-    "name": "Gears 5",
-    "search": "Gears 5 ",
-    "gameplayMain": 10.5,
-    "gameplayMainExtra": 14,
-    "gameplayCompletionist": 17.5,
-    "imageUrl": "https://howlongtobeat.com/games/57422_Gears_5.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/57422_Gears_5.jpg",
+    "releaseDate": "Sep 2019"
   },
   {
     "id": "57740",
@@ -1122,7 +1246,8 @@
     "gameplayMain": 23,
     "gameplayMainExtra": 31,
     "gameplayCompletionist": 40.5,
-    "imageUrl": "https://howlongtobeat.com/games/57740_Gears_Tactics.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/57740_Gears_Tactics.jpg",
+    "releaseDate": "Apr 2020"
   },
   {
     "id": "3862",
@@ -1131,7 +1256,8 @@
     "gameplayMain": 9,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 27.5,
-    "imageUrl": "https://howlongtobeat.com/games/256px-Gears_of_War.png"
+    "imageUrl": "https://howlongtobeat.com/games/256px-Gears_of_War.png",
+    "releaseDate": "Nov 2006"
   },
   {
     "id": "3863",
@@ -1140,7 +1266,8 @@
     "gameplayMain": 10,
     "gameplayMainExtra": 12.5,
     "gameplayCompletionist": 60,
-    "imageUrl": "https://howlongtobeat.com/games/256px-Gow2_offbox.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/256px-Gow2_offbox.jpg",
+    "releaseDate": "Nov 2008"
   },
   {
     "id": "3865",
@@ -1149,7 +1276,8 @@
     "gameplayMain": 9.5,
     "gameplayMainExtra": 12.5,
     "gameplayCompletionist": 19,
-    "imageUrl": "https://howlongtobeat.com/games/250px-Gears_of_War_3_box_artwork.png"
+    "imageUrl": "https://howlongtobeat.com/games/250px-Gears_of_War_3_box_artwork.png",
+    "releaseDate": "Sep 2011"
   },
   {
     "id": "26788",
@@ -1158,7 +1286,8 @@
     "gameplayMain": 9,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 14,
-    "imageUrl": "https://howlongtobeat.com/games/Gears_of_War_4.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Gears_of_War_4.jpg",
+    "releaseDate": "Oct 2016"
   },
   {
     "id": "3867",
@@ -1167,7 +1296,8 @@
     "gameplayMain": 7,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 9.5,
-    "imageUrl": "https://howlongtobeat.com/games/Gears_of_War-_Judgment_cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Gears_of_War-_Judgment_cover.jpg",
+    "releaseDate": "Mar 2013"
   },
   {
     "id": "26794",
@@ -1176,16 +1306,18 @@
     "gameplayMain": 9,
     "gameplayMainExtra": 11,
     "gameplayCompletionist": 17.5,
-    "imageUrl": "https://howlongtobeat.com/games/Gears_of_War_Ultimate_Edition.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Gears_of_War_Ultimate_Edition.jpg",
+    "releaseDate": "Nov 2006"
   },
   {
     "id": "84332",
     "name": "GoNNER2",
-    "search": "GONNER2",
+    "search": "GoNNER2",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/84332_GoNNER2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/84332_GoNNER2.jpg",
+    "releaseDate": "Oct 2020"
   },
   {
     "id": "17536",
@@ -1194,7 +1326,8 @@
     "gameplayMain": 2,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 9,
-    "imageUrl": "https://howlongtobeat.com/games/Goat_Simulator.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Goat_Simulator.jpg",
+    "releaseDate": "Apr 2014"
   },
   {
     "id": "34956",
@@ -1203,7 +1336,8 @@
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 16,
-    "imageUrl": "https://howlongtobeat.com/games/34956_Golf_With_Friends.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/34956_Golf_With_Friends.jpg",
+    "releaseDate": "May 2020"
   },
   {
     "id": "62519",
@@ -1212,25 +1346,28 @@
     "gameplayMain": 22,
     "gameplayMainExtra": 40.5,
     "gameplayCompletionist": 50,
-    "imageUrl": "https://howlongtobeat.com/games/62519_Greedfall.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/62519_Greedfall.jpg",
+    "releaseDate": "Sep 2019"
   },
   {
     "id": "23473",
     "name": "Grim Fandango Remastered",
-    "search": "Grim Fandango Remastered",
+    "search": "Grim Fandago Remastered",
     "gameplayMain": 11,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/Grim_Fandango_Remastered_header.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Grim_Fandango_Remastered_header.jpg",
+    "releaseDate": "Jan 2015"
   },
   {
     "id": "77857",
     "name": "Grounded",
-    "search": "Grounded ",
+    "search": "Grounded (Game Preview)",
     "gameplayMain": 6.5,
     "gameplayMainExtra": 13.5,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/77857_Grounded.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/77857_Grounded.jpg",
+    "releaseDate": "Jul 2020"
   },
   {
     "id": "59509",
@@ -1239,7 +1376,8 @@
     "gameplayMain": 8.5,
     "gameplayMainExtra": 11,
     "gameplayCompletionist": 14.5,
-    "imageUrl": "https://howlongtobeat.com/games/59509_Guacamelee_2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/59509_Guacamelee_2.jpg",
+    "releaseDate": "Aug 2018"
   },
   {
     "id": "19267",
@@ -1248,7 +1386,8 @@
     "gameplayMain": 8,
     "gameplayMainExtra": 12.5,
     "gameplayCompletionist": 22.5,
-    "imageUrl": "https://howlongtobeat.com/games/Halo_5_Guardians.png"
+    "imageUrl": "https://howlongtobeat.com/games/Halo_5_Guardians.png",
+    "releaseDate": "Oct 2015"
   },
   {
     "id": "4272",
@@ -1257,7 +1396,8 @@
     "gameplayMain": 4,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 14,
-    "imageUrl": "https://howlongtobeat.com/games/Halo-spartan-assault-boxart.png"
+    "imageUrl": "https://howlongtobeat.com/games/Halo-spartan-assault-boxart.png",
+    "releaseDate": "Jul 2013"
   },
   {
     "id": "22621",
@@ -1266,7 +1406,8 @@
     "gameplayMain": 52.5,
     "gameplayMainExtra": 26.5,
     "gameplayCompletionist": 20,
-    "imageUrl": "https://howlongtobeat.com/games/Halo_Collection.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Halo_Collection.jpg",
+    "releaseDate": "Nov 2014"
   },
   {
     "id": "4267",
@@ -1275,7 +1416,8 @@
     "gameplayMain": 9,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 38.5,
-    "imageUrl": "https://howlongtobeat.com/games/Halo_wars.png"
+    "imageUrl": "https://howlongtobeat.com/games/Halo_wars.png",
+    "releaseDate": "Feb 2009"
   },
   {
     "id": "37985",
@@ -1284,16 +1426,18 @@
     "gameplayMain": 8,
     "gameplayMainExtra": 12.5,
     "gameplayCompletionist": 20.5,
-    "imageUrl": "https://howlongtobeat.com/games/37985_Halo_Wars_2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/37985_Halo_Wars_2.jpg",
+    "releaseDate": "Feb 2017"
   },
   {
     "id": "80569",
     "name": "Haven 2020",
     "search": "Haven",
-    "gameplayMain": 10,
-    "gameplayMainExtra": 12,
-    "gameplayCompletionist": 16.5,
-    "imageUrl": "https://howlongtobeat.com/games/80569_Haven_(2020).jpg"
+    "gameplayMain": 9.5,
+    "gameplayMainExtra": 12.5,
+    "gameplayCompletionist": 17,
+    "imageUrl": "https://howlongtobeat.com/games/80569_Haven_(2020).jpg",
+    "releaseDate": "Dec 2020"
   },
   {
     "id": "4381",
@@ -1302,7 +1446,8 @@
     "gameplayMain": 2,
     "gameplayMainExtra": 2,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/Heavyweaponcover.png"
+    "imageUrl": "https://howlongtobeat.com/games/Heavyweaponcover.png",
+    "releaseDate": "Jan 2007"
   },
   {
     "id": "41638",
@@ -1311,7 +1456,8 @@
     "gameplayMain": 7.5,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 9,
-    "imageUrl": "https://howlongtobeat.com/games/41638_Hellblade_Senuas_Sacrifice.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/41638_Hellblade_Senuas_Sacrifice.jpg",
+    "releaseDate": "Aug 2017"
   },
   {
     "id": "40794",
@@ -1320,7 +1466,8 @@
     "gameplayMain": 9.5,
     "gameplayMainExtra": 17.5,
     "gameplayCompletionist": 21,
-    "imageUrl": "https://howlongtobeat.com/games/40794_Hello_Neighbor.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/40794_Hello_Neighbor.jpg",
+    "releaseDate": "Dec 2017"
   },
   {
     "id": "26286",
@@ -1329,7 +1476,8 @@
     "gameplayMain": 25.5,
     "gameplayMainExtra": 38.5,
     "gameplayCompletionist": 54.5,
-    "imageUrl": "https://howlongtobeat.com/games/Hollow_Knight_collection_branding.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Hollow_Knight_collection_branding.jpg",
+    "releaseDate": "Feb 2017"
   },
   {
     "id": "75537",
@@ -1338,7 +1486,8 @@
     "gameplayMain": 1.5,
     "gameplayMainExtra": 3,
     "gameplayCompletionist": 6,
-    "imageUrl": "https://howlongtobeat.com/games/75537_Hotshot_Racing.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/75537_Hotshot_Racing.jpg",
+    "releaseDate": "Sep 2020"
   },
   {
     "id": "38887",
@@ -1347,7 +1496,8 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 10,
     "gameplayCompletionist": 20.5,
-    "imageUrl": "https://howlongtobeat.com/games/38887_Human_Fall_Flat.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/38887_Human_Fall_Flat.jpg",
+    "releaseDate": "Jul 2016"
   },
   {
     "id": "77188",
@@ -1356,16 +1506,17 @@
     "gameplayMain": 2.5,
     "gameplayMainExtra": 4,
     "gameplayCompletionist": 6.5,
-    "imageUrl": "https://howlongtobeat.com/games/77188_HyperDot.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/77188_HyperDot.jpg",
+    "releaseDate": "Jan 2020"
   },
   {
-    "id": "65593",
-    "name": "Hypnospace Outlaw",
-    "search": "Hypnospace Outlaw",
-    "gameplayMain": 5.5,
-    "gameplayMainExtra": 9,
-    "gameplayCompletionist": 15,
-    "imageUrl": "https://howlongtobeat.com/games/65593_Hypnospace_Outlaw.jpg"
+    "id": null,
+    "name": "Hypospace Outlaw",
+    "search": "Hypospace Outlaw",
+    "gameplayMain": 0,
+    "gameplayMainExtra": 0,
+    "gameplayCompletionist": 0,
+    "imageUrl": null
   },
   {
     "id": "80165",
@@ -1374,7 +1525,8 @@
     "gameplayMain": 17.5,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 18.5,
-    "imageUrl": "https://howlongtobeat.com/games/80165_Ikenfell.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/80165_Ikenfell.jpg",
+    "releaseDate": "Oct 2020"
   },
   {
     "id": "27434",
@@ -1383,7 +1535,8 @@
     "gameplayMain": 18,
     "gameplayMainExtra": 22.5,
     "gameplayCompletionist": 28.5,
-    "imageUrl": "https://howlongtobeat.com/games/27434_Indivisible.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/27434_Indivisible.jpg",
+    "releaseDate": "Oct 2019"
   },
   {
     "id": "56403",
@@ -1392,7 +1545,8 @@
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/56403_It_Lurks_Below.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/56403_It_Lurks_Below.jpg",
+    "releaseDate": "May 2019"
   },
   {
     "id": "21825",
@@ -1401,7 +1555,8 @@
     "gameplayMain": 4.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/Jetpacrefulledcover.png"
+    "imageUrl": "https://howlongtobeat.com/games/Jetpacrefulledcover.png",
+    "releaseDate": "Mar 2007"
   },
   {
     "id": "68368",
@@ -1410,34 +1565,58 @@
     "gameplayMain": 7,
     "gameplayMainExtra": 10.5,
     "gameplayCompletionist": 15.5,
-    "imageUrl": "https://howlongtobeat.com/games/68368_Journey_to_the_Savage_Planet.jpg"
-  },
-  {
-    "id": "4875",
-    "name": "Joy Ride Turbo",
-    "search": "Joy Ride Turbo",
-    "gameplayMain": 2,
-    "gameplayMainExtra": 0,
-    "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/JoyRideTurbo_cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/68368_Journey_to_the_Savage_Planet.jpg",
+    "releaseDate": "Jan 2020"
   },
   {
     "id": "4921",
     "name": "Kameo Elements of Power",
-    "search": "Kameo",
+    "search": "Kameo: Elements of Power",
     "gameplayMain": 9.5,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 14,
-    "imageUrl": "https://howlongtobeat.com/games/Kameocover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Kameocover.jpg",
+    "releaseDate": "Nov 2005"
   },
   {
     "id": "33020",
     "name": "Katana ZERO",
-    "search": "Katana Zero ",
+    "search": "Katana Zero",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 8,
-    "imageUrl": "https://howlongtobeat.com/games/33020_Katana_ZERO.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/33020_Katana_ZERO.jpg",
+    "releaseDate": "Apr 2019"
+  },
+  {
+    "id": "4979",
+    "name": "Killer Instinct 1994",
+    "search": "Killer Instinct Classic",
+    "gameplayMain": 1,
+    "gameplayMainExtra": 2,
+    "gameplayCompletionist": 2.5,
+    "imageUrl": "https://howlongtobeat.com/games/Killer_Instinct_flyer.jpg",
+    "releaseDate": "Oct 1994"
+  },
+  {
+    "id": "43032",
+    "name": "Killer Instinct 2",
+    "search": "Killer Instinct 2 Classic",
+    "gameplayMain": 1,
+    "gameplayMainExtra": 1,
+    "gameplayCompletionist": 17.5,
+    "imageUrl": "https://howlongtobeat.com/games/43032_Killer_Instinct_2_Classic.jpg",
+    "releaseDate": "Nov 2013"
+  },
+  {
+    "id": "14350",
+    "name": "Killer Instinct 2013",
+    "search": "Killer Instinct: Definitive Edition",
+    "gameplayMain": 2,
+    "gameplayMainExtra": 32,
+    "gameplayCompletionist": 458,
+    "imageUrl": "https://howlongtobeat.com/games/Killer_instinct_(2013)_logo.jpg",
+    "releaseDate": "Nov 2013"
   },
   {
     "id": "14350",
@@ -1446,34 +1625,38 @@
     "gameplayMain": 2,
     "gameplayMainExtra": 32,
     "gameplayCompletionist": 458,
-    "imageUrl": "https://howlongtobeat.com/games/Killer_instinct_(2013)_logo.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Killer_instinct_(2013)_logo.jpg",
+    "releaseDate": "Nov 2013"
   },
   {
-    "id": "5037",
-    "name": "Kingdom Hearts",
-    "search": "KINGDOM HEARTS ",
-    "gameplayMain": 28,
-    "gameplayMainExtra": 41.5,
-    "gameplayCompletionist": 62,
-    "imageUrl": "https://howlongtobeat.com/games/Kingdom_Hearts.jpg"
+    "id": "42802",
+    "name": "Kingdom Hearts HD 15 and 25 Remix",
+    "search": "Kingdom Hearts HD I.5 + II.5 ReMix",
+    "gameplayMain": 150,
+    "gameplayMainExtra": 0,
+    "gameplayCompletionist": 0,
+    "imageUrl": "https://howlongtobeat.com/games/42802_Kingdom_Hearts_HD_15_and_25_Remix.jpg",
+    "releaseDate": "Mar 2017"
   },
   {
     "id": "37863",
     "name": "Kingdom Hearts HD 28  Final Chapter Prologue",
-    "search": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
+    "search": "Kingdom Hearts HD II.8 Final Chapter Prologue",
     "gameplayMain": 18,
     "gameplayMainExtra": 28.5,
     "gameplayCompletionist": 63.5,
-    "imageUrl": "https://howlongtobeat.com/games/37863_Kingdom_Hearts_HD_28_-_Final_Chapter_Prologue.png"
+    "imageUrl": "https://howlongtobeat.com/games/37863_Kingdom_Hearts_HD_28_-_Final_Chapter_Prologue.png",
+    "releaseDate": "Jan 2017"
   },
   {
     "id": "13157",
     "name": "Kingdom Hearts III",
-    "search": "KINGDOM HEARTS III",
+    "search": "Kingdom Hearts III",
     "gameplayMain": 28.5,
     "gameplayMainExtra": 39.5,
     "gameplayCompletionist": 63,
-    "imageUrl": "https://howlongtobeat.com/games/Kingdom_Hearts_III.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Kingdom_Hearts_III.jpg",
+    "releaseDate": "Jan 2019"
   },
   {
     "id": "67984",
@@ -1482,7 +1665,8 @@
     "gameplayMain": 7.5,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/67984_Knights_and_bikes.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/67984_Knights_and_bikes.jpg",
+    "releaseDate": "Aug 2019"
   },
   {
     "id": "20888",
@@ -1491,7 +1675,8 @@
     "gameplayMain": 5.5,
     "gameplayMainExtra": 7.5,
     "gameplayCompletionist": 9.5,
-    "imageUrl": "https://howlongtobeat.com/games/20888_Kona.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/20888_Kona.jpg",
+    "releaseDate": "Mar 2016"
   },
   {
     "id": "76093",
@@ -1500,7 +1685,8 @@
     "gameplayMain": 5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 41,
-    "imageUrl": "https://howlongtobeat.com/games/76093_Levelhead.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/76093_Levelhead.jpg",
+    "releaseDate": "Apr 2019"
   },
   {
     "id": "71406",
@@ -1509,7 +1695,8 @@
     "gameplayMain": 5.5,
     "gameplayMainExtra": 14.5,
     "gameplayCompletionist": 35.5,
-    "imageUrl": "https://howlongtobeat.com/games/71406_Lonely_Mountains_Downhill.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/71406_Lonely_Mountains_Downhill.jpg",
+    "releaseDate": "Oct 2019"
   },
   {
     "id": "20752",
@@ -1518,7 +1705,8 @@
     "gameplayMain": 41,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 28,
-    "imageUrl": "https://howlongtobeat.com/games/Madden_15_Cover_Featuring_Richard_Sherman.png"
+    "imageUrl": "https://howlongtobeat.com/games/Madden_15_Cover_Featuring_Richard_Sherman.png",
+    "releaseDate": "Aug 2014"
   },
   {
     "id": "26403",
@@ -1527,7 +1715,8 @@
     "gameplayMain": 43,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 120,
-    "imageUrl": "https://howlongtobeat.com/games/Madden_NFL_16_Cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Madden_NFL_16_Cover.jpg",
+    "releaseDate": "Aug 2015"
   },
   {
     "id": "34667",
@@ -1536,7 +1725,8 @@
     "gameplayMain": 40.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/34667_Madden_NFL_17.jpeg"
+    "imageUrl": "https://howlongtobeat.com/games/34667_Madden_NFL_17.jpeg",
+    "releaseDate": "Aug 2016"
   },
   {
     "id": "46120",
@@ -1545,7 +1735,8 @@
     "gameplayMain": 15.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 3,
-    "imageUrl": "https://howlongtobeat.com/games/46120_Madden_NFL_18.jpeg"
+    "imageUrl": "https://howlongtobeat.com/games/46120_Madden_NFL_18.jpeg",
+    "releaseDate": "Aug 2017"
   },
   {
     "id": "59624",
@@ -1554,7 +1745,8 @@
     "gameplayMain": 12.5,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 10,
-    "imageUrl": "https://howlongtobeat.com/games/59624_Madden_NFL_19.jpeg"
+    "imageUrl": "https://howlongtobeat.com/games/59624_Madden_NFL_19.jpeg",
+    "releaseDate": "Aug 2018"
   },
   {
     "id": "68136",
@@ -1563,7 +1755,8 @@
     "gameplayMain": 49,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/68136_Madden_NFL_20.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/68136_Madden_NFL_20.jpg",
+    "releaseDate": "Jul 2019"
   },
   {
     "id": "12653",
@@ -1572,16 +1765,18 @@
     "gameplayMain": 43,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 30,
-    "imageUrl": "https://howlongtobeat.com/games/Madden_NFL_25_Next-Gen.jpeg"
+    "imageUrl": "https://howlongtobeat.com/games/Madden_NFL_25_Next-Gen.jpeg",
+    "releaseDate": "Aug 2013"
   },
   {
     "id": "44114",
     "name": "Marvel vs Capcom Infinite",
-    "search": "MARVEL VS. CAPCOM: INFINITE",
+    "search": "Marvel vs. Capcom: Infinite",
     "gameplayMain": 3.5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 9.5,
-    "imageUrl": "https://howlongtobeat.com/games/44114_Marvel_vs_Capcom_Infinite.png"
+    "imageUrl": "https://howlongtobeat.com/games/44114_Marvel_vs_Capcom_Infinite.png",
+    "releaseDate": "Sep 2017"
   },
   {
     "id": "5698",
@@ -1590,7 +1785,8 @@
     "gameplayMain": 17,
     "gameplayMainExtra": 28.5,
     "gameplayCompletionist": 44.5,
-    "imageUrl": "https://howlongtobeat.com/games/Mass_Effect_poster.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Mass_Effect_poster.jpg",
+    "releaseDate": "Nov 2007"
   },
   {
     "id": "5698",
@@ -1599,7 +1795,8 @@
     "gameplayMain": 17,
     "gameplayMainExtra": 28.5,
     "gameplayCompletionist": 44.5,
-    "imageUrl": "https://howlongtobeat.com/games/Mass_Effect_poster.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Mass_Effect_poster.jpg",
+    "releaseDate": "Nov 2007"
   },
   {
     "id": "5699",
@@ -1608,7 +1805,8 @@
     "gameplayMain": 24.5,
     "gameplayMainExtra": 35.5,
     "gameplayCompletionist": 50.5,
-    "imageUrl": "https://howlongtobeat.com/games/MassEffect2_cover.PNG"
+    "imageUrl": "https://howlongtobeat.com/games/MassEffect2_cover.PNG",
+    "releaseDate": "Jan 2010"
   },
   {
     "id": "5707",
@@ -1617,7 +1815,18 @@
     "gameplayMain": 24.5,
     "gameplayMainExtra": 35.5,
     "gameplayCompletionist": 50,
-    "imageUrl": "https://howlongtobeat.com/games/ME3cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/ME3cover.jpg",
+    "releaseDate": "Mar 2012"
+  },
+  {
+    "id": "26802",
+    "name": "Mass Effect Andromeda",
+    "search": "Mass Effect: Andromeda",
+    "gameplayMain": 18.5,
+    "gameplayMainExtra": 63.5,
+    "gameplayCompletionist": 94.5,
+    "imageUrl": "https://howlongtobeat.com/games/Mass_Effect_Andromeda_Infobox,_2015.png",
+    "releaseDate": "Mar 2017"
   },
   {
     "id": "15464",
@@ -1626,25 +1835,28 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 7,
     "gameplayCompletionist": 9.5,
-    "imageUrl": "https://howlongtobeat.com/games/250px-Max,_The_Curse_of_Brotherhood_box_art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/250px-Max,_The_Curse_of_Brotherhood_box_art.jpg",
+    "releaseDate": "Dec 2013"
   },
   {
     "id": "5777",
     "name": "Medal of Honor Airborne",
-    "search": "Medal of Honor Airborne",
+    "search": "Medal of Honor: Airborne",
     "gameplayMain": 6,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 11.5,
-    "imageUrl": "https://howlongtobeat.com/games/250px-MoH_Airborne_cover_PC_DVD.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/250px-MoH_Airborne_cover_PC_DVD.jpg",
+    "releaseDate": "Sep 2007"
   },
   {
     "id": "44022",
     "name": "MiddleEarth Shadow of War",
-    "search": "Middle",
+    "search": "Middle-earth: Shadow of War",
     "gameplayMain": 20.5,
     "gameplayMainExtra": 36,
     "gameplayCompletionist": 55.5,
-    "imageUrl": "https://howlongtobeat.com/games/44022_Middle_Earth_Shadow_of_War.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/44022_Middle_Earth_Shadow_of_War.jpg",
+    "releaseDate": "Oct 2017"
   },
   {
     "id": "6064",
@@ -1653,7 +1865,8 @@
     "gameplayMain": 124,
     "gameplayMainExtra": 324,
     "gameplayCompletionist": 232,
-    "imageUrl": "https://howlongtobeat.com/games/256px-Minecraft_1.1_Title.png"
+    "imageUrl": "https://howlongtobeat.com/games/256px-Minecraft_1.1_Title.png",
+    "releaseDate": "Nov 2011"
   },
   {
     "id": "68149",
@@ -1662,7 +1875,8 @@
     "gameplayMain": 5,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 21.5,
-    "imageUrl": "https://howlongtobeat.com/games/68149_Minecraft_Dungeons.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/68149_Minecraft_Dungeons.jpg",
+    "releaseDate": "May 2020"
   },
   {
     "id": "6085",
@@ -1671,16 +1885,18 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 11,
-    "imageUrl": "https://howlongtobeat.com/games/Mirrors_Edge.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Mirrors_Edge.jpg",
+    "releaseDate": "Apr 2010"
   },
   {
     "id": "19181",
     "name": "Mirrors Edge Catalyst",
-    "search": "Mirror's Edge Catalyst",
+    "search": "Mirror's Edge: Catalyst",
     "gameplayMain": 8.5,
     "gameplayMainExtra": 13,
     "gameplayCompletionist": 33.5,
-    "imageUrl": "https://howlongtobeat.com/games/mirrors_edge_2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/mirrors_edge_2.jpg",
+    "releaseDate": "Jun 2016"
   },
   {
     "id": "35555",
@@ -1689,16 +1905,18 @@
     "gameplayMain": 4.5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 9.5,
-    "imageUrl": "https://howlongtobeat.com/games/35555_Momodora_Reverie_Under_the_Moonlight.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/35555_Momodora_Reverie_Under_the_Moonlight.jpg",
+    "releaseDate": "Mar 2016"
   },
   {
-    "id": "6146",
-    "name": "Monster Hunter",
-    "search": "MONSTER HUNTER",
-    "gameplayMain": 49.5,
-    "gameplayMainExtra": 87.5,
-    "gameplayCompletionist": 414,
-    "imageUrl": "https://howlongtobeat.com/games/Monster_Hunter_Coverart.png"
+    "id": "52493",
+    "name": "Monster Hunter World",
+    "search": "Monster Hunter: World",
+    "gameplayMain": 48.5,
+    "gameplayMainExtra": 98,
+    "gameplayCompletionist": 351,
+    "imageUrl": "https://howlongtobeat.com/games/52493_Monster_Hunter_World.jpg",
+    "releaseDate": "Jan 2018"
   },
   {
     "id": "70012",
@@ -1707,7 +1925,8 @@
     "gameplayMain": 27,
     "gameplayMainExtra": 35,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/70012_Monster_Sanctuary.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/70012_Monster_Sanctuary.jpg",
+    "releaseDate": "Aug 2019"
   },
   {
     "id": "56787",
@@ -1716,25 +1935,8 @@
     "gameplayMain": 14,
     "gameplayMainExtra": 20.5,
     "gameplayCompletionist": 25,
-    "imageUrl": "https://howlongtobeat.com/games/56787_Moonlighter.jpg"
-  },
-  {
-    "id": "85965",
-    "name": "Morkredd",
-    "search": "Morkredd",
-    "gameplayMain": 0,
-    "gameplayMainExtra": 0,
-    "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/85965_Morkredd.jpg"
-  },
-  {
-    "id": "21255",
-    "name": "Mortal Kombat X",
-    "search": "Mortal Kombat X",
-    "gameplayMain": 5.5,
-    "gameplayMainExtra": 14.5,
-    "gameplayCompletionist": 53,
-    "imageUrl": "https://howlongtobeat.com/games/Mortal_Kombat_X_Cover_Art.png"
+    "imageUrl": "https://howlongtobeat.com/games/56787_Moonlighter.jpg",
+    "releaseDate": "May 2018"
   },
   {
     "id": "6240",
@@ -1743,7 +1945,8 @@
     "gameplayMain": 119,
     "gameplayMainExtra": 2,
     "gameplayCompletionist": 643,
-    "imageUrl": "https://howlongtobeat.com/games/250px-CoverOfMBWarband.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/250px-CoverOfMBWarband.jpg",
+    "releaseDate": "Mar 2010"
   },
   {
     "id": "75031",
@@ -1752,7 +1955,8 @@
     "gameplayMain": 4.5,
     "gameplayMainExtra": 7.5,
     "gameplayCompletionist": 13,
-    "imageUrl": "https://howlongtobeat.com/games/75031_Moving_Out.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/75031_Moving_Out.jpg",
+    "releaseDate": "Apr 2020"
   },
   {
     "id": "57520",
@@ -1761,25 +1965,57 @@
     "gameplayMain": 4,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 6.5,
-    "imageUrl": "https://howlongtobeat.com/games/57520_My_Friend_Pedro.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/57520_My_Friend_Pedro.jpg",
+    "releaseDate": "Jun 2019"
   },
   {
     "id": "52787",
     "name": "My Time At Portia",
-    "search": "My Time At Portia",
+    "search": "My Time at Portia",
     "gameplayMain": 70,
     "gameplayMainExtra": 97,
     "gameplayCompletionist": 140,
-    "imageUrl": "https://howlongtobeat.com/games/52787_My_Time_At_Portia.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/52787_My_Time_At_Portia.jpg",
+    "releaseDate": "Apr 2019"
+  },
+  {
+    "id": null,
+    "name": "Mørkredd",
+    "search": "Mørkredd",
+    "gameplayMain": 0,
+    "gameplayMainExtra": 0,
+    "gameplayCompletionist": 0,
+    "imageUrl": null
+  },
+  {
+    "id": "22399",
+    "name": "NBA Live 15",
+    "search": "NBA LIVE 15",
+    "gameplayMain": 0,
+    "gameplayMainExtra": 0,
+    "gameplayCompletionist": 0,
+    "imageUrl": "https://howlongtobeat.com/games/NBA_Live_15_cover_art.jpg",
+    "releaseDate": "Oct 2014"
+  },
+  {
+    "id": "34541",
+    "name": "NBA Live 16",
+    "search": "NBA LIVE 16",
+    "gameplayMain": 0,
+    "gameplayMainExtra": 0,
+    "gameplayCompletionist": 0,
+    "imageUrl": "https://howlongtobeat.com/games/34541_NBA_Live_16.jpeg",
+    "releaseDate": "Sep 2015"
   },
   {
     "id": "48823",
     "name": "NBA Live 18",
-    "search": "NBA LIVE 18",
+    "search": "NBA LIVE 18: The One Edition",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/48823_NBA_Live_18.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/48823_NBA_Live_18.jpg",
+    "releaseDate": "Sep 2017"
   },
   {
     "id": "61335",
@@ -1788,25 +2024,38 @@
     "gameplayMain": 27.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/61335_NBA_Live_19.jpeg"
+    "imageUrl": "https://howlongtobeat.com/games/61335_NBA_Live_19.jpeg",
+    "releaseDate": "Sep 2018"
+  },
+  {
+    "id": "40328",
+    "name": "NHL 17",
+    "search": "NHL 17",
+    "gameplayMain": 42,
+    "gameplayMainExtra": 100,
+    "gameplayCompletionist": 0,
+    "imageUrl": "https://howlongtobeat.com/games/40328_NHL_17.jpg",
+    "releaseDate": "Sep 2016"
   },
   {
     "id": "51697",
     "name": "NHL 18",
-    "search": " NHL 18",
+    "search": "NHL 18",
     "gameplayMain": 40,
     "gameplayMainExtra": 22,
     "gameplayCompletionist": 23,
-    "imageUrl": "https://howlongtobeat.com/games/51697_NHL_18.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/51697_NHL_18.jpg",
+    "releaseDate": "Sep 2017"
   },
   {
     "id": "61272",
     "name": "NHL 19",
-    "search": " NHL 19",
+    "search": "NHL 19",
     "gameplayMain": 39.5,
     "gameplayMainExtra": 45,
     "gameplayCompletionist": 50,
-    "imageUrl": "https://howlongtobeat.com/games/61272_NHL_19.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/61272_NHL_19.jpg",
+    "releaseDate": "Sep 2018"
   },
   {
     "id": "70143",
@@ -1815,25 +2064,17 @@
     "gameplayMain": 44.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/70143_NHL_20.jfif"
+    "imageUrl": "https://howlongtobeat.com/games/70143_NHL_20.jfif",
+    "releaseDate": "Sep 2019"
   },
   {
-    "id": "61474",
-    "name": "Naruto to Boruto Shinobi Striker",
-    "search": "NARUTO TO BORUTO: SHINOBI STRIKER",
-    "gameplayMain": 6,
-    "gameplayMainExtra": 15,
-    "gameplayCompletionist": 17.5,
-    "imageUrl": "https://howlongtobeat.com/games/61474_Naruto_to_Boruto_Shinobi_Striker.jpg"
-  },
-  {
-    "id": "69695",
-    "name": "Need For Speed Heat",
-    "search": "Need for Speed Heat",
-    "gameplayMain": 12.5,
-    "gameplayMainExtra": 20.5,
-    "gameplayCompletionist": 42.5,
-    "imageUrl": "https://howlongtobeat.com/games/69695_Need_For_Speed_Heat.jpg"
+    "id": null,
+    "name": "NHL 94 Rewind",
+    "search": "NHL 94 Rewind",
+    "gameplayMain": 0,
+    "gameplayMainExtra": 0,
+    "gameplayCompletionist": 0,
+    "imageUrl": null
   },
   {
     "id": "26804",
@@ -1842,25 +2083,38 @@
     "gameplayMain": 15.5,
     "gameplayMainExtra": 23.5,
     "gameplayCompletionist": 28,
-    "imageUrl": "https://howlongtobeat.com/games/Need_for_Speed_2015.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Need_for_Speed_2015.jpg",
+    "releaseDate": "Nov 2015"
+  },
+  {
+    "id": "26804",
+    "name": "Need for Speed 2015",
+    "search": "Need for Speed: Heat",
+    "gameplayMain": 15.5,
+    "gameplayMainExtra": 23.5,
+    "gameplayCompletionist": 28,
+    "imageUrl": "https://howlongtobeat.com/games/Need_for_Speed_2015.jpg",
+    "releaseDate": "Nov 2019"
   },
   {
     "id": "46292",
     "name": "Need for Speed Payback",
-    "search": "Need for Speed Payback",
+    "search": "Need for Speed: Payback",
     "gameplayMain": 18.5,
     "gameplayMainExtra": 27.5,
     "gameplayCompletionist": 44.5,
-    "imageUrl": "https://howlongtobeat.com/games/46292_Need_for_Speed_Payback.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/46292_Need_for_Speed_Payback.jpg",
+    "releaseDate": "Nov 2017"
   },
   {
     "id": "14334",
     "name": "Need for Speed Rivals",
-    "search": "Need for Speed Rivals",
+    "search": "Need for Speed: Rivals",
     "gameplayMain": 13,
     "gameplayMainExtra": 20.5,
     "gameplayCompletionist": 32.5,
-    "imageUrl": "https://howlongtobeat.com/games/Need_for_Speed_Rivals_cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Need_for_Speed_Rivals_cover.jpg",
+    "releaseDate": "Nov 2013"
   },
   {
     "id": "77366",
@@ -1869,7 +2123,8 @@
     "gameplayMain": 11.5,
     "gameplayMainExtra": 31,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/77366_Neon_Abyss.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/77366_Neon_Abyss.jpg",
+    "releaseDate": "Jul 2020"
   },
   {
     "id": "71552",
@@ -1878,16 +2133,18 @@
     "gameplayMain": 6.5,
     "gameplayMainExtra": 8.5,
     "gameplayCompletionist": 10.5,
-    "imageUrl": "https://howlongtobeat.com/games/71552_New_Super_Luckys_Tale.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/71552_New_Super_Luckys_Tale.jpg",
+    "releaseDate": "Nov 2019"
   },
   {
-    "id": "6591",
-    "name": "Nier",
-    "search": "NieR",
-    "gameplayMain": 20.5,
-    "gameplayMainExtra": 35,
-    "gameplayCompletionist": 68,
-    "imageUrl": "https://howlongtobeat.com/games/250px-NIER.jpg"
+    "id": "38029",
+    "name": "Nier Automata",
+    "search": "NieR Automata: Become as Gods Edition",
+    "gameplayMain": 21,
+    "gameplayMainExtra": 37.5,
+    "gameplayCompletionist": 61.5,
+    "imageUrl": "https://howlongtobeat.com/games/38029_Nier_Automata.jpg",
+    "releaseDate": "Feb 2017"
   },
   {
     "id": "69216",
@@ -1896,7 +2153,8 @@
     "gameplayMain": 4,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 14.5,
-    "imageUrl": "https://howlongtobeat.com/games/69216_Night_Call.jfif"
+    "imageUrl": "https://howlongtobeat.com/games/69216_Night_Call.jfif",
+    "releaseDate": "Jul 2019"
   },
   {
     "id": "20078",
@@ -1905,16 +2163,18 @@
     "gameplayMain": 8.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 24,
-    "imageUrl": "https://howlongtobeat.com/games/Night_in_the_Woods-original.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Night_in_the_Woods-original.jpg",
+    "releaseDate": "Feb 2017"
   },
   {
     "id": "6626",
     "name": "Ninja Gaiden II 2008",
-    "search": "NINJA GAIDEN II",
+    "search": "Ninja Gaiden II",
     "gameplayMain": 14,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 26.5,
-    "imageUrl": "https://howlongtobeat.com/games/Ninja_Gaiden_II360.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Ninja_Gaiden_II360.jpg",
+    "releaseDate": "Jun 2008"
   },
   {
     "id": "20074",
@@ -1923,7 +2183,8 @@
     "gameplayMain": 30.5,
     "gameplayMainExtra": 67,
     "gameplayCompletionist": 95,
-    "imageUrl": "https://howlongtobeat.com/games/No_Mans_Sky_logo.png"
+    "imageUrl": "https://howlongtobeat.com/games/No_Mans_Sky_logo.png",
+    "releaseDate": "Aug 2016"
   },
   {
     "id": "69248",
@@ -1932,7 +2193,8 @@
     "gameplayMain": 10,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/69248_Nowhere_Prophet.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/69248_Nowhere_Prophet.jpg",
+    "releaseDate": "Oct 2017"
   },
   {
     "id": "67287",
@@ -1941,7 +2203,8 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 6.5,
     "gameplayCompletionist": 7,
-    "imageUrl": "https://howlongtobeat.com/games/67287_Observation.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/67287_Observation.jpg",
+    "releaseDate": "May 2019"
   },
   {
     "id": "36755",
@@ -1950,7 +2213,8 @@
     "gameplayMain": 8.5,
     "gameplayMainExtra": 10.5,
     "gameplayCompletionist": 12,
-    "imageUrl": "https://howlongtobeat.com/games/36755_Ori_and_the_Blind_Forest_Definitive_Edition.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/36755_Ori_and_the_Blind_Forest_Definitive_Edition.jpg",
+    "releaseDate": "Mar 2015"
   },
   {
     "id": "46428",
@@ -1959,7 +2223,8 @@
     "gameplayMain": 11,
     "gameplayMainExtra": 14.5,
     "gameplayCompletionist": 17.5,
-    "imageUrl": "https://howlongtobeat.com/games/46428_Ori_and_the_Will_of_the_Wisps.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/46428_Ori_and_the_Will_of_the_Wisps.jpg",
+    "releaseDate": "Mar 2020"
   },
   {
     "id": "57527",
@@ -1968,7 +2233,8 @@
     "gameplayMain": 15.5,
     "gameplayMainExtra": 20,
     "gameplayCompletionist": 22.5,
-    "imageUrl": "https://howlongtobeat.com/games/57527_Outer_Wilds.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/57527_Outer_Wilds.jpg",
+    "releaseDate": "May 2019"
   },
   {
     "id": "57518",
@@ -1976,17 +2242,19 @@
     "search": "Overcooked! 2",
     "gameplayMain": 6.5,
     "gameplayMainExtra": 10.5,
-    "gameplayCompletionist": 14.5,
-    "imageUrl": "https://howlongtobeat.com/games/57518_Overcooked_2.jpeg"
+    "gameplayCompletionist": 14,
+    "imageUrl": "https://howlongtobeat.com/games/57518_Overcooked_2.jpeg",
+    "releaseDate": "Aug 2018"
   },
   {
     "id": "33620",
     "name": "Oxenfree",
-    "search": "Oxenfree",
+    "search": "OXENFREE",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 13,
-    "imageUrl": "https://howlongtobeat.com/games/Oxenfree_header.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Oxenfree_header.jpg",
+    "releaseDate": "Jan 2016"
   },
   {
     "id": "47069",
@@ -1995,25 +2263,18 @@
     "gameplayMain": 1,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 23.5,
-    "imageUrl": "https://howlongtobeat.com/games/47069_Pandemic_The_Board_Game.jpg"
-  },
-  {
-    "id": "51105",
-    "name": "Pathologic 2",
-    "search": "Pathologic 2",
-    "gameplayMain": 28.5,
-    "gameplayMainExtra": 37.5,
-    "gameplayCompletionist": 46.5,
-    "imageUrl": "https://howlongtobeat.com/games/51105_Pathologic_2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/47069_Pandemic_The_Board_Game.jpg",
+    "releaseDate": "Aug 2018"
   },
   {
     "id": "44402",
     "name": "Payday 2 Crimewave Edition",
-    "search": "PAYDAY 2: CRIMEWAVE EDITION",
+    "search": "Payday 2: Crimewave Edition",
     "gameplayMain": 24.5,
     "gameplayMainExtra": 90.5,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/44402_Payday_2_Crimewave_Edition.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/44402_Payday_2_Crimewave_Edition.jpg",
+    "releaseDate": "Aug 2013"
   },
   {
     "id": "15272",
@@ -2022,7 +2283,8 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 12.5,
     "gameplayCompletionist": 40.5,
-    "imageUrl": "https://howlongtobeat.com/games/peggle_2_xbox.png"
+    "imageUrl": "https://howlongtobeat.com/games/peggle_2_xbox.png",
+    "releaseDate": "Sep 2013"
   },
   {
     "id": "6947",
@@ -2031,7 +2293,8 @@
     "gameplayMain": 4,
     "gameplayMainExtra": 11,
     "gameplayCompletionist": 33,
-    "imageUrl": "https://howlongtobeat.com/games/250px-Peggle_Steam.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/250px-Peggle_Steam.jpg",
+    "releaseDate": "Apr 2007"
   },
   {
     "id": "6966",
@@ -2040,7 +2303,8 @@
     "gameplayMain": 9,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 37,
-    "imageUrl": "https://howlongtobeat.com/games/250px-Perfect_dark_box.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/250px-Perfect_dark_box.jpg",
+    "releaseDate": "Aug 2000"
   },
   {
     "id": "6967",
@@ -2049,7 +2313,8 @@
     "gameplayMain": 8,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 20,
-    "imageUrl": "https://howlongtobeat.com/games/250px-Perfect_Dark_Zero_Coverart.png"
+    "imageUrl": "https://howlongtobeat.com/games/250px-Perfect_Dark_Zero_Coverart.png",
+    "releaseDate": "Jun 2006"
   },
   {
     "id": "85738",
@@ -2058,7 +2323,8 @@
     "gameplayMain": 0,
     "gameplayMainExtra": 7,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/85738_Phogs.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/85738_Phogs.jpg",
+    "releaseDate": "Dec 2020"
   },
   {
     "id": "64060",
@@ -2067,7 +2333,8 @@
     "gameplayMain": 3,
     "gameplayMainExtra": 3.5,
     "gameplayCompletionist": 5,
-    "imageUrl": "https://howlongtobeat.com/games/64060_Pikuniku.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/64060_Pikuniku.jpg",
+    "releaseDate": "Jan 2019"
   },
   {
     "id": "71293",
@@ -2076,7 +2343,8 @@
     "gameplayMain": 36,
     "gameplayMainExtra": 63.5,
     "gameplayCompletionist": 104,
-    "imageUrl": "https://howlongtobeat.com/games/71293_Pillars_of_Eternity_-_Complete_Edition.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/71293_Pillars_of_Eternity_-_Complete_Edition.jpg",
+    "releaseDate": "Mar 2015"
   },
   {
     "id": "40413",
@@ -2085,7 +2353,8 @@
     "gameplayMain": 22,
     "gameplayMainExtra": 42,
     "gameplayCompletionist": 83.5,
-    "imageUrl": "https://howlongtobeat.com/games/40413_Planet_Coaster.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/40413_Planet_Coaster.jpg",
+    "releaseDate": "Nov 2016"
   },
   {
     "id": "7106",
@@ -2094,43 +2363,48 @@
     "gameplayMain": 8,
     "gameplayMainExtra": 20,
     "gameplayCompletionist": 46.5,
-    "imageUrl": "https://howlongtobeat.com/games/250px-PlantsVsZombiesCover400ppx.png"
+    "imageUrl": "https://howlongtobeat.com/games/250px-PlantsVsZombiesCover400ppx.png",
+    "releaseDate": "May 2009"
   },
   {
-    "id": "7106",
-    "name": "Plants vs Zombies",
-    "search": "Plants vs. Zombies",
-    "gameplayMain": 8,
-    "gameplayMainExtra": 20,
-    "gameplayCompletionist": 46.5,
-    "imageUrl": "https://howlongtobeat.com/games/250px-PlantsVsZombiesCover400ppx.png"
+    "id": "70153",
+    "name": "Plants vs Zombies Battle for Neighborville",
+    "search": "Plants vs. Zombies: Battle for Neighborville",
+    "gameplayMain": 4.5,
+    "gameplayMainExtra": 10.5,
+    "gameplayCompletionist": 191,
+    "imageUrl": "https://howlongtobeat.com/games/70153_Plants_vs_Zombies_Battle_for_Neighborville.jpg",
+    "releaseDate": "Oct 2019"
+  },
+  {
+    "id": "17076",
+    "name": "Plants vs Zombies Garden Warfare",
+    "search": "Plants vs. Zombies: Garden Warfare",
+    "gameplayMain": 0,
+    "gameplayMainExtra": 67.5,
+    "gameplayCompletionist": 107,
+    "imageUrl": "https://howlongtobeat.com/games/Plants_vs._zombies_Garden_Warfare_cover.jpg",
+    "releaseDate": "Feb 2014"
   },
   {
     "id": "33632",
     "name": "Plants vs Zombies Garden Warfare 2",
-    "search": "Plants vs. Zombies Garden Warfare",
+    "search": "Plants vs. Zombies: Garden Warfare 2",
     "gameplayMain": 12.5,
     "gameplayMainExtra": 10,
     "gameplayCompletionist": 121,
-    "imageUrl": "https://howlongtobeat.com/games/PvZ_Garden_Warfare_2.jpg"
-  },
-  {
-    "id": "33632",
-    "name": "Plants vs Zombies Garden Warfare 2",
-    "search": "Plants vs. Zombies Garden Warfare 2",
-    "gameplayMain": 12.5,
-    "gameplayMainExtra": 10,
-    "gameplayCompletionist": 121,
-    "imageUrl": "https://howlongtobeat.com/games/PvZ_Garden_Warfare_2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/PvZ_Garden_Warfare_2.jpg",
+    "releaseDate": "Feb 2016"
   },
   {
     "id": "44704",
     "name": "PlayerUnknowns Battlegrounds",
-    "search": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+    "search": "PlayerUnknown's Battlegrounds",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 105,
-    "imageUrl": "https://howlongtobeat.com/games/44704_PlayerUnknowns_Battlegrounds.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/44704_PlayerUnknowns_Battlegrounds.jpg",
+    "releaseDate": "Mar 2017"
   },
   {
     "id": "65929",
@@ -2139,7 +2413,8 @@
     "gameplayMain": 2.5,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/65929_Power_Rangers_Battle_for_the_Grid.jpeg"
+    "imageUrl": "https://howlongtobeat.com/games/65929_Power_Rangers_Battle_for_the_Grid.jpeg",
+    "releaseDate": "Mar 2019"
   },
   {
     "id": "19853",
@@ -2148,16 +2423,8 @@
     "gameplayMain": 10,
     "gameplayMainExtra": 13,
     "gameplayCompletionist": 18.5,
-    "imageUrl": "https://howlongtobeat.com/games/Quantum_Break_cover.jpg"
-  },
-  {
-    "id": "8029",
-    "name": "RUSH",
-    "search": "Rush",
-    "gameplayMain": 3,
-    "gameplayMainExtra": 7,
-    "gameplayCompletionist": 8,
-    "imageUrl": "https://howlongtobeat.com/games/RUSH_292x136.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Quantum_Break_cover.jpg",
+    "releaseDate": "Apr 2016"
   },
   {
     "id": "58031",
@@ -2166,7 +2433,8 @@
     "gameplayMain": 10,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 29.5,
-    "imageUrl": "https://howlongtobeat.com/games/58031_Rage_2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/58031_Rage_2.jpg",
+    "releaseDate": "May 2019"
   },
   {
     "id": "26800",
@@ -2175,16 +2443,18 @@
     "gameplayMain": 44,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/Rare_replay.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Rare_replay.jpg",
+    "releaseDate": "Aug 2015"
   },
   {
     "id": "26789",
     "name": "ReCore",
-    "search": "ReCore",
+    "search": "ReCore: Definitive Edition",
     "gameplayMain": 12,
     "gameplayMainExtra": 19,
     "gameplayCompletionist": 37,
-    "imageUrl": "https://howlongtobeat.com/games/26789_ReCore.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/26789_ReCore.jpg",
+    "releaseDate": "Sep 2016"
   },
   {
     "id": "68318",
@@ -2193,16 +2463,18 @@
     "gameplayMain": 13.5,
     "gameplayMainExtra": 19,
     "gameplayCompletionist": 52,
-    "imageUrl": "https://howlongtobeat.com/games/68318_Remnant_From_the_Ashes.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/68318_Remnant_From_the_Ashes.jpg",
+    "releaseDate": "Aug 2019"
   },
   {
     "id": "38051",
     "name": "Resident Evil 7 Biohazard",
-    "search": "RESIDENT EVIL 7 biohazard",
+    "search": "Resident Evil 7: Biohazard",
     "gameplayMain": 9.5,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 22,
-    "imageUrl": "https://howlongtobeat.com/games/38051_Resident_Evil_VII.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/38051_Resident_Evil_VII.jpg",
+    "releaseDate": "Jan 2017"
   },
   {
     "id": "69993",
@@ -2211,7 +2483,8 @@
     "gameplayMain": 7,
     "gameplayMainExtra": 8.5,
     "gameplayCompletionist": 15,
-    "imageUrl": "https://howlongtobeat.com/games/69993_River_City_Girls.jfif"
+    "imageUrl": "https://howlongtobeat.com/games/69993_River_City_Girls.jfif",
+    "releaseDate": "Sep 2019"
   },
   {
     "id": "80744",
@@ -2220,16 +2493,28 @@
     "gameplayMain": 3,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/80744_Rocket_Arena.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/80744_Rocket_Arena.jpg",
+    "releaseDate": "Jul 2020"
   },
   {
     "id": "33391",
     "name": "Rory McIlroy PGA Tour",
-    "search": " Rory McIlroy PGA TOUR",
+    "search": "Rory McIlroy PGA Tour",
     "gameplayMain": 40,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/33391_Rory_McIlroy_PGA_Tour.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/33391_Rory_McIlroy_PGA_Tour.jpg",
+    "releaseDate": "Jul 2015"
+  },
+  {
+    "id": "24808",
+    "name": "Rush A Disney Pixar Adventure",
+    "search": "Rush: A Disney Pixar Adventure",
+    "gameplayMain": 3,
+    "gameplayMainExtra": 5.5,
+    "gameplayCompletionist": 7,
+    "imageUrl": "https://howlongtobeat.com/games/Kinect-rush-snapshot.jpg",
+    "releaseDate": "Mar 2012"
   },
   {
     "id": "14345",
@@ -2238,7 +2523,8 @@
     "gameplayMain": 6.5,
     "gameplayMainExtra": 8.5,
     "gameplayCompletionist": 19,
-    "imageUrl": "https://howlongtobeat.com/games/Ryse_box_art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Ryse_box_art.jpg",
+    "releaseDate": "Nov 2013"
   },
   {
     "id": "9016",
@@ -2247,16 +2533,18 @@
     "gameplayMain": 11.5,
     "gameplayMainExtra": 15.5,
     "gameplayCompletionist": 24,
-    "imageUrl": "https://howlongtobeat.com/games/256px-SSX_box_art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/256px-SSX_box_art.jpg",
+    "releaseDate": "Feb 2012"
   },
   {
     "id": "51504",
     "name": "SUPERHOT MIND CONTROL DELETE",
-    "search": "SUPERHOT: MIND CONTROL DELETE",
+    "search": "Superhot: Mind Control Delete",
     "gameplayMain": 6,
     "gameplayMainExtra": 10.5,
     "gameplayCompletionist": 13.5,
-    "imageUrl": "https://howlongtobeat.com/games/51504_SUPERHOT_MIND_CONTROL_DELETE.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/51504_SUPERHOT_MIND_CONTROL_DELETE.jpg",
+    "releaseDate": "Jul 2020"
   },
   {
     "id": "68579",
@@ -2265,7 +2553,8 @@
     "gameplayMain": 6.5,
     "gameplayMainExtra": 11,
     "gameplayCompletionist": 16,
-    "imageUrl": "https://howlongtobeat.com/games/68579_ScourgeBringer.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/68579_ScourgeBringer.jpg",
+    "releaseDate": "Oct 2020"
   },
   {
     "id": "21715",
@@ -2274,7 +2563,8 @@
     "gameplayMain": 9,
     "gameplayMainExtra": 14,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/Screamride_cover_art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Screamride_cover_art.jpg",
+    "releaseDate": "Mar 2015"
   },
   {
     "id": "72036",
@@ -2283,7 +2573,8 @@
     "gameplayMain": 4.5,
     "gameplayMainExtra": 4.5,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/72036_Sea_Salt.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/72036_Sea_Salt.jpg",
+    "releaseDate": "Oct 2019"
   },
   {
     "id": "25029",
@@ -2292,7 +2583,8 @@
     "gameplayMain": 3,
     "gameplayMainExtra": 4,
     "gameplayCompletionist": 5,
-    "imageUrl": "https://howlongtobeat.com/games/25029_Sea_of_Solitude.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/25029_Sea_of_Solitude.jpg",
+    "releaseDate": "Jul 2019"
   },
   {
     "id": "38053",
@@ -2301,7 +2593,8 @@
     "gameplayMain": 123,
     "gameplayMainExtra": 30.5,
     "gameplayCompletionist": 40.5,
-    "imageUrl": "https://howlongtobeat.com/games/38053_Sea_of_Thieves.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/38053_Sea_of_Thieves.jpg",
+    "releaseDate": "Mar 2018"
   },
   {
     "id": "69815",
@@ -2310,7 +2603,8 @@
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 3,
-    "imageUrl": "https://howlongtobeat.com/games/69815_Secret_Neighbor.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/69815_Secret_Neighbor.jpg",
+    "releaseDate": "Oct 2019"
   },
   {
     "id": "39740",
@@ -2319,7 +2613,8 @@
     "gameplayMain": 8,
     "gameplayMainExtra": 15.5,
     "gameplayCompletionist": 22.5,
-    "imageUrl": "https://howlongtobeat.com/games/39740_Shadow_Warrior_2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/39740_Shadow_Warrior_2.jpg",
+    "releaseDate": "Oct 2016"
   },
   {
     "id": "8368",
@@ -2328,7 +2623,8 @@
     "gameplayMain": 8.5,
     "gameplayMainExtra": 10,
     "gameplayCompletionist": 19.5,
-    "imageUrl": "https://howlongtobeat.com/games/ShadowsOfTheDamned.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/ShadowsOfTheDamned.jpg",
+    "releaseDate": "Jun 2011"
   },
   {
     "id": "8599",
@@ -2337,16 +2633,18 @@
     "gameplayMain": 9,
     "gameplayMainExtra": 26,
     "gameplayCompletionist": 38,
-    "imageUrl": "https://howlongtobeat.com/games/256px-Skate-3-Boxart.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/256px-Skate-3-Boxart.jpg",
+    "releaseDate": "May 2010"
   },
   {
     "id": "51390",
     "name": "Slay the Spire",
-    "search": "Slay The Spire",
+    "search": "Slay the Spire",
     "gameplayMain": 11,
     "gameplayMainExtra": 42.5,
     "gameplayCompletionist": 231,
-    "imageUrl": "https://howlongtobeat.com/games/51390_Slay_the_Spire.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/51390_Slay_the_Spire.jpg",
+    "releaseDate": "Nov 2017"
   },
   {
     "id": "33740",
@@ -2355,7 +2653,8 @@
     "gameplayMain": 15,
     "gameplayMainExtra": 22.5,
     "gameplayCompletionist": 42,
-    "imageUrl": "https://howlongtobeat.com/games/33740_Slime_Rancher.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/33740_Slime_Rancher.jpg",
+    "releaseDate": "Aug 2017"
   },
   {
     "id": "40715",
@@ -2364,25 +2663,18 @@
     "gameplayMain": 10,
     "gameplayMainExtra": 16,
     "gameplayCompletionist": 32.5,
-    "imageUrl": "https://howlongtobeat.com/games/40715_Sniper_Elite_4.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/40715_Sniper_Elite_4.jpg",
+    "releaseDate": "Feb 2017"
   },
   {
     "id": "60106",
     "name": "Soulcalibur VI",
-    "search": "SOULCALIBUR VI",
+    "search": "SoulCalibur VI",
     "gameplayMain": 7.5,
     "gameplayMainExtra": 19,
     "gameplayCompletionist": 33,
-    "imageUrl": "https://howlongtobeat.com/games/60106_Soulcalibur_vi.jpeg"
-  },
-  {
-    "id": "50209",
-    "name": "Spintires MudRunner",
-    "search": "MudRunner",
-    "gameplayMain": 17.5,
-    "gameplayMainExtra": 22,
-    "gameplayCompletionist": 37,
-    "imageUrl": "https://howlongtobeat.com/games/50209_Spintires_MudRunner.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/60106_Soulcalibur_vi.jpeg",
+    "releaseDate": "Oct 2018"
   },
   {
     "id": "68189",
@@ -2391,7 +2683,8 @@
     "gameplayMain": 22.5,
     "gameplayMainExtra": 29,
     "gameplayCompletionist": 35,
-    "imageUrl": "https://howlongtobeat.com/games/68189_Spiritfarer.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/68189_Spiritfarer.jpg",
+    "releaseDate": "Aug 2020"
   },
   {
     "id": "71955",
@@ -2400,52 +2693,58 @@
     "gameplayMain": 10.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/71955_Star_Renegades.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/71955_Star_Renegades.jpg",
+    "releaseDate": "Sep 2020"
   },
   {
     "id": "45153",
     "name": "Star Wars Battlefront II 2017",
-    "search": "STAR WARS Battlefront",
+    "search": "Star Wars Battlefront",
     "gameplayMain": 6,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 52,
-    "imageUrl": "https://howlongtobeat.com/games/45153_Star_Wars_Battlefront_II_(2017).jpeg"
+    "imageUrl": "https://howlongtobeat.com/games/45153_Star_Wars_Battlefront_II_(2017).jpeg",
+    "releaseDate": "Nov 2015"
   },
   {
     "id": "45153",
     "name": "Star Wars Battlefront II 2017",
-    "search": "STAR WARS Battlefront II",
+    "search": "Star Wars Battlefront II",
     "gameplayMain": 6,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 52,
-    "imageUrl": "https://howlongtobeat.com/games/45153_Star_Wars_Battlefront_II_(2017).jpeg"
+    "imageUrl": "https://howlongtobeat.com/games/45153_Star_Wars_Battlefront_II_(2017).jpeg",
+    "releaseDate": "Nov 2017"
   },
   {
     "id": "60145",
     "name": "Star Wars Jedi Fallen Order",
-    "search": "STAR WARS Jedi",
+    "search": "Star Wars Jedi: Fallen Order",
     "gameplayMain": 16.5,
     "gameplayMainExtra": 21.5,
     "gameplayCompletionist": 30.5,
-    "imageUrl": "https://howlongtobeat.com/games/60145_Star_Wars_Jedi_Fallen_Order.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/60145_Star_Wars_Jedi_Fallen_Order.jpg",
+    "releaseDate": "Nov 2019"
+  },
+  {
+    "id": "9184",
+    "name": "State of Decay",
+    "search": "State of Decay: Year One Survival Edition",
+    "gameplayMain": 15.5,
+    "gameplayMainExtra": 21.5,
+    "gameplayCompletionist": 34.5,
+    "imageUrl": "https://howlongtobeat.com/games/State_of_decay_logo.jpg",
+    "releaseDate": "Apr 2015"
   },
   {
     "id": "46403",
     "name": "State of Decay 2",
-    "search": "State of Decay 2",
+    "search": "State of Decay 2: Juggernaut Edition",
     "gameplayMain": 17,
     "gameplayMainExtra": 29.5,
     "gameplayCompletionist": 70.5,
-    "imageUrl": "https://howlongtobeat.com/games/46403_State_of_Decay_2.jpg"
-  },
-  {
-    "id": "28182",
-    "name": "State of Decay YearOne",
-    "search": "State of Decay: Year-One",
-    "gameplayMain": 17.5,
-    "gameplayMainExtra": 23,
-    "gameplayCompletionist": 83,
-    "imageUrl": "https://howlongtobeat.com/games/State_of_Decay_Year-One_header.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/46403_State_of_Decay_2.jpg",
+    "releaseDate": "May 2018"
   },
   {
     "id": "37186",
@@ -2454,7 +2753,8 @@
     "gameplayMain": 20.5,
     "gameplayMainExtra": 46.5,
     "gameplayCompletionist": 62.5,
-    "imageUrl": "https://howlongtobeat.com/games/37186_Stellaris.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/37186_Stellaris.jpg",
+    "releaseDate": "May 2016"
   },
   {
     "id": "68766",
@@ -2463,7 +2763,8 @@
     "gameplayMain": 8.5,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 13,
-    "imageUrl": "https://howlongtobeat.com/games/68766_Stranger_Things_3_The_Game.png"
+    "imageUrl": "https://howlongtobeat.com/games/68766_Stranger_Things_3_The_Game.png",
+    "releaseDate": "Jul 2019"
   },
   {
     "id": "76482",
@@ -2472,7 +2773,8 @@
     "gameplayMain": 3,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 21.5,
-    "imageUrl": "https://howlongtobeat.com/games/76482_Streets_of_Rage_4.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/76482_Streets_of_Rage_4.jpg",
+    "releaseDate": "Apr 2020"
   },
   {
     "id": "44813",
@@ -2481,7 +2783,8 @@
     "gameplayMain": 10.5,
     "gameplayMainExtra": 21.5,
     "gameplayCompletionist": 34,
-    "imageUrl": "https://howlongtobeat.com/games/44813_Streets_of_Rogue.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/44813_Streets_of_Rogue.jpg",
+    "releaseDate": "Jul 2019"
   },
   {
     "id": "23740",
@@ -2490,7 +2793,8 @@
     "gameplayMain": 28,
     "gameplayMainExtra": 44.5,
     "gameplayCompletionist": 58,
-    "imageUrl": "https://howlongtobeat.com/games/Subnautica_header.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Subnautica_header.jpg",
+    "releaseDate": "Jan 2018"
   },
   {
     "id": "21278",
@@ -2499,7 +2803,8 @@
     "gameplayMain": 10,
     "gameplayMainExtra": 18.5,
     "gameplayCompletionist": 34,
-    "imageUrl": "https://howlongtobeat.com/games/Sunset_Overdrive_cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Sunset_Overdrive_cover.jpg",
+    "releaseDate": "Oct 2014"
   },
   {
     "id": "46426",
@@ -2508,7 +2813,8 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 11,
-    "imageUrl": "https://howlongtobeat.com/games/46426_Super_Luckys_Tale.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/46426_Super_Luckys_Tale.jpg",
+    "releaseDate": "Nov 2017"
   },
   {
     "id": "62224",
@@ -2517,7 +2823,8 @@
     "gameplayMain": 13,
     "gameplayMainExtra": 17,
     "gameplayCompletionist": 23,
-    "imageUrl": "https://howlongtobeat.com/games/62224_Supraland.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/62224_Supraland.jpg",
+    "releaseDate": "Apr 2019"
   },
   {
     "id": "45951",
@@ -2526,34 +2833,38 @@
     "gameplayMain": 18.5,
     "gameplayMainExtra": 39.5,
     "gameplayCompletionist": 129,
-    "imageUrl": "https://howlongtobeat.com/games/45951_Surviving_Mars.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/45951_Surviving_Mars.jpg",
+    "releaseDate": "Mar 2018"
   },
   {
     "id": "53186",
     "name": "Sword Art Online Fatal Bullet",
-    "search": "SWORD ART ONLINE: FATAL BULLET",
+    "search": "Sword Art Online: Fatal Bullet",
     "gameplayMain": 26,
     "gameplayMainExtra": 46,
     "gameplayCompletionist": 150,
-    "imageUrl": "https://howlongtobeat.com/games/53186_SWORD_ART_ONLINE_FATAL_BULLET.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/53186_SWORD_ART_ONLINE_FATAL_BULLET.jpg",
+    "releaseDate": "Feb 2018"
   },
   {
-    "id": "9608",
-    "name": "Tales of Vesperia",
-    "search": "Tales of Vesperia",
-    "gameplayMain": 50.5,
-    "gameplayMainExtra": 73,
-    "gameplayCompletionist": 171,
-    "imageUrl": "https://howlongtobeat.com/games/256px-ToV_Cover.jpg"
+    "id": "64159",
+    "name": "Tales of Vesperia Definitive Edition",
+    "search": "Tales of Vesperia: Definitive Edition",
+    "gameplayMain": 46.5,
+    "gameplayMainExtra": 68.5,
+    "gameplayCompletionist": 124,
+    "imageUrl": "https://howlongtobeat.com/games/64159_Tales_of_Vesperia_Definitive_Edition.jpg",
+    "releaseDate": "Jan 2019"
   },
   {
     "id": "46226",
     "name": "Tekken 7",
-    "search": "TEKKEN 7",
+    "search": "Tekken 7",
     "gameplayMain": 3.5,
     "gameplayMainExtra": 7,
     "gameplayCompletionist": 15.5,
-    "imageUrl": "https://howlongtobeat.com/games/46226_Tekken_7.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/46226_Tekken_7.jpg",
+    "releaseDate": "Mar 2015"
   },
   {
     "id": "71968",
@@ -2562,7 +2873,8 @@
     "gameplayMain": 9,
     "gameplayMainExtra": 11,
     "gameplayCompletionist": 13,
-    "imageUrl": "https://howlongtobeat.com/games/71968_Tell_me_why.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/71968_Tell_me_why.jpg",
+    "releaseDate": "Aug 2020"
   },
   {
     "id": "9705",
@@ -2571,25 +2883,28 @@
     "gameplayMain": 92,
     "gameplayMainExtra": 73,
     "gameplayCompletionist": 30,
-    "imageUrl": "https://howlongtobeat.com/games/Terraria_292x136.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Terraria_292x136.jpg",
+    "releaseDate": "May 2011"
   },
   {
-    "id": "57523",
-    "name": "Tetris Effect",
-    "search": "Tetris Effect",
+    "id": "84923",
+    "name": "Tetris Effect Connected",
+    "search": "Tetris Effect: Connected",
     "gameplayMain": 2.5,
-    "gameplayMainExtra": 9.5,
-    "gameplayCompletionist": 33,
-    "imageUrl": "https://howlongtobeat.com/games/57523_Tetris_Effect.png"
+    "gameplayMainExtra": 5,
+    "gameplayCompletionist": 9.5,
+    "imageUrl": "https://howlongtobeat.com/games/84923_Tetris_Effect_Connected.jpg",
+    "releaseDate": "Nov 2020"
   },
   {
     "id": "9772",
     "name": "The Bards Tale 2004",
-    "search": "The Bard's Tale ARPG : Remastered and Resnarkled",
+    "search": "The Bard's Tale ARPG: Remastered and Resnarkled",
     "gameplayMain": 14,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 31,
-    "imageUrl": "https://howlongtobeat.com/games/Bardstalebox.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Bardstalebox.jpg",
+    "releaseDate": "Jun 2020"
   },
   {
     "id": "69339",
@@ -2598,7 +2913,8 @@
     "gameplayMain": 44.5,
     "gameplayMainExtra": 60.5,
     "gameplayCompletionist": 81.5,
-    "imageUrl": "https://howlongtobeat.com/games/69339_The_Bards_Tale_IV_Directors_Cut.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/69339_The_Bards_Tale_IV_Directors_Cut.jpg",
+    "releaseDate": "Sep 2018"
   },
   {
     "id": "59950",
@@ -2607,7 +2923,18 @@
     "gameplayMain": 24,
     "gameplayMainExtra": 49,
     "gameplayCompletionist": 129,
-    "imageUrl": "https://howlongtobeat.com/games/59950_The_Bards_Tale_Trilogy.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/59950_The_Bards_Tale_Trilogy.jpg",
+    "releaseDate": "Aug 2018"
+  },
+  {
+    "id": "59950",
+    "name": "The Bards Tale Trilogy",
+    "search": "The Bard's Tale Trilogy",
+    "gameplayMain": 24,
+    "gameplayMainExtra": 49,
+    "gameplayCompletionist": 129,
+    "imageUrl": "https://howlongtobeat.com/games/59950_The_Bards_Tale_Trilogy.jpg",
+    "releaseDate": "Aug 2018"
   },
   {
     "id": "69525",
@@ -2616,7 +2943,8 @@
     "gameplayMain": 18.5,
     "gameplayMainExtra": 23,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/69525_The_Dark_Crystal_Age_of_Resistance_Tactics.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/69525_The_Dark_Crystal_Age_of_Resistance_Tactics.jpg",
+    "releaseDate": "Feb 2020"
   },
   {
     "id": "67361",
@@ -2625,16 +2953,18 @@
     "gameplayMain": 4,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 9.5,
-    "imageUrl": "https://howlongtobeat.com/games/67361_Man_of_Medan.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/67361_Man_of_Medan.jpg",
+    "releaseDate": "Aug 2019"
   },
   {
     "id": "17596",
     "name": "The Elder Scrolls Online",
-    "search": "The Elder Scrolls Online",
+    "search": "The Elder Scrolls Online: Tamriel Unlimited",
     "gameplayMain": 85,
     "gameplayMainExtra": 206,
     "gameplayCompletionist": 32,
-    "imageUrl": "https://howlongtobeat.com/games/The_Elder_scrolls_online_logo.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/The_Elder_scrolls_online_logo.jpg",
+    "releaseDate": "Apr 2014"
   },
   {
     "id": "56088",
@@ -2643,7 +2973,8 @@
     "gameplayMain": 2.5,
     "gameplayMainExtra": 2.5,
     "gameplayCompletionist": 2.5,
-    "imageUrl": "https://howlongtobeat.com/games/56088_The_Gardens_Between.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/56088_The_Gardens_Between.jpg",
+    "releaseDate": "Sep 2018"
   },
   {
     "id": "43633",
@@ -2652,7 +2983,8 @@
     "gameplayMain": 23,
     "gameplayMainExtra": 90,
     "gameplayCompletionist": 130,
-    "imageUrl": "https://howlongtobeat.com/games/43633_theHunter_Call_of_the_Wild.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/43633_theHunter_Call_of_the_Wild.jpg",
+    "releaseDate": "Feb 2017"
   },
   {
     "id": "50275",
@@ -2661,7 +2993,8 @@
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 16,
-    "imageUrl": "https://howlongtobeat.com/games/50275_The_Jackbox_Party_Pack_4.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/50275_The_Jackbox_Party_Pack_4.jpg",
+    "releaseDate": "Oct 2017"
   },
   {
     "id": "21471",
@@ -2670,7 +3003,8 @@
     "gameplayMain": 18.5,
     "gameplayMainExtra": 46.5,
     "gameplayCompletionist": 152,
-    "imageUrl": "https://howlongtobeat.com/games/The_Long_Dark_header.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/The_Long_Dark_header.jpg",
+    "releaseDate": "Aug 2017"
   },
   {
     "id": "60176",
@@ -2679,7 +3013,8 @@
     "gameplayMain": 11,
     "gameplayMainExtra": 14,
     "gameplayCompletionist": 15,
-    "imageUrl": "https://howlongtobeat.com/games/60176_The_Messenger.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/60176_The_Messenger.jpg",
+    "releaseDate": "Aug 2018"
   },
   {
     "id": "62935",
@@ -2688,7 +3023,8 @@
     "gameplayMain": 12.5,
     "gameplayMainExtra": 24,
     "gameplayCompletionist": 35.5,
-    "imageUrl": "https://howlongtobeat.com/games/62935_The_Outer_Worlds.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/62935_The_Outer_Worlds.jpg",
+    "releaseDate": "Oct 2019"
   },
   {
     "id": "20992",
@@ -2697,7 +3033,8 @@
     "gameplayMain": 44,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/The_Sims_4_Box_Art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/The_Sims_4_Box_Art.jpg",
+    "releaseDate": "Sep 2014"
   },
   {
     "id": "67880",
@@ -2706,7 +3043,8 @@
     "gameplayMain": 22.5,
     "gameplayMainExtra": 25.5,
     "gameplayCompletionist": 37.5,
-    "imageUrl": "https://howlongtobeat.com/games/67880_The_Surge_2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/67880_The_Surge_2.jpg",
+    "releaseDate": "Sep 2019"
   },
   {
     "id": "70671",
@@ -2715,70 +3053,48 @@
     "gameplayMain": 5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 6,
-    "imageUrl": "https://howlongtobeat.com/games/70671_The_touryst.jpg"
-  },
-  {
-    "id": "38891",
-    "name": "The Turing Test",
-    "search": "The Turing Test",
-    "gameplayMain": 5,
-    "gameplayMainExtra": 6,
-    "gameplayCompletionist": 6,
-    "imageUrl": "https://howlongtobeat.com/games/38891_the_turing_test.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/70671_The_touryst.jpg",
+    "releaseDate": "Nov 2019"
   },
   {
     "id": "10250",
-    "name": "The Walking Dead  A Telltale Games Series",
-    "search": "The Walking Dead: The Complete First Season",
-    "gameplayMain": 13.5,
+    "name": "The Walking Dead A Telltale Games Series",
+    "search": "The Walking Dead: A Telltale Games Series",
+    "gameplayMain": 14,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/The_Walking_Dead-game-cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/The_Walking_Dead-game-cover.jpg",
+    "releaseDate": "Dec 2017"
   },
   {
-    "id": "66845",
-    "name": "The Walking Dead 2017",
-    "search": "The Walking Dead",
+    "id": "15343",
+    "name": "The Walking Dead: Season 2",
+    "search": "The Walking Dead: Season Two",
     "gameplayMain": 1,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/66845_The_Walking_Dead.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/The_walking_dead_video_game_season_two_promo.jpg",
+    "releaseDate": "Dec 2013"
   },
   {
-    "id": "66845",
-    "name": "The Walking Dead 2017",
-    "search": "The Walking Dead",
-    "gameplayMain": 1,
+    "id": "41484",
+    "name": "The Walking Dead A New Frontier",
+    "search": "The Walking Dead: A New Frontier",
+    "gameplayMain": 8,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/66845_The_Walking_Dead.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/41484_The_Walking_Dead_A_New_Frontier.jpg",
+    "releaseDate": "Dec 2016"
   },
   {
-    "id": "66845",
-    "name": "The Walking Dead 2017",
-    "search": "The Walking Dead",
-    "gameplayMain": 1,
+    "id": "33662",
+    "name": "The Walking Dead Michonne",
+    "search": "The Walking Dead: Michonne",
+    "gameplayMain": 4,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/66845_The_Walking_Dead.jpg"
-  },
-  {
-    "id": "66845",
-    "name": "The Walking Dead 2017",
-    "search": "The Walking Dead",
-    "gameplayMain": 1,
-    "gameplayMainExtra": 0,
-    "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/66845_The_Walking_Dead.jpg"
-  },
-  {
-    "id": "66845",
-    "name": "The Walking Dead 2017",
-    "search": "The Walking Dead",
-    "gameplayMain": 1,
-    "gameplayMainExtra": 0,
-    "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/66845_The_Walking_Dead.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/33662_The_Walking_Dead_Michonne.jpg",
+    "releaseDate": "Feb 2016"
   },
   {
     "id": "10270",
@@ -2787,25 +3103,18 @@
     "gameplayMain": 51.5,
     "gameplayMainExtra": 102,
     "gameplayCompletionist": 173,
-    "imageUrl": "https://howlongtobeat.com/games/10270_The_Witcher_3_Wild_Hunt.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/10270_The_Witcher_3_Wild_Hunt.jpg",
+    "releaseDate": "May 2015"
   },
   {
     "id": "61381",
     "name": "Thronebreaker The Witcher Tales",
     "search": "Thronebreaker: The Witcher Tales",
-    "gameplayMain": 27.5,
+    "gameplayMain": 27,
     "gameplayMainExtra": 35.5,
     "gameplayCompletionist": 42,
-    "imageUrl": "https://howlongtobeat.com/games/61381_Thronebreaker_The_Witcher_Tales.jpg"
-  },
-  {
-    "id": "10330",
-    "name": "Ticket to Ride",
-    "search": "Ticket to Ride",
-    "gameplayMain": 1,
-    "gameplayMainExtra": 2.5,
-    "gameplayCompletionist": 11.5,
-    "imageUrl": "https://howlongtobeat.com/games/Tickettoride_logo.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/61381_Thronebreaker_The_Witcher_Tales.jpg",
+    "releaseDate": "Oct 2018"
   },
   {
     "id": "16621",
@@ -2814,7 +3123,8 @@
     "gameplayMain": 12,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 40,
-    "imageUrl": "https://howlongtobeat.com/games/250px-Titanfall_box_art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/250px-Titanfall_box_art.jpg",
+    "releaseDate": "Mar 2014"
   },
   {
     "id": "38000",
@@ -2823,25 +3133,28 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 14,
-    "imageUrl": "https://howlongtobeat.com/games/38000_Titanfall_2.jpeg"
+    "imageUrl": "https://howlongtobeat.com/games/38000_Titanfall_2.jpeg",
+    "releaseDate": "Oct 2016"
   },
   {
-    "id": "21279",
-    "name": "Tom Clancys Rainbow Six Siege",
-    "search": "Tom Clancy's Rainbow Six Siege ",
-    "gameplayMain": 7.5,
-    "gameplayMainExtra": 91,
-    "gameplayCompletionist": 380,
-    "imageUrl": "https://howlongtobeat.com/games/Rainbow_Six_siege_photo_2014-06-14_17-51.jpg"
+    "id": "10442",
+    "name": "Tom Clancys Rainbow Six",
+    "search": "Tom Clancy's Rainbow Six: Siege - Deluxe Edition",
+    "gameplayMain": 12.5,
+    "gameplayMainExtra": 13,
+    "gameplayCompletionist": 14.5,
+    "imageUrl": "https://howlongtobeat.com/games/250px-Rainbow6originalbox.jpg",
+    "releaseDate": "Dec 2015"
   },
   {
     "id": "52878",
     "name": "Totally Accurate Battle Simulator",
-    "search": "Totally Accurate Battle Simulator ",
+    "search": "Totally Accurate Battle Simulator (Game Preview)",
     "gameplayMain": 5.5,
     "gameplayMainExtra": 7.5,
     "gameplayCompletionist": 10,
-    "imageUrl": "https://howlongtobeat.com/games/52878_Totally_Accurate_Battle_Simulator.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/52878_Totally_Accurate_Battle_Simulator.jpg",
+    "releaseDate": "Apr 2019"
   },
   {
     "id": "69333",
@@ -2850,7 +3163,8 @@
     "gameplayMain": 1,
     "gameplayMainExtra": 10,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/69333_Totally_Reliable_Delivery_Service.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/69333_Totally_Reliable_Delivery_Service.jpg",
+    "releaseDate": "Apr 2020"
   },
   {
     "id": "60261",
@@ -2859,7 +3173,8 @@
     "gameplayMain": 5,
     "gameplayMainExtra": 6.5,
     "gameplayCompletionist": 9.5,
-    "imageUrl": "https://howlongtobeat.com/games/60261_Touhou_Luna_Nights.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/60261_Touhou_Luna_Nights.jpg",
+    "releaseDate": "Feb 2019"
   },
   {
     "id": "56055",
@@ -2868,7 +3183,8 @@
     "gameplayMain": 11.5,
     "gameplayMainExtra": 13.5,
     "gameplayCompletionist": 120,
-    "imageUrl": "https://howlongtobeat.com/games/56055_Trailmakers.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/56055_Trailmakers.jpg",
+    "releaseDate": "Sep 2019"
   },
   {
     "id": "74885",
@@ -2877,7 +3193,8 @@
     "gameplayMain": 19.5,
     "gameplayMainExtra": 33,
     "gameplayCompletionist": 39,
-    "imageUrl": "https://howlongtobeat.com/games/74885_Train_Sim_World_2020.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/74885_Train_Sim_World_2020.jpg",
+    "releaseDate": "Jul 2018"
   },
   {
     "id": "60043",
@@ -2886,16 +3203,8 @@
     "gameplayMain": 37.5,
     "gameplayMainExtra": 72.5,
     "gameplayCompletionist": 122,
-    "imageUrl": "https://howlongtobeat.com/games/60043_two_point_hospital.jpg"
-  },
-  {
-    "id": "10749",
-    "name": "UFC Undisputed 2010",
-    "search": " UFC 2",
-    "gameplayMain": 27,
-    "gameplayMainExtra": 0,
-    "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/240px-UFC_Undisputed_2010_cover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/60043_two_point_hospital.jpg",
+    "releaseDate": "Apr 2018"
   },
   {
     "id": "69349",
@@ -2904,7 +3213,8 @@
     "gameplayMain": 19,
     "gameplayMainExtra": 29.5,
     "gameplayCompletionist": 45,
-    "imageUrl": "https://howlongtobeat.com/games/69349_Undermine.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/69349_Undermine.jpg",
+    "releaseDate": "Aug 2019"
   },
   {
     "id": "26763",
@@ -2913,7 +3223,8 @@
     "gameplayMain": 6,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 12.5,
-    "imageUrl": "https://howlongtobeat.com/games/nat-games-unravel-1280x720.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/nat-games-unravel-1280x720.jpg",
+    "releaseDate": "Feb 2016"
   },
   {
     "id": "57358",
@@ -2922,7 +3233,8 @@
     "gameplayMain": 5,
     "gameplayMainExtra": 6.5,
     "gameplayCompletionist": 9,
-    "imageUrl": "https://howlongtobeat.com/games/57358_Unravel_2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/57358_Unravel_2.jpg",
+    "releaseDate": "Jun 2018"
   },
   {
     "id": "64458",
@@ -2931,25 +3243,18 @@
     "gameplayMain": 8,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 13,
-    "imageUrl": "https://howlongtobeat.com/games/64458_Unruly_Heroes.jpg"
-  },
-  {
-    "id": "66086",
-    "name": "Untitled Goose Game",
-    "search": "Untitled Goose Game",
-    "gameplayMain": 3,
-    "gameplayMainExtra": 4,
-    "gameplayCompletionist": 5,
-    "imageUrl": "https://howlongtobeat.com/games/66086_Untitled_Goose_Game.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/64458_Unruly_Heroes.jpg",
+    "releaseDate": "Jan 2019"
   },
   {
     "id": "49816",
     "name": "Unto The End",
-    "search": "Unto The End",
+    "search": "Unto the End",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/49816_Unto_The_End.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/49816_Unto_The_End.jpg",
+    "releaseDate": "Dec 2020"
   },
   {
     "id": "67877",
@@ -2958,7 +3263,8 @@
     "gameplayMain": 0,
     "gameplayMainExtra": 19,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/67877_Vambrace_Cold_Soul.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/67877_Vambrace_Cold_Soul.jpg",
+    "releaseDate": "May 2019"
   },
   {
     "id": "10976",
@@ -2967,16 +3273,18 @@
     "gameplayMain": 18.5,
     "gameplayMainExtra": 31.5,
     "gameplayCompletionist": 51,
-    "imageUrl": "https://howlongtobeat.com/games/250px-Viva_pinyata.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/250px-Viva_pinyata.jpg",
+    "releaseDate": "Nov 2006"
   },
   {
-    "id": "10976",
-    "name": "Viva Piata",
-    "search": "Viva Piñata",
-    "gameplayMain": 18.5,
-    "gameplayMainExtra": 31.5,
-    "gameplayCompletionist": 51,
-    "imageUrl": "https://howlongtobeat.com/games/250px-Viva_pinyata.jpg"
+    "id": "10979",
+    "name": "Viva Piata Trouble in Paradise",
+    "search": "Viva Piñata: Trouble in Paradise",
+    "gameplayMain": 26.5,
+    "gameplayMainExtra": 40,
+    "gameplayCompletionist": 52.5,
+    "imageUrl": "https://howlongtobeat.com/games/Viva_Pinata_Trouble_in_Paradise.jpg",
+    "releaseDate": "Sep 2008"
   },
   {
     "id": "67475",
@@ -2985,7 +3293,8 @@
     "gameplayMain": 8.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 20.5,
-    "imageUrl": "https://howlongtobeat.com/games/67475_Void_Bastards.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/67475_Void_Bastards.jpg",
+    "releaseDate": "May 2019"
   },
   {
     "id": "61653",
@@ -2994,7 +3303,8 @@
     "gameplayMain": 20,
     "gameplayMainExtra": 38,
     "gameplayCompletionist": 72,
-    "imageUrl": "https://howlongtobeat.com/games/61653_Wargroove.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/61653_Wargroove.jpg",
+    "releaseDate": "Feb 2019"
   },
   {
     "id": "51768",
@@ -3003,7 +3313,8 @@
     "gameplayMain": 19.5,
     "gameplayMainExtra": 65,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/51768_Warhammer_Vermintide_2.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/51768_Warhammer_Vermintide_2.jpg",
+    "releaseDate": "Mar 2018"
   },
   {
     "id": "11099",
@@ -3012,16 +3323,18 @@
     "gameplayMain": 39.5,
     "gameplayMainExtra": 64,
     "gameplayCompletionist": 109,
-    "imageUrl": "https://howlongtobeat.com/games/Wasteland2art.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Wasteland2art.jpg",
+    "releaseDate": "Sep 2014"
   },
   {
     "id": "42532",
     "name": "Wasteland 3",
-    "search": "Wasteland 3 ",
+    "search": "Wasteland 3",
     "gameplayMain": 36.5,
     "gameplayMainExtra": 51,
     "gameplayCompletionist": 71,
-    "imageUrl": "https://howlongtobeat.com/games/42532_Wasteland_3.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/42532_Wasteland_3.jpg",
+    "releaseDate": "Aug 2020"
   },
   {
     "id": "74755",
@@ -3030,7 +3343,8 @@
     "gameplayMain": 8,
     "gameplayMainExtra": 24,
     "gameplayCompletionist": 27,
-    "imageUrl": "https://howlongtobeat.com/games/74755_Wasteland_Remastered.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/74755_Wasteland_Remastered.jpg",
+    "releaseDate": "Feb 2020"
   },
   {
     "id": "27102",
@@ -3039,7 +3353,8 @@
     "gameplayMain": 21,
     "gameplayMainExtra": 43.5,
     "gameplayCompletionist": 64,
-    "imageUrl": "https://howlongtobeat.com/games/We_Happy_Few_logo.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/We_Happy_Few_logo.jpg",
+    "releaseDate": "Aug 2018"
   },
   {
     "id": "77696",
@@ -3048,7 +3363,8 @@
     "gameplayMain": 11.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 37,
-    "imageUrl": "https://howlongtobeat.com/games/77696_West_of_Dead.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/77696_West_of_Dead.jpg",
+    "releaseDate": "Jun 2020"
   },
   {
     "id": "45392",
@@ -3057,7 +3373,8 @@
     "gameplayMain": 2,
     "gameplayMainExtra": 2.5,
     "gameplayCompletionist": 3,
-    "imageUrl": "https://howlongtobeat.com/games/45392_What_Remains_of_Edith_Finch.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/45392_What_Remains_of_Edith_Finch.jpg",
+    "releaseDate": "Apr 2017"
   },
   {
     "id": "26294",
@@ -3066,7 +3383,8 @@
     "gameplayMain": 6.5,
     "gameplayMainExtra": 16,
     "gameplayCompletionist": 23,
-    "imageUrl": "https://howlongtobeat.com/games/26294_Wizard_of_legend.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/26294_Wizard_of_legend.jpg",
+    "releaseDate": "May 2018"
   },
   {
     "id": "57504",
@@ -3075,7 +3393,8 @@
     "gameplayMain": 9,
     "gameplayMainExtra": 14,
     "gameplayCompletionist": 27.5,
-    "imageUrl": "https://howlongtobeat.com/games/57504_Wolfenstein_Youngblood.jpeg"
+    "imageUrl": "https://howlongtobeat.com/games/57504_Wolfenstein_Youngblood.jpeg",
+    "releaseDate": "Jul 2019"
   },
   {
     "id": "64828",
@@ -3084,7 +3403,8 @@
     "gameplayMain": 7,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 20,
-    "imageUrl": "https://howlongtobeat.com/games/64828_World_War_Z.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/64828_World_War_Z.jpg",
+    "releaseDate": "Apr 2019"
   },
   {
     "id": "39481",
@@ -3093,7 +3413,8 @@
     "gameplayMain": 14.5,
     "gameplayMainExtra": 17,
     "gameplayCompletionist": 24.5,
-    "imageUrl": "https://howlongtobeat.com/games/39481_Worms_WMD.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/39481_Worms_WMD.jpg",
+    "releaseDate": "Aug 2016"
   },
   {
     "id": "71596",
@@ -3102,7 +3423,8 @@
     "gameplayMain": 1.5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 0,
-    "imageUrl": "https://howlongtobeat.com/games/71596_Xeno_Crisis.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/71596_Xeno_Crisis.jpg",
+    "releaseDate": "Oct 2019"
   },
   {
     "id": "43056",
@@ -3111,7 +3433,8 @@
     "gameplayMain": 31,
     "gameplayMainExtra": 65,
     "gameplayCompletionist": 140,
-    "imageUrl": "https://howlongtobeat.com/games/43056_Yakuza_0.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/43056_Yakuza_0.jpg",
+    "releaseDate": "Mar 2015"
   },
   {
     "id": "39484",
@@ -3120,7 +3443,8 @@
     "gameplayMain": 18,
     "gameplayMainExtra": 33,
     "gameplayCompletionist": 85,
-    "imageUrl": "https://howlongtobeat.com/games/39484_Ryu_ga_Gotoku_Kiwami.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/39484_Ryu_ga_Gotoku_Kiwami.jpg",
+    "releaseDate": "Jan 2016"
   },
   {
     "id": "49620",
@@ -3129,7 +3453,8 @@
     "gameplayMain": 18.5,
     "gameplayMainExtra": 34.5,
     "gameplayCompletionist": 74,
-    "imageUrl": "https://howlongtobeat.com/games/49620_Yakuza_kiwami_2.png"
+    "imageUrl": "https://howlongtobeat.com/games/49620_Yakuza_kiwami_2.png",
+    "releaseDate": "Dec 2017"
   },
   {
     "id": "71500",
@@ -3138,7 +3463,8 @@
     "gameplayMain": 5.5,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 10.5,
-    "imageUrl": "https://howlongtobeat.com/games/71500_Yes_Your_Grace.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/71500_Yes_Your_Grace.jpg",
+    "releaseDate": "Mar 2020"
   },
   {
     "id": "68031",
@@ -3147,7 +3473,8 @@
     "gameplayMain": 13,
     "gameplayMainExtra": 15,
     "gameplayCompletionist": 21,
-    "imageUrl": "https://howlongtobeat.com/games/68031_Yooka-Laylee_and_the_Impossible_Lair.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/68031_Yooka-Laylee_and_the_Impossible_Lair.jpg",
+    "releaseDate": "Oct 2019"
   },
   {
     "id": "52069",
@@ -3156,7 +3483,8 @@
     "gameplayMain": 14,
     "gameplayMainExtra": 15,
     "gameplayCompletionist": 82,
-    "imageUrl": "https://howlongtobeat.com/games/52069_Zoo_Tycoon_Ultimate_Animal_Collection.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/52069_Zoo_Tycoon_Ultimate_Animal_Collection.jpg",
+    "releaseDate": "Oct 2017"
   },
   {
     "id": "11609",
@@ -3165,7 +3493,8 @@
     "gameplayMain": 5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 24,
-    "imageUrl": "https://howlongtobeat.com/games/Zumacover.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/Zumacover.jpg",
+    "releaseDate": "Dec 2003"
   },
   {
     "id": "11611",
@@ -3174,7 +3503,8 @@
     "gameplayMain": 5,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 19,
-    "imageUrl": "https://howlongtobeat.com/games/ZumasRevenge.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/ZumasRevenge.jpg",
+    "releaseDate": "Sep 2009"
   },
   {
     "id": "2295",
@@ -3183,6 +3513,7 @@
     "gameplayMain": 7.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 19,
-    "imageUrl": "https://howlongtobeat.com/games/De-Blob-US.jpg"
+    "imageUrl": "https://howlongtobeat.com/games/De-Blob-US.jpg",
+    "releaseDate": "Sep 2008"
   }
 ]
