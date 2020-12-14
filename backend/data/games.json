@@ -2,6 +2,7 @@
   {
     "id": "65080",
     "name": "A Plague Tale Innocence",
+    "search": "A Plague Tale: Innocence",
     "gameplayMain": 10.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 15.5,
@@ -10,6 +11,7 @@
   {
     "id": "46386",
     "name": "A Way Out",
+    "search": "A Way Out",
     "gameplayMain": 6,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 7,
@@ -18,6 +20,7 @@
   {
     "id": "53763",
     "name": "Ace Combat 7 Skies Unknown",
+    "search": "ACE COMBAT 7",
     "gameplayMain": 11,
     "gameplayMainExtra": 16.5,
     "gameplayCompletionist": 56.5,
@@ -26,6 +29,7 @@
   {
     "id": "59880",
     "name": "Age of Wonders Planetfall",
+    "search": "Age of Wonders: Planetfall",
     "gameplayMain": 48,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -34,6 +38,7 @@
   {
     "id": "319",
     "name": "Alan Wake",
+    "search": "Alan Wake",
     "gameplayMain": 11,
     "gameplayMainExtra": 14.5,
     "gameplayCompletionist": 26,
@@ -42,6 +47,7 @@
   {
     "id": "340",
     "name": "Alice Madness Returns",
+    "search": "Alice: Madness Returns",
     "gameplayMain": 14,
     "gameplayMainExtra": 16,
     "gameplayCompletionist": 22.5,
@@ -50,6 +56,7 @@
   {
     "id": "16638",
     "name": "Alien Isolation",
+    "search": "Alien: Isolation",
     "gameplayMain": 18.5,
     "gameplayMainExtra": 23,
     "gameplayCompletionist": 32.5,
@@ -58,6 +65,7 @@
   {
     "id": "67659",
     "name": "Alvastia Chronicles",
+    "search": "Alvastia Chronicles",
     "gameplayMain": 7.5,
     "gameplayMainExtra": 11,
     "gameplayCompletionist": 16,
@@ -66,6 +74,7 @@
   {
     "id": "46387",
     "name": "Anthem",
+    "search": "Anthem",
     "gameplayMain": 13,
     "gameplayMainExtra": 26,
     "gameplayCompletionist": 45.5,
@@ -74,14 +83,25 @@
   {
     "id": "622",
     "name": "Army of Two",
+    "search": "Army of Two",
     "gameplayMain": 6.5,
     "gameplayMainExtra": 7.5,
     "gameplayCompletionist": 11,
     "imageUrl": "https://howlongtobeat.com/games/256px-ArmyofTwo_front-1-.jpg"
   },
   {
+    "id": "16887",
+    "name": "Assetto Corsa",
+    "search": "Assetto Corsa",
+    "gameplayMain": 40.5,
+    "gameplayMainExtra": 95,
+    "gameplayCompletionist": 130,
+    "imageUrl": "https://howlongtobeat.com/games/Assetto_Corsa_cover.png"
+  },
+  {
     "id": "42182",
     "name": "Astroneer",
+    "search": "ASTRONEER",
     "gameplayMain": 17.5,
     "gameplayMainExtra": 39.5,
     "gameplayCompletionist": 67.5,
@@ -90,6 +110,7 @@
   {
     "id": "834",
     "name": "BanjoKazooie",
+    "search": "Banjo-Kazooie",
     "gameplayMain": 11,
     "gameplayMainExtra": 14.5,
     "gameplayCompletionist": 15,
@@ -98,14 +119,16 @@
   {
     "id": "836",
     "name": "BanjoKazooie Nuts  Bolts",
+    "search": "Banjo Kazooie: N n B",
     "gameplayMain": 15.5,
-    "gameplayMainExtra": 23.5,
+    "gameplayMainExtra": 23,
     "gameplayCompletionist": 44.5,
     "imageUrl": "https://howlongtobeat.com/games/Banjokazooiecover.jpg"
   },
   {
     "id": "837",
     "name": "BanjoTooie",
+    "search": "Banjo-Tooie",
     "gameplayMain": 16,
     "gameplayMainExtra": 23,
     "gameplayCompletionist": 23.5,
@@ -114,6 +137,7 @@
   {
     "id": "875",
     "name": "Batman NES",
+    "search": "Batman",
     "gameplayMain": 1.5,
     "gameplayMainExtra": 2,
     "gameplayCompletionist": 2,
@@ -122,6 +146,7 @@
   {
     "id": "30017",
     "name": "Battle Chasers Nightwar",
+    "search": "Battle Chasers: Nightwar",
     "gameplayMain": 27.5,
     "gameplayMainExtra": 41.5,
     "gameplayCompletionist": 64.5,
@@ -130,6 +155,7 @@
   {
     "id": "38001",
     "name": "Battlefield 1",
+    "search": "Battlefield 1",
     "gameplayMain": 6.5,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 17,
@@ -138,6 +164,7 @@
   {
     "id": "934",
     "name": "Battlefield 1943",
+    "search": "Battlefield 1943",
     "gameplayMain": 24,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 22.5,
@@ -146,6 +173,7 @@
   {
     "id": "941",
     "name": "Battlefield 3",
+    "search": "Battlefield 3",
     "gameplayMain": 6,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 58,
@@ -154,6 +182,7 @@
   {
     "id": "942",
     "name": "Battlefield 4 ",
+    "search": "Battlefield 4",
     "gameplayMain": 6,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 13,
@@ -162,6 +191,7 @@
   {
     "id": "945",
     "name": "Battlefield Bad Company",
+    "search": "Battlefield: Bad Company",
     "gameplayMain": 7.5,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 56,
@@ -170,6 +200,7 @@
   {
     "id": "946",
     "name": "Battlefield Bad Company 2",
+    "search": "Battlefield Bad Company 2",
     "gameplayMain": 7,
     "gameplayMainExtra": 10.5,
     "gameplayCompletionist": 15,
@@ -178,6 +209,7 @@
   {
     "id": "21620",
     "name": "Battlefield Hardline",
+    "search": "Battlefield Hardline",
     "gameplayMain": 7.5,
     "gameplayMainExtra": 10.5,
     "gameplayCompletionist": 22,
@@ -186,6 +218,7 @@
   {
     "id": "57352",
     "name": "Battlefield V",
+    "search": "Battlefield V",
     "gameplayMain": 6,
     "gameplayMainExtra": 8.5,
     "gameplayCompletionist": 25,
@@ -194,6 +227,7 @@
   {
     "id": "80699",
     "name": "Battletoads 2020",
+    "search": "Battletoads",
     "gameplayMain": 4,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 6.5,
@@ -202,6 +236,7 @@
   {
     "id": "1000",
     "name": "Bejeweled 2",
+    "search": "Bejeweled 2",
     "gameplayMain": 1.5,
     "gameplayMainExtra": 2.5,
     "gameplayCompletionist": 2.5,
@@ -210,6 +245,7 @@
   {
     "id": "1001",
     "name": "Bejeweled 3",
+    "search": "Bejeweled 3",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 42,
@@ -218,6 +254,7 @@
   {
     "id": "1088",
     "name": "Black 2006",
+    "search": "BLACK",
     "gameplayMain": 6,
     "gameplayMainExtra": 8.5,
     "gameplayCompletionist": 22.5,
@@ -226,6 +263,7 @@
   {
     "id": "30340",
     "name": "Black Desert",
+    "search": "Black Desert",
     "gameplayMain": 72,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -234,6 +272,7 @@
   {
     "id": "68319",
     "name": "Blair Witch",
+    "search": "Blair Witch",
     "gameplayMain": 5,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 7.5,
@@ -242,6 +281,7 @@
   {
     "id": "68093",
     "name": "Bleeding Edge",
+    "search": "Bleeding Edge",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 6.5,
@@ -250,6 +290,7 @@
   {
     "id": "26266",
     "name": "Bloodstained Ritual of the Night",
+    "search": "Bloodstained: Ritual of the Night",
     "gameplayMain": 13.5,
     "gameplayMainExtra": 19.5,
     "gameplayCompletionist": 33.5,
@@ -258,6 +299,7 @@
   {
     "id": "51365",
     "name": "Bridge Constructor Portal",
+    "search": "Bridge Constructor Portal",
     "gameplayMain": 13,
     "gameplayMainExtra": 17,
     "gameplayCompletionist": 18.5,
@@ -266,6 +308,7 @@
   {
     "id": "1345",
     "name": "Brtal Legend",
+    "search": "Brütal Legend",
     "gameplayMain": 9,
     "gameplayMainExtra": 14,
     "gameplayCompletionist": 24,
@@ -274,6 +317,7 @@
   {
     "id": "1410",
     "name": "Burnout Paradise Remastered",
+    "search": "Burnout Paradise Remastered",
     "gameplayMain": 10.5,
     "gameplayMainExtra": 21,
     "gameplayCompletionist": 38,
@@ -282,6 +326,7 @@
   {
     "id": "77918",
     "name": "Call of the Sea",
+    "search": "Call of the Sea",
     "gameplayMain": 5,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 7,
@@ -290,6 +335,7 @@
   {
     "id": "68169",
     "name": "Carrion",
+    "search": "Carrion",
     "gameplayMain": 4,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 5.5,
@@ -298,6 +344,7 @@
   {
     "id": "80570",
     "name": "Carto",
+    "search": "Carto",
     "gameplayMain": 6,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 6.5,
@@ -306,6 +353,7 @@
   {
     "id": "42818",
     "name": "Celeste",
+    "search": "Celeste",
     "gameplayMain": 8,
     "gameplayMainExtra": 13.5,
     "gameplayCompletionist": 37.5,
@@ -314,6 +362,7 @@
   {
     "id": "22534",
     "name": "Children of Morta",
+    "search": "Children of Morta",
     "gameplayMain": 13.5,
     "gameplayMainExtra": 17,
     "gameplayCompletionist": 27.5,
@@ -322,6 +371,7 @@
   {
     "id": "24640",
     "name": "Cities Skylines",
+    "search": "Cities",
     "gameplayMain": 25.5,
     "gameplayMainExtra": 52.5,
     "gameplayCompletionist": 116,
@@ -330,6 +380,7 @@
   {
     "id": "40215",
     "name": "Clustertruck",
+    "search": "ClusterTruck",
     "gameplayMain": 3.5,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 8,
@@ -338,6 +389,7 @@
   {
     "id": "57507",
     "name": "Control",
+    "search": "Control",
     "gameplayMain": 11.5,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 25.5,
@@ -346,6 +398,7 @@
   {
     "id": "21537",
     "name": "Costume Quest 2",
+    "search": "Costume Quest 2",
     "gameplayMain": 6.5,
     "gameplayMainExtra": 7.5,
     "gameplayCompletionist": 9.5,
@@ -354,6 +407,7 @@
   {
     "id": "38828",
     "name": "Crackdown 3",
+    "search": "Crackdown 3",
     "gameplayMain": 6.5,
     "gameplayMainExtra": 10,
     "gameplayCompletionist": 24,
@@ -362,6 +416,7 @@
   {
     "id": "69179",
     "name": "Cricket 19",
+    "search": "Cricket 19",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -370,6 +425,7 @@
   {
     "id": "24970",
     "name": "CrossCode",
+    "search": "CrossCode",
     "gameplayMain": 31.5,
     "gameplayMainExtra": 48.5,
     "gameplayCompletionist": 75.5,
@@ -378,6 +434,7 @@
   {
     "id": "2068",
     "name": "Crysis",
+    "search": "Crysis",
     "gameplayMain": 10,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 13.5,
@@ -386,6 +443,7 @@
   {
     "id": "2069",
     "name": "Crysis 2",
+    "search": "Crysis 2",
     "gameplayMain": 9,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 15,
@@ -394,6 +452,7 @@
   {
     "id": "2070",
     "name": "Crysis 3",
+    "search": "Crysis 3",
     "gameplayMain": 7,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 13,
@@ -402,6 +461,7 @@
   {
     "id": "2195",
     "name": "Dantes Inferno",
+    "search": "Dante's Inferno",
     "gameplayMain": 8,
     "gameplayMainExtra": 9.5,
     "gameplayCompletionist": 15,
@@ -410,6 +470,7 @@
   {
     "id": "26803",
     "name": "Dark Souls III",
+    "search": "ARK",
     "gameplayMain": 32,
     "gameplayMainExtra": 47.5,
     "gameplayCompletionist": 93,
@@ -418,6 +479,7 @@
   {
     "id": "68043",
     "name": "Darksiders Genesis",
+    "search": "Darksiders Genesis",
     "gameplayMain": 14,
     "gameplayMainExtra": 19.5,
     "gameplayCompletionist": 28.5,
@@ -426,6 +488,7 @@
   {
     "id": "35880",
     "name": "Day of the Tentacle Remastered",
+    "search": "Day of the Tentacle Remastered",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 6.5,
@@ -434,6 +497,7 @@
   {
     "id": "2290",
     "name": "DayZ",
+    "search": "DayZ",
     "gameplayMain": 65.5,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 77,
@@ -442,6 +506,7 @@
   {
     "id": "45727",
     "name": "Dead Cells",
+    "search": "Dead Cells",
     "gameplayMain": 13,
     "gameplayMainExtra": 26,
     "gameplayCompletionist": 84.5,
@@ -450,6 +515,7 @@
   {
     "id": "2333",
     "name": "Dead Space",
+    "search": "Dead Space",
     "gameplayMain": 11,
     "gameplayMainExtra": 13,
     "gameplayCompletionist": 20.5,
@@ -458,6 +524,7 @@
   {
     "id": "2335",
     "name": "Dead Space 2",
+    "search": "Dead Space 2",
     "gameplayMain": 9,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 16,
@@ -466,6 +533,7 @@
   {
     "id": "2337",
     "name": "Dead Space 3",
+    "search": "Dead Space 3",
     "gameplayMain": 13,
     "gameplayMainExtra": 16.5,
     "gameplayCompletionist": 24,
@@ -474,6 +542,7 @@
   {
     "id": "2340",
     "name": "Dead Space Ignition",
+    "search": "Dead Space Ignition",
     "gameplayMain": 1.5,
     "gameplayMainExtra": 2.5,
     "gameplayCompletionist": 4,
@@ -482,6 +551,7 @@
   {
     "id": "37986",
     "name": "Dead by Daylight",
+    "search": "Dead by Daylight",
     "gameplayMain": 0,
     "gameplayMainExtra": 461,
     "gameplayCompletionist": 189,
@@ -490,6 +560,7 @@
   {
     "id": "47424",
     "name": "Death Squared",
+    "search": "Death Squared",
     "gameplayMain": 6,
     "gameplayMainExtra": 7,
     "gameplayCompletionist": 9,
@@ -498,6 +569,7 @@
   {
     "id": "47169",
     "name": "Deep Rock Galactic",
+    "search": "Deep Rock Galactic",
     "gameplayMain": 99,
     "gameplayMainExtra": 100,
     "gameplayCompletionist": 0,
@@ -506,6 +578,7 @@
   {
     "id": "71372",
     "name": "Deliver Us The Moon",
+    "search": "Deliver Us The Moon",
     "gameplayMain": 5,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 6.5,
@@ -514,6 +587,7 @@
   {
     "id": "55598",
     "name": "Descenders",
+    "search": "Descenders",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 0,
@@ -522,6 +596,7 @@
   {
     "id": "43894",
     "name": "Destiny 2",
+    "search": "Destiny 2",
     "gameplayMain": 12,
     "gameplayMainExtra": 29,
     "gameplayCompletionist": 120,
@@ -530,6 +605,7 @@
   {
     "id": "43894",
     "name": "Destiny 2",
+    "search": "Destiny 2",
     "gameplayMain": 12,
     "gameplayMainExtra": 29,
     "gameplayCompletionist": 120,
@@ -538,6 +614,7 @@
   {
     "id": "43894",
     "name": "Destiny 2",
+    "search": "Destiny 2",
     "gameplayMain": 12,
     "gameplayMainExtra": 29,
     "gameplayCompletionist": 120,
@@ -546,6 +623,7 @@
   {
     "id": "43274",
     "name": "Dirt 4",
+    "search": "DiRT 4",
     "gameplayMain": 30,
     "gameplayMainExtra": 50.5,
     "gameplayCompletionist": 88,
@@ -554,6 +632,7 @@
   {
     "id": "26731",
     "name": "Dishonored 2",
+    "search": "Dishonored 2",
     "gameplayMain": 12.5,
     "gameplayMainExtra": 22.5,
     "gameplayCompletionist": 44,
@@ -562,6 +641,7 @@
   {
     "id": "4994",
     "name": "Disneyland Adventures",
+    "search": "Disneyland Adventures",
     "gameplayMain": 16,
     "gameplayMainExtra": 17,
     "gameplayCompletionist": 28.5,
@@ -570,6 +650,7 @@
   {
     "id": "2675",
     "name": "Dont Starve",
+    "search": "Don't Starve: Giant Edition",
     "gameplayMain": 33,
     "gameplayMainExtra": 77,
     "gameplayCompletionist": 128,
@@ -578,6 +659,7 @@
   {
     "id": "57506",
     "name": "Doom Eternal",
+    "search": "DOOM Eternal ",
     "gameplayMain": 13.5,
     "gameplayMainExtra": 18.5,
     "gameplayCompletionist": 24,
@@ -586,6 +668,7 @@
   {
     "id": "2727",
     "name": "Double Dragon Neon",
+    "search": "Double Dragon Neon",
     "gameplayMain": 3.5,
     "gameplayMainExtra": 4.5,
     "gameplayCompletionist": 11.5,
@@ -594,6 +677,7 @@
   {
     "id": "53061",
     "name": "Double Kick Heroes",
+    "search": "Double Kick Heroes",
     "gameplayMain": 3,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 7.5,
@@ -602,6 +686,7 @@
   {
     "id": "2756",
     "name": "Dragon Age II",
+    "search": "Dragon Age 2",
     "gameplayMain": 26.5,
     "gameplayMainExtra": 37.5,
     "gameplayCompletionist": 58,
@@ -610,6 +695,7 @@
   {
     "id": "2760",
     "name": "Dragon Age Origins",
+    "search": "Dragon Age: Origins",
     "gameplayMain": 40.5,
     "gameplayMainExtra": 59,
     "gameplayCompletionist": 87,
@@ -618,6 +704,7 @@
   {
     "id": "69743",
     "name": "Dragon Quest XI S Echoes of an Elusive Age  Definitive Edition",
+    "search": "DRAGON QUEST XI S",
     "gameplayMain": 56.5,
     "gameplayMainExtra": 89.5,
     "gameplayCompletionist": 130,
@@ -626,6 +713,7 @@
   {
     "id": "69743",
     "name": "Dragon Quest XI S Echoes of an Elusive Age  Definitive Edition",
+    "search": "Dragon Age",
     "gameplayMain": 56.5,
     "gameplayMainExtra": 89.5,
     "gameplayCompletionist": 130,
@@ -634,6 +722,7 @@
   {
     "id": "82637",
     "name": "Drake Hollow",
+    "search": "Drake Hollow",
     "gameplayMain": 11.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 0,
@@ -642,30 +731,25 @@
   {
     "id": "17454",
     "name": "Dungeon of the Endless",
+    "search": "Dungeon of the Endless",
     "gameplayMain": 7,
     "gameplayMainExtra": 19,
     "gameplayCompletionist": 54.5,
     "imageUrl": "https://howlongtobeat.com/games/DungeonoftheEndless.jpg"
   },
   {
-    "id": "19375",
-    "name": "EA Sports UFC",
-    "gameplayMain": 11,
-    "gameplayMainExtra": 17.5,
-    "gameplayCompletionist": 22,
-    "imageUrl": "https://howlongtobeat.com/games/EA_UFC.jpg"
-  },
-  {
-    "id": "35849",
-    "name": "EA Sports UFC 2",
-    "gameplayMain": 6,
-    "gameplayMainExtra": 32,
-    "gameplayCompletionist": 40.5,
-    "imageUrl": "https://howlongtobeat.com/games/35849_EA_Sports_UFC_2.jpg"
+    "id": "52971",
+    "name": "EA Sports UFC 3",
+    "search": " UFC",
+    "gameplayMain": 9,
+    "gameplayMainExtra": 17,
+    "gameplayCompletionist": 29.5,
+    "imageUrl": "https://howlongtobeat.com/games/52971_EA_Sports_UFC_3.jpg"
   },
   {
     "id": "52971",
     "name": "EA Sports UFC 3",
+    "search": " UFC 3",
     "gameplayMain": 9,
     "gameplayMainExtra": 17,
     "gameplayCompletionist": 29.5,
@@ -674,6 +758,7 @@
   {
     "id": "65001",
     "name": "Eastshade",
+    "search": "Eastshade",
     "gameplayMain": 11.5,
     "gameplayMainExtra": 13,
     "gameplayCompletionist": 13.5,
@@ -682,6 +767,7 @@
   {
     "id": "35549",
     "name": "Enter the Gungeon",
+    "search": "Enter The Gungeon",
     "gameplayMain": 20.5,
     "gameplayMainExtra": 50.5,
     "gameplayCompletionist": 157,
@@ -690,6 +776,7 @@
   {
     "id": "68644",
     "name": "F1 2019",
+    "search": "F1 2019",
     "gameplayMain": 16,
     "gameplayMainExtra": 42,
     "gameplayCompletionist": 108,
@@ -698,14 +785,34 @@
   {
     "id": "21232",
     "name": "FIFA 15",
+    "search": "FIFA 15",
     "gameplayMain": 143,
     "gameplayMainExtra": 126,
     "gameplayCompletionist": 54.5,
     "imageUrl": "https://howlongtobeat.com/games/FIFA_15_Cover_Art.jpg"
   },
   {
+    "id": "30476",
+    "name": "FIFA 16",
+    "search": " FIFA 16",
+    "gameplayMain": 105,
+    "gameplayMainExtra": 6.5,
+    "gameplayCompletionist": 73,
+    "imageUrl": "https://howlongtobeat.com/games/FIFA_16_cover.jpg"
+  },
+  {
+    "id": "38724",
+    "name": "FIFA 17",
+    "search": " FIFA 17",
+    "gameplayMain": 54.5,
+    "gameplayMainExtra": 1000,
+    "gameplayCompletionist": 94,
+    "imageUrl": "https://howlongtobeat.com/games/38724_FIFA_17.jpeg"
+  },
+  {
     "id": "49476",
     "name": "FIFA 18",
+    "search": "FIFA 18",
     "gameplayMain": 37.5,
     "gameplayMainExtra": 18.5,
     "gameplayCompletionist": 62.5,
@@ -714,14 +821,25 @@
   {
     "id": "57351",
     "name": "FIFA 19",
+    "search": "FIFA 19",
     "gameplayMain": 57,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 129,
     "imageUrl": "https://howlongtobeat.com/games/57351_Fifa_19.jpg"
   },
   {
+    "id": "68094",
+    "name": "FIFA 20",
+    "search": " FIFA 20",
+    "gameplayMain": 30.5,
+    "gameplayMainExtra": 200,
+    "gameplayCompletionist": 94,
+    "imageUrl": "https://howlongtobeat.com/games/68094_FIFA_20.jpg"
+  },
+  {
     "id": "16586",
     "name": "Fable Anniversary",
+    "search": "Fable Anniversary",
     "gameplayMain": 14,
     "gameplayMainExtra": 20.5,
     "gameplayCompletionist": 32,
@@ -730,6 +848,7 @@
   {
     "id": "3314",
     "name": "Fable II",
+    "search": "Fable II",
     "gameplayMain": 13,
     "gameplayMainExtra": 23.5,
     "gameplayCompletionist": 52,
@@ -738,6 +857,7 @@
   {
     "id": "3316",
     "name": "Fable III",
+    "search": "Fable III",
     "gameplayMain": 13,
     "gameplayMainExtra": 25.5,
     "gameplayCompletionist": 47,
@@ -746,6 +866,7 @@
   {
     "id": "57416",
     "name": "Fallout 76",
+    "search": "Fallout 76",
     "gameplayMain": 34,
     "gameplayMainExtra": 94.5,
     "gameplayCompletionist": 193,
@@ -754,6 +875,7 @@
   {
     "id": "3351",
     "name": "Fallout New Vegas",
+    "search": "Fallout: New Vegas",
     "gameplayMain": 27.5,
     "gameplayMainExtra": 59.5,
     "gameplayCompletionist": 129,
@@ -762,6 +884,7 @@
   {
     "id": "40668",
     "name": "Farming Simulator 17",
+    "search": "Farming Simulator 17",
     "gameplayMain": 37,
     "gameplayMainExtra": 150,
     "gameplayCompletionist": 486,
@@ -770,6 +893,7 @@
   {
     "id": "48468",
     "name": "Fe",
+    "search": "Fe",
     "gameplayMain": 5.5,
     "gameplayMainExtra": 7,
     "gameplayCompletionist": 12,
@@ -778,6 +902,7 @@
   {
     "id": "3425",
     "name": "Feeding Frenzy",
+    "search": "Feeding Frenzy",
     "gameplayMain": 2,
     "gameplayMainExtra": 3.5,
     "gameplayCompletionist": 13,
@@ -786,6 +911,7 @@
   {
     "id": "3426",
     "name": "Feeding Frenzy 2 Shipwreck Showdown",
+    "search": "Feeding Frenzy 2",
     "gameplayMain": 2.5,
     "gameplayMainExtra": 2.5,
     "gameplayCompletionist": 3,
@@ -794,6 +920,7 @@
   {
     "id": "3463",
     "name": "Fight Night Champion",
+    "search": "FIGHT NIGHT CHAMPION",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 40.5,
@@ -802,6 +929,7 @@
   {
     "id": "3505",
     "name": "Final Fantasy IX",
+    "search": "FINAL FANTASY IX",
     "gameplayMain": 39.5,
     "gameplayMainExtra": 54,
     "gameplayCompletionist": 84,
@@ -810,6 +938,7 @@
   {
     "id": "3521",
     "name": "Final Fantasy VII",
+    "search": "FINAL FANTASY VII",
     "gameplayMain": 37.5,
     "gameplayMainExtra": 52,
     "gameplayCompletionist": 84,
@@ -818,6 +947,7 @@
   {
     "id": "3524",
     "name": "Final Fantasy VIII",
+    "search": "FINAL FANTASY VIII Remastered",
     "gameplayMain": 41.5,
     "gameplayMainExtra": 56.5,
     "gameplayCompletionist": 85.5,
@@ -826,6 +956,7 @@
   {
     "id": "53305",
     "name": "Final Fantasy XV Complete Edition",
+    "search": "FINAL FANTASY XV ROYAL EDITION",
     "gameplayMain": 25.5,
     "gameplayMainExtra": 55.5,
     "gameplayCompletionist": 117,
@@ -834,6 +965,7 @@
   {
     "id": "70306",
     "name": "Fishing Sim World Pro Tour",
+    "search": "Fishing Sim World",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -842,6 +974,7 @@
   {
     "id": "20811",
     "name": "Five Nights at Freddys",
+    "search": "Five Nights at Freddy's",
     "gameplayMain": 2,
     "gameplayMainExtra": 3,
     "gameplayCompletionist": 6,
@@ -850,6 +983,7 @@
   {
     "id": "20811",
     "name": "Five Nights at Freddys",
+    "search": "Five Nights at Freddy's",
     "gameplayMain": 2,
     "gameplayMainExtra": 3,
     "gameplayCompletionist": 6,
@@ -858,6 +992,7 @@
   {
     "id": "22612",
     "name": "Five Nights at Freddys 2",
+    "search": "Five Nights at Freddy's 2",
     "gameplayMain": 3,
     "gameplayMainExtra": 9.5,
     "gameplayCompletionist": 24,
@@ -866,6 +1001,7 @@
   {
     "id": "24456",
     "name": "Five Nights at Freddys 3",
+    "search": "Five Nights at Freddy's 3",
     "gameplayMain": 2,
     "gameplayMainExtra": 3.5,
     "gameplayCompletionist": 4.5,
@@ -874,6 +1010,7 @@
   {
     "id": "28975",
     "name": "Five Nights at Freddys 4",
+    "search": "Five Nights at Freddy's 4",
     "gameplayMain": 2.5,
     "gameplayMainExtra": 3,
     "gameplayCompletionist": 4,
@@ -882,6 +1019,7 @@
   {
     "id": "45024",
     "name": "For The King",
+    "search": "For The King",
     "gameplayMain": 9.5,
     "gameplayMainExtra": 32.5,
     "gameplayCompletionist": 89.5,
@@ -890,6 +1028,7 @@
   {
     "id": "62412",
     "name": "Forager",
+    "search": "Forager",
     "gameplayMain": 14,
     "gameplayMainExtra": 20.5,
     "gameplayCompletionist": 27.5,
@@ -898,6 +1037,7 @@
   {
     "id": "55661",
     "name": "Forza Horizon 4",
+    "search": "Forza Horizon 4 ",
     "gameplayMain": 11.5,
     "gameplayMainExtra": 35.5,
     "gameplayCompletionist": 98,
@@ -906,6 +1046,7 @@
   {
     "id": "46400",
     "name": "Forza Motorsport 7",
+    "search": "Forza Motorsport 7 ",
     "gameplayMain": 29.5,
     "gameplayMainExtra": 78.5,
     "gameplayCompletionist": 145,
@@ -914,6 +1055,7 @@
   {
     "id": "72380",
     "name": "Fractured Minds",
+    "search": "Fractured Minds",
     "gameplayMain": 1,
     "gameplayMainExtra": 1,
     "gameplayCompletionist": 1,
@@ -922,6 +1064,7 @@
   {
     "id": "41585",
     "name": "Frostpunk",
+    "search": "Frostpunk",
     "gameplayMain": 10,
     "gameplayMainExtra": 20.5,
     "gameplayCompletionist": 44.5,
@@ -930,6 +1073,7 @@
   {
     "id": "44400",
     "name": "Full Throttle Remastered",
+    "search": "Full Throttle Remastered",
     "gameplayMain": 4,
     "gameplayMainExtra": 4,
     "gameplayCompletionist": 4.5,
@@ -938,6 +1082,7 @@
   {
     "id": "3768",
     "name": "Fuzion Frenzy",
+    "search": "Fuzion Frenzy",
     "gameplayMain": 4,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 0,
@@ -946,6 +1091,7 @@
   {
     "id": "67569",
     "name": "Gato Roboto",
+    "search": "Gato Roboto",
     "gameplayMain": 3,
     "gameplayMainExtra": 4,
     "gameplayCompletionist": 4,
@@ -954,6 +1100,16 @@
   {
     "id": "57422",
     "name": "Gears 5",
+    "search": "Gears 5",
+    "gameplayMain": 10.5,
+    "gameplayMainExtra": 14,
+    "gameplayCompletionist": 17.5,
+    "imageUrl": "https://howlongtobeat.com/games/57422_Gears_5.jpg"
+  },
+  {
+    "id": "57422",
+    "name": "Gears 5",
+    "search": "Gears 5 ",
     "gameplayMain": 10.5,
     "gameplayMainExtra": 14,
     "gameplayCompletionist": 17.5,
@@ -962,6 +1118,7 @@
   {
     "id": "57740",
     "name": "Gears Tactics",
+    "search": "Gears Tactics",
     "gameplayMain": 23,
     "gameplayMainExtra": 31,
     "gameplayCompletionist": 40.5,
@@ -970,6 +1127,7 @@
   {
     "id": "3862",
     "name": "Gears of War",
+    "search": "Gears of War",
     "gameplayMain": 9,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 27.5,
@@ -978,6 +1136,7 @@
   {
     "id": "3863",
     "name": "Gears of War 2",
+    "search": "Gears of War 2",
     "gameplayMain": 10,
     "gameplayMainExtra": 12.5,
     "gameplayCompletionist": 60,
@@ -986,6 +1145,7 @@
   {
     "id": "3865",
     "name": "Gears of War 3",
+    "search": "Gears of War 3",
     "gameplayMain": 9.5,
     "gameplayMainExtra": 12.5,
     "gameplayCompletionist": 19,
@@ -994,6 +1154,7 @@
   {
     "id": "26788",
     "name": "Gears of War 4",
+    "search": "Gears of War 4",
     "gameplayMain": 9,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 14,
@@ -1002,6 +1163,7 @@
   {
     "id": "3867",
     "name": "Gears of War Judgment",
+    "search": "Gears of War: Judgment",
     "gameplayMain": 7,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 9.5,
@@ -1010,6 +1172,7 @@
   {
     "id": "26794",
     "name": "Gears of War Ultimate Edition",
+    "search": "Gears of War: Ultimate Edition",
     "gameplayMain": 9,
     "gameplayMainExtra": 11,
     "gameplayCompletionist": 17.5,
@@ -1018,6 +1181,7 @@
   {
     "id": "84332",
     "name": "GoNNER2",
+    "search": "GONNER2",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -1026,6 +1190,7 @@
   {
     "id": "17536",
     "name": "Goat Simulator",
+    "search": "Goat Simulator",
     "gameplayMain": 2,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 9,
@@ -1034,14 +1199,25 @@
   {
     "id": "34956",
     "name": "Golf With Your Friends",
+    "search": "Golf With Your Friends",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 16,
     "imageUrl": "https://howlongtobeat.com/games/34956_Golf_With_Friends.jpg"
   },
   {
+    "id": "62519",
+    "name": "Greedfall",
+    "search": "GreedFall",
+    "gameplayMain": 22,
+    "gameplayMainExtra": 40.5,
+    "gameplayCompletionist": 50,
+    "imageUrl": "https://howlongtobeat.com/games/62519_Greedfall.jpg"
+  },
+  {
     "id": "23473",
     "name": "Grim Fandango Remastered",
+    "search": "Grim Fandango Remastered",
     "gameplayMain": 11,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -1050,6 +1226,7 @@
   {
     "id": "77857",
     "name": "Grounded",
+    "search": "Grounded ",
     "gameplayMain": 6.5,
     "gameplayMainExtra": 13.5,
     "gameplayCompletionist": 0,
@@ -1058,6 +1235,7 @@
   {
     "id": "59509",
     "name": "Guacamelee 2",
+    "search": "Guacamelee! 2",
     "gameplayMain": 8.5,
     "gameplayMainExtra": 11,
     "gameplayCompletionist": 14.5,
@@ -1066,6 +1244,7 @@
   {
     "id": "19267",
     "name": "Halo 5 Guardians",
+    "search": "Halo 5: Guardians",
     "gameplayMain": 8,
     "gameplayMainExtra": 12.5,
     "gameplayCompletionist": 22.5,
@@ -1074,6 +1253,7 @@
   {
     "id": "4272",
     "name": "Halo Spartan Assault",
+    "search": "Halo: Spartan Assault",
     "gameplayMain": 4,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 14,
@@ -1082,6 +1262,7 @@
   {
     "id": "22621",
     "name": "Halo The Master Chief Collection",
+    "search": "Halo: The Master Chief Collection",
     "gameplayMain": 52.5,
     "gameplayMainExtra": 26.5,
     "gameplayCompletionist": 20,
@@ -1090,6 +1271,7 @@
   {
     "id": "4267",
     "name": "Halo Wars",
+    "search": "Halo Wars: Definitive Edition",
     "gameplayMain": 9,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 38.5,
@@ -1098,6 +1280,7 @@
   {
     "id": "37985",
     "name": "Halo Wars 2",
+    "search": "Halo Wars 2",
     "gameplayMain": 8,
     "gameplayMainExtra": 12.5,
     "gameplayCompletionist": 20.5,
@@ -1106,6 +1289,7 @@
   {
     "id": "80569",
     "name": "Haven 2020",
+    "search": "Haven",
     "gameplayMain": 10,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 16.5,
@@ -1114,6 +1298,7 @@
   {
     "id": "4381",
     "name": "Heavy Weapon",
+    "search": "Heavy Weapon",
     "gameplayMain": 2,
     "gameplayMainExtra": 2,
     "gameplayCompletionist": 0,
@@ -1122,6 +1307,7 @@
   {
     "id": "41638",
     "name": "Hellblade Senuas Sacrifice",
+    "search": "Hellblade: Senua's Sacrifice",
     "gameplayMain": 7.5,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 9,
@@ -1130,6 +1316,7 @@
   {
     "id": "40794",
     "name": "Hello Neighbor",
+    "search": "Hello Neighbor",
     "gameplayMain": 9.5,
     "gameplayMainExtra": 17.5,
     "gameplayCompletionist": 21,
@@ -1138,6 +1325,7 @@
   {
     "id": "26286",
     "name": "Hollow Knight",
+    "search": "Hollow Knight: Voidheart Edition",
     "gameplayMain": 25.5,
     "gameplayMainExtra": 38.5,
     "gameplayCompletionist": 54.5,
@@ -1146,6 +1334,7 @@
   {
     "id": "75537",
     "name": "Hotshot Racing",
+    "search": "Hotshot Racing",
     "gameplayMain": 1.5,
     "gameplayMainExtra": 3,
     "gameplayCompletionist": 6,
@@ -1154,6 +1343,7 @@
   {
     "id": "38887",
     "name": "Human Fall Flat",
+    "search": "Human Fall Flat",
     "gameplayMain": 6,
     "gameplayMainExtra": 10,
     "gameplayCompletionist": 20.5,
@@ -1162,6 +1352,7 @@
   {
     "id": "77188",
     "name": "HyperDot",
+    "search": "HyperDot",
     "gameplayMain": 2.5,
     "gameplayMainExtra": 4,
     "gameplayCompletionist": 6.5,
@@ -1170,6 +1361,7 @@
   {
     "id": "65593",
     "name": "Hypnospace Outlaw",
+    "search": "Hypnospace Outlaw",
     "gameplayMain": 5.5,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 15,
@@ -1178,6 +1370,7 @@
   {
     "id": "80165",
     "name": "Ikenfell",
+    "search": "Ikenfell",
     "gameplayMain": 17.5,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 18.5,
@@ -1186,6 +1379,7 @@
   {
     "id": "27434",
     "name": "Indivisible",
+    "search": "Indivisible",
     "gameplayMain": 18,
     "gameplayMainExtra": 22.5,
     "gameplayCompletionist": 28.5,
@@ -1194,6 +1388,7 @@
   {
     "id": "56403",
     "name": "It Lurks Below",
+    "search": "It Lurks Below",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -1202,6 +1397,7 @@
   {
     "id": "21825",
     "name": "Jetpac Refuelled",
+    "search": "Jetpac Refuelled",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -1210,6 +1406,7 @@
   {
     "id": "68368",
     "name": "Journey to the Savage Planet",
+    "search": "Journey to the Savage Planet",
     "gameplayMain": 7,
     "gameplayMainExtra": 10.5,
     "gameplayCompletionist": 15.5,
@@ -1218,6 +1415,7 @@
   {
     "id": "4875",
     "name": "Joy Ride Turbo",
+    "search": "Joy Ride Turbo",
     "gameplayMain": 2,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -1226,14 +1424,25 @@
   {
     "id": "4921",
     "name": "Kameo Elements of Power",
+    "search": "Kameo",
     "gameplayMain": 9.5,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 14,
     "imageUrl": "https://howlongtobeat.com/games/Kameocover.jpg"
   },
   {
+    "id": "33020",
+    "name": "Katana ZERO",
+    "search": "Katana Zero ",
+    "gameplayMain": 4.5,
+    "gameplayMainExtra": 5.5,
+    "gameplayCompletionist": 8,
+    "imageUrl": "https://howlongtobeat.com/games/33020_Katana_ZERO.jpg"
+  },
+  {
     "id": "14350",
     "name": "Killer Instinct 2013",
+    "search": "Killer Instinct",
     "gameplayMain": 2,
     "gameplayMainExtra": 32,
     "gameplayCompletionist": 458,
@@ -1242,6 +1451,7 @@
   {
     "id": "5037",
     "name": "Kingdom Hearts",
+    "search": "KINGDOM HEARTS ",
     "gameplayMain": 28,
     "gameplayMainExtra": 41.5,
     "gameplayCompletionist": 62,
@@ -1250,14 +1460,25 @@
   {
     "id": "37863",
     "name": "Kingdom Hearts HD 28  Final Chapter Prologue",
+    "search": "KINGDOM HEARTS HD 2.8 Final Chapter Prologue",
     "gameplayMain": 18,
     "gameplayMainExtra": 28.5,
     "gameplayCompletionist": 63.5,
     "imageUrl": "https://howlongtobeat.com/games/37863_Kingdom_Hearts_HD_28_-_Final_Chapter_Prologue.png"
   },
   {
+    "id": "13157",
+    "name": "Kingdom Hearts III",
+    "search": "KINGDOM HEARTS III",
+    "gameplayMain": 28.5,
+    "gameplayMainExtra": 39.5,
+    "gameplayCompletionist": 63,
+    "imageUrl": "https://howlongtobeat.com/games/Kingdom_Hearts_III.jpg"
+  },
+  {
     "id": "67984",
     "name": "Knights And Bikes",
+    "search": "Knights and Bikes",
     "gameplayMain": 7.5,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 0,
@@ -1266,6 +1487,7 @@
   {
     "id": "20888",
     "name": "Kona",
+    "search": "Kona",
     "gameplayMain": 5.5,
     "gameplayMainExtra": 7.5,
     "gameplayCompletionist": 9.5,
@@ -1274,6 +1496,7 @@
   {
     "id": "76093",
     "name": "Levelhead",
+    "search": "Levelhead",
     "gameplayMain": 5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 41,
@@ -1282,6 +1505,7 @@
   {
     "id": "71406",
     "name": "Lonely Mountains Downhill",
+    "search": "Lonely Mountains: Downhill",
     "gameplayMain": 5.5,
     "gameplayMainExtra": 14.5,
     "gameplayCompletionist": 35.5,
@@ -1290,6 +1514,7 @@
   {
     "id": "20752",
     "name": "Madden NFL 15",
+    "search": "Madden NFL 15",
     "gameplayMain": 41,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 28,
@@ -1298,6 +1523,7 @@
   {
     "id": "26403",
     "name": "Madden NFL 16",
+    "search": "Madden NFL 16",
     "gameplayMain": 43,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 120,
@@ -1306,6 +1532,7 @@
   {
     "id": "34667",
     "name": "Madden NFL 17",
+    "search": "Madden NFL 17",
     "gameplayMain": 40.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -1314,6 +1541,7 @@
   {
     "id": "46120",
     "name": "Madden NFL 18",
+    "search": "Madden NFL 18",
     "gameplayMain": 15.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 3,
@@ -1322,6 +1550,7 @@
   {
     "id": "59624",
     "name": "Madden NFL 19",
+    "search": "Madden NFL 19",
     "gameplayMain": 12.5,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 10,
@@ -1330,6 +1559,7 @@
   {
     "id": "68136",
     "name": "Madden NFL 20",
+    "search": "Madden NFL 20",
     "gameplayMain": 49,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -1338,6 +1568,7 @@
   {
     "id": "12653",
     "name": "Madden NFL 25",
+    "search": "Madden NFL 25",
     "gameplayMain": 43,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 30,
@@ -1346,6 +1577,7 @@
   {
     "id": "44114",
     "name": "Marvel vs Capcom Infinite",
+    "search": "MARVEL VS. CAPCOM: INFINITE",
     "gameplayMain": 3.5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 9.5,
@@ -1354,6 +1586,7 @@
   {
     "id": "5698",
     "name": "Mass Effect",
+    "search": "Mass Effect",
     "gameplayMain": 17,
     "gameplayMainExtra": 28.5,
     "gameplayCompletionist": 44.5,
@@ -1362,6 +1595,7 @@
   {
     "id": "5698",
     "name": "Mass Effect",
+    "search": "Mass Effect",
     "gameplayMain": 17,
     "gameplayMainExtra": 28.5,
     "gameplayCompletionist": 44.5,
@@ -1370,6 +1604,7 @@
   {
     "id": "5699",
     "name": "Mass Effect 2",
+    "search": "Mass Effect 2",
     "gameplayMain": 24.5,
     "gameplayMainExtra": 35.5,
     "gameplayCompletionist": 50.5,
@@ -1378,6 +1613,7 @@
   {
     "id": "5707",
     "name": "Mass Effect 3",
+    "search": "Mass Effect 3",
     "gameplayMain": 24.5,
     "gameplayMainExtra": 35.5,
     "gameplayCompletionist": 50,
@@ -1386,6 +1622,7 @@
   {
     "id": "15464",
     "name": "Max The Curse of Brotherhood",
+    "search": "Max: The Curse of Brotherhood",
     "gameplayMain": 6,
     "gameplayMainExtra": 7,
     "gameplayCompletionist": 9.5,
@@ -1394,6 +1631,7 @@
   {
     "id": "5777",
     "name": "Medal of Honor Airborne",
+    "search": "Medal of Honor Airborne",
     "gameplayMain": 6,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 11.5,
@@ -1402,6 +1640,7 @@
   {
     "id": "44022",
     "name": "MiddleEarth Shadow of War",
+    "search": "Middle",
     "gameplayMain": 20.5,
     "gameplayMainExtra": 36,
     "gameplayCompletionist": 55.5,
@@ -1410,6 +1649,7 @@
   {
     "id": "6064",
     "name": "Minecraft",
+    "search": "Minecraft",
     "gameplayMain": 124,
     "gameplayMainExtra": 324,
     "gameplayCompletionist": 232,
@@ -1418,6 +1658,7 @@
   {
     "id": "68149",
     "name": "Minecraft Dungeons",
+    "search": "Minecraft Dungeons",
     "gameplayMain": 5,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 21.5,
@@ -1426,6 +1667,7 @@
   {
     "id": "6085",
     "name": "Mirrors Edge",
+    "search": "Mirror's Edge",
     "gameplayMain": 6,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 11,
@@ -1434,6 +1676,7 @@
   {
     "id": "19181",
     "name": "Mirrors Edge Catalyst",
+    "search": "Mirror's Edge Catalyst",
     "gameplayMain": 8.5,
     "gameplayMainExtra": 13,
     "gameplayCompletionist": 33.5,
@@ -1442,6 +1685,7 @@
   {
     "id": "35555",
     "name": "Momodora Reverie Under the Moonlight",
+    "search": "Momodora: Reverie Under the Moonlight",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 9.5,
@@ -1450,6 +1694,7 @@
   {
     "id": "6146",
     "name": "Monster Hunter",
+    "search": "MONSTER HUNTER",
     "gameplayMain": 49.5,
     "gameplayMainExtra": 87.5,
     "gameplayCompletionist": 414,
@@ -1458,6 +1703,7 @@
   {
     "id": "70012",
     "name": "Monster Sanctuary",
+    "search": "Monster Sanctuary",
     "gameplayMain": 27,
     "gameplayMainExtra": 35,
     "gameplayCompletionist": 0,
@@ -1466,14 +1712,25 @@
   {
     "id": "56787",
     "name": "Moonlighter",
+    "search": "Moonlighter",
     "gameplayMain": 14,
     "gameplayMainExtra": 20.5,
     "gameplayCompletionist": 25,
     "imageUrl": "https://howlongtobeat.com/games/56787_Moonlighter.jpg"
   },
   {
+    "id": "85965",
+    "name": "Morkredd",
+    "search": "Morkredd",
+    "gameplayMain": 0,
+    "gameplayMainExtra": 0,
+    "gameplayCompletionist": 0,
+    "imageUrl": "https://howlongtobeat.com/games/85965_Morkredd.jpg"
+  },
+  {
     "id": "21255",
     "name": "Mortal Kombat X",
+    "search": "Mortal Kombat X",
     "gameplayMain": 5.5,
     "gameplayMainExtra": 14.5,
     "gameplayCompletionist": 53,
@@ -1482,6 +1739,7 @@
   {
     "id": "6240",
     "name": "Mount  Blade Warband",
+    "search": "Mount & Blade: Warband",
     "gameplayMain": 119,
     "gameplayMainExtra": 2,
     "gameplayCompletionist": 643,
@@ -1490,6 +1748,7 @@
   {
     "id": "75031",
     "name": "Moving Out",
+    "search": "Moving Out",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 7.5,
     "gameplayCompletionist": 13,
@@ -1498,6 +1757,7 @@
   {
     "id": "57520",
     "name": "My Friend Pedro",
+    "search": "My Friend Pedro",
     "gameplayMain": 4,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 6.5,
@@ -1506,14 +1766,16 @@
   {
     "id": "52787",
     "name": "My Time At Portia",
+    "search": "My Time At Portia",
     "gameplayMain": 70,
-    "gameplayMainExtra": 98,
+    "gameplayMainExtra": 97,
     "gameplayCompletionist": 140,
     "imageUrl": "https://howlongtobeat.com/games/52787_My_Time_At_Portia.jpg"
   },
   {
     "id": "48823",
     "name": "NBA Live 18",
+    "search": "NBA LIVE 18",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -1522,14 +1784,34 @@
   {
     "id": "61335",
     "name": "NBA Live 19",
+    "search": "NBA LIVE 19",
     "gameplayMain": 27.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
     "imageUrl": "https://howlongtobeat.com/games/61335_NBA_Live_19.jpeg"
   },
   {
+    "id": "51697",
+    "name": "NHL 18",
+    "search": " NHL 18",
+    "gameplayMain": 40,
+    "gameplayMainExtra": 22,
+    "gameplayCompletionist": 23,
+    "imageUrl": "https://howlongtobeat.com/games/51697_NHL_18.jpg"
+  },
+  {
+    "id": "61272",
+    "name": "NHL 19",
+    "search": " NHL 19",
+    "gameplayMain": 39.5,
+    "gameplayMainExtra": 45,
+    "gameplayCompletionist": 50,
+    "imageUrl": "https://howlongtobeat.com/games/61272_NHL_19.jpg"
+  },
+  {
     "id": "70143",
     "name": "NHL 20",
+    "search": "NHL 20",
     "gameplayMain": 44.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -1538,6 +1820,7 @@
   {
     "id": "61474",
     "name": "Naruto to Boruto Shinobi Striker",
+    "search": "NARUTO TO BORUTO: SHINOBI STRIKER",
     "gameplayMain": 6,
     "gameplayMainExtra": 15,
     "gameplayCompletionist": 17.5,
@@ -1546,6 +1829,7 @@
   {
     "id": "69695",
     "name": "Need For Speed Heat",
+    "search": "Need for Speed Heat",
     "gameplayMain": 12.5,
     "gameplayMainExtra": 20.5,
     "gameplayCompletionist": 42.5,
@@ -1554,6 +1838,7 @@
   {
     "id": "26804",
     "name": "Need for Speed 2015",
+    "search": "Need for Speed",
     "gameplayMain": 15.5,
     "gameplayMainExtra": 23.5,
     "gameplayCompletionist": 28,
@@ -1562,6 +1847,7 @@
   {
     "id": "46292",
     "name": "Need for Speed Payback",
+    "search": "Need for Speed Payback",
     "gameplayMain": 18.5,
     "gameplayMainExtra": 27.5,
     "gameplayCompletionist": 44.5,
@@ -1570,6 +1856,7 @@
   {
     "id": "14334",
     "name": "Need for Speed Rivals",
+    "search": "Need for Speed Rivals",
     "gameplayMain": 13,
     "gameplayMainExtra": 20.5,
     "gameplayCompletionist": 32.5,
@@ -1578,6 +1865,7 @@
   {
     "id": "77366",
     "name": "Neon Abyss",
+    "search": "Neon Abyss",
     "gameplayMain": 11.5,
     "gameplayMainExtra": 31,
     "gameplayCompletionist": 0,
@@ -1586,6 +1874,7 @@
   {
     "id": "71552",
     "name": "New Super Luckys Tale",
+    "search": "New Super Lucky's Tale",
     "gameplayMain": 6.5,
     "gameplayMainExtra": 8.5,
     "gameplayCompletionist": 10.5,
@@ -1594,6 +1883,7 @@
   {
     "id": "6591",
     "name": "Nier",
+    "search": "NieR",
     "gameplayMain": 20.5,
     "gameplayMainExtra": 35,
     "gameplayCompletionist": 68,
@@ -1602,6 +1892,7 @@
   {
     "id": "69216",
     "name": "Night Call",
+    "search": "Night Call",
     "gameplayMain": 4,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 14.5,
@@ -1610,6 +1901,7 @@
   {
     "id": "20078",
     "name": "Night in the Woods",
+    "search": "Night in the Woods",
     "gameplayMain": 8.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 24,
@@ -1618,6 +1910,7 @@
   {
     "id": "6626",
     "name": "Ninja Gaiden II 2008",
+    "search": "NINJA GAIDEN II",
     "gameplayMain": 14,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 26.5,
@@ -1626,6 +1919,7 @@
   {
     "id": "20074",
     "name": "No Mans Sky",
+    "search": "No Man's Sky",
     "gameplayMain": 30.5,
     "gameplayMainExtra": 67,
     "gameplayCompletionist": 95,
@@ -1634,6 +1928,7 @@
   {
     "id": "69248",
     "name": "Nowhere Prophet",
+    "search": "Nowhere Prophet",
     "gameplayMain": 10,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 0,
@@ -1642,6 +1937,7 @@
   {
     "id": "67287",
     "name": "Observation",
+    "search": "Observation",
     "gameplayMain": 6,
     "gameplayMainExtra": 6.5,
     "gameplayCompletionist": 7,
@@ -1650,6 +1946,7 @@
   {
     "id": "36755",
     "name": "Ori and the Blind Forest Definitive Edition",
+    "search": "Ori and the Blind Forest: Definitive Edition",
     "gameplayMain": 8.5,
     "gameplayMainExtra": 10.5,
     "gameplayCompletionist": 12,
@@ -1658,6 +1955,7 @@
   {
     "id": "46428",
     "name": "Ori and the Will of the Wisps",
+    "search": "Ori and the Will of the Wisps",
     "gameplayMain": 11,
     "gameplayMainExtra": 14.5,
     "gameplayCompletionist": 17.5,
@@ -1666,6 +1964,7 @@
   {
     "id": "57527",
     "name": "Outer Wilds",
+    "search": "Outer Wilds",
     "gameplayMain": 15.5,
     "gameplayMainExtra": 20,
     "gameplayCompletionist": 22.5,
@@ -1674,6 +1973,7 @@
   {
     "id": "57518",
     "name": "Overcooked 2",
+    "search": "Overcooked! 2",
     "gameplayMain": 6.5,
     "gameplayMainExtra": 10.5,
     "gameplayCompletionist": 14.5,
@@ -1682,6 +1982,7 @@
   {
     "id": "33620",
     "name": "Oxenfree",
+    "search": "Oxenfree",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 13,
@@ -1690,6 +1991,7 @@
   {
     "id": "47069",
     "name": "Pandemic The Board Game",
+    "search": "Pandemic: The Board Game",
     "gameplayMain": 1,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 23.5,
@@ -1698,6 +2000,7 @@
   {
     "id": "51105",
     "name": "Pathologic 2",
+    "search": "Pathologic 2",
     "gameplayMain": 28.5,
     "gameplayMainExtra": 37.5,
     "gameplayCompletionist": 46.5,
@@ -1706,6 +2009,7 @@
   {
     "id": "44402",
     "name": "Payday 2 Crimewave Edition",
+    "search": "PAYDAY 2: CRIMEWAVE EDITION",
     "gameplayMain": 24.5,
     "gameplayMainExtra": 90.5,
     "gameplayCompletionist": 0,
@@ -1714,6 +2018,7 @@
   {
     "id": "15272",
     "name": "Peggle 2",
+    "search": "Peggle 2",
     "gameplayMain": 6,
     "gameplayMainExtra": 12.5,
     "gameplayCompletionist": 40.5,
@@ -1722,6 +2027,7 @@
   {
     "id": "6947",
     "name": "Peggle Deluxe",
+    "search": "Peggle",
     "gameplayMain": 4,
     "gameplayMainExtra": 11,
     "gameplayCompletionist": 33,
@@ -1730,6 +2036,7 @@
   {
     "id": "6966",
     "name": "Perfect Dark 2000",
+    "search": "Perfect Dark",
     "gameplayMain": 9,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 37,
@@ -1738,6 +2045,7 @@
   {
     "id": "6967",
     "name": "Perfect Dark Zero",
+    "search": "Perfect Dark Zero",
     "gameplayMain": 8,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 20,
@@ -1746,6 +2054,7 @@
   {
     "id": "85738",
     "name": "Phogs",
+    "search": "PHOGS!",
     "gameplayMain": 0,
     "gameplayMainExtra": 7,
     "gameplayCompletionist": 0,
@@ -1754,6 +2063,7 @@
   {
     "id": "64060",
     "name": "Pikuniku",
+    "search": "Pikuniku",
     "gameplayMain": 3,
     "gameplayMainExtra": 3.5,
     "gameplayCompletionist": 5,
@@ -1762,6 +2072,7 @@
   {
     "id": "71293",
     "name": "Pillars of Eternity Complete Edition",
+    "search": "Pillars of Eternity: Complete Edition",
     "gameplayMain": 36,
     "gameplayMainExtra": 63.5,
     "gameplayCompletionist": 104,
@@ -1770,6 +2081,7 @@
   {
     "id": "40413",
     "name": "Planet Coaster",
+    "search": "Planet Coaster",
     "gameplayMain": 22,
     "gameplayMainExtra": 42,
     "gameplayCompletionist": 83.5,
@@ -1778,6 +2090,7 @@
   {
     "id": "7106",
     "name": "Plants vs Zombies",
+    "search": "Plants vs. Zombies",
     "gameplayMain": 8,
     "gameplayMainExtra": 20,
     "gameplayCompletionist": 46.5,
@@ -1786,6 +2099,7 @@
   {
     "id": "7106",
     "name": "Plants vs Zombies",
+    "search": "Plants vs. Zombies",
     "gameplayMain": 8,
     "gameplayMainExtra": 20,
     "gameplayCompletionist": 46.5,
@@ -1794,6 +2108,7 @@
   {
     "id": "33632",
     "name": "Plants vs Zombies Garden Warfare 2",
+    "search": "Plants vs. Zombies Garden Warfare",
     "gameplayMain": 12.5,
     "gameplayMainExtra": 10,
     "gameplayCompletionist": 121,
@@ -1802,6 +2117,7 @@
   {
     "id": "33632",
     "name": "Plants vs Zombies Garden Warfare 2",
+    "search": "Plants vs. Zombies Garden Warfare 2",
     "gameplayMain": 12.5,
     "gameplayMainExtra": 10,
     "gameplayCompletionist": 121,
@@ -1810,6 +2126,7 @@
   {
     "id": "44704",
     "name": "PlayerUnknowns Battlegrounds",
+    "search": "PLAYERUNKNOWN'S BATTLEGROUNDS",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 105,
@@ -1818,6 +2135,7 @@
   {
     "id": "65929",
     "name": "Power Rangers Battle for the Grid",
+    "search": "Power Rangers: Battle for the Grid",
     "gameplayMain": 2.5,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 0,
@@ -1826,6 +2144,7 @@
   {
     "id": "19853",
     "name": "Quantum Break",
+    "search": "Quantum Break",
     "gameplayMain": 10,
     "gameplayMainExtra": 13,
     "gameplayCompletionist": 18.5,
@@ -1834,6 +2153,7 @@
   {
     "id": "8029",
     "name": "RUSH",
+    "search": "Rush",
     "gameplayMain": 3,
     "gameplayMainExtra": 7,
     "gameplayCompletionist": 8,
@@ -1842,6 +2162,7 @@
   {
     "id": "58031",
     "name": "Rage 2",
+    "search": "RAGE 2",
     "gameplayMain": 10,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 29.5,
@@ -1850,6 +2171,7 @@
   {
     "id": "26800",
     "name": "Rare Replay",
+    "search": "Rare Replay",
     "gameplayMain": 44,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -1858,6 +2180,7 @@
   {
     "id": "26789",
     "name": "ReCore",
+    "search": "ReCore",
     "gameplayMain": 12,
     "gameplayMainExtra": 19,
     "gameplayCompletionist": 37,
@@ -1866,6 +2189,7 @@
   {
     "id": "68318",
     "name": "Remnant From the Ashes",
+    "search": "Remnant: From the Ashes",
     "gameplayMain": 13.5,
     "gameplayMainExtra": 19,
     "gameplayCompletionist": 52,
@@ -1874,6 +2198,7 @@
   {
     "id": "38051",
     "name": "Resident Evil 7 Biohazard",
+    "search": "RESIDENT EVIL 7 biohazard",
     "gameplayMain": 9.5,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 22,
@@ -1882,6 +2207,7 @@
   {
     "id": "69993",
     "name": "River City Girls",
+    "search": "River City Girls",
     "gameplayMain": 7,
     "gameplayMainExtra": 8.5,
     "gameplayCompletionist": 15,
@@ -1890,14 +2216,25 @@
   {
     "id": "80744",
     "name": "Rocket Arena",
+    "search": "Rocket Arena",
     "gameplayMain": 3,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
     "imageUrl": "https://howlongtobeat.com/games/80744_Rocket_Arena.jpg"
   },
   {
+    "id": "33391",
+    "name": "Rory McIlroy PGA Tour",
+    "search": " Rory McIlroy PGA TOUR",
+    "gameplayMain": 40,
+    "gameplayMainExtra": 0,
+    "gameplayCompletionist": 0,
+    "imageUrl": "https://howlongtobeat.com/games/33391_Rory_McIlroy_PGA_Tour.jpg"
+  },
+  {
     "id": "14345",
     "name": "Ryse Son of Rome",
+    "search": "Ryse: Son of Rome",
     "gameplayMain": 6.5,
     "gameplayMainExtra": 8.5,
     "gameplayCompletionist": 19,
@@ -1906,14 +2243,25 @@
   {
     "id": "9016",
     "name": "SSX",
+    "search": "SSX",
     "gameplayMain": 11.5,
     "gameplayMainExtra": 15.5,
     "gameplayCompletionist": 24,
     "imageUrl": "https://howlongtobeat.com/games/256px-SSX_box_art.jpg"
   },
   {
+    "id": "51504",
+    "name": "SUPERHOT MIND CONTROL DELETE",
+    "search": "SUPERHOT: MIND CONTROL DELETE",
+    "gameplayMain": 6,
+    "gameplayMainExtra": 10.5,
+    "gameplayCompletionist": 13.5,
+    "imageUrl": "https://howlongtobeat.com/games/51504_SUPERHOT_MIND_CONTROL_DELETE.jpg"
+  },
+  {
     "id": "68579",
     "name": "ScourgeBringer",
+    "search": "ScourgeBringer",
     "gameplayMain": 6.5,
     "gameplayMainExtra": 11,
     "gameplayCompletionist": 16,
@@ -1922,6 +2270,7 @@
   {
     "id": "21715",
     "name": "Screamride",
+    "search": "ScreamRide",
     "gameplayMain": 9,
     "gameplayMainExtra": 14,
     "gameplayCompletionist": 0,
@@ -1930,6 +2279,7 @@
   {
     "id": "72036",
     "name": "Sea Salt",
+    "search": "Sea Salt",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 4.5,
     "gameplayCompletionist": 0,
@@ -1938,6 +2288,7 @@
   {
     "id": "25029",
     "name": "Sea of Solitude",
+    "search": "Sea of Solitude",
     "gameplayMain": 3,
     "gameplayMainExtra": 4,
     "gameplayCompletionist": 5,
@@ -1946,6 +2297,7 @@
   {
     "id": "38053",
     "name": "Sea of Thieves",
+    "search": "Sea of Thieves",
     "gameplayMain": 123,
     "gameplayMainExtra": 30.5,
     "gameplayCompletionist": 40.5,
@@ -1954,6 +2306,7 @@
   {
     "id": "69815",
     "name": "Secret Neighbor",
+    "search": "Secret Neighbor",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 3,
@@ -1962,6 +2315,7 @@
   {
     "id": "39740",
     "name": "Shadow Warrior 2",
+    "search": "Shadow Warrior 2",
     "gameplayMain": 8,
     "gameplayMainExtra": 15.5,
     "gameplayCompletionist": 22.5,
@@ -1970,6 +2324,7 @@
   {
     "id": "8368",
     "name": "Shadows of the Damned",
+    "search": "Shadows of the Damned",
     "gameplayMain": 8.5,
     "gameplayMainExtra": 10,
     "gameplayCompletionist": 19.5,
@@ -1978,6 +2333,7 @@
   {
     "id": "8599",
     "name": "Skate 3",
+    "search": "Skate 3",
     "gameplayMain": 9,
     "gameplayMainExtra": 26,
     "gameplayCompletionist": 38,
@@ -1986,6 +2342,7 @@
   {
     "id": "51390",
     "name": "Slay the Spire",
+    "search": "Slay The Spire",
     "gameplayMain": 11,
     "gameplayMainExtra": 42.5,
     "gameplayCompletionist": 231,
@@ -1994,6 +2351,7 @@
   {
     "id": "33740",
     "name": "Slime Rancher",
+    "search": "Slime Rancher",
     "gameplayMain": 15,
     "gameplayMainExtra": 22.5,
     "gameplayCompletionist": 42,
@@ -2002,6 +2360,7 @@
   {
     "id": "40715",
     "name": "Sniper Elite 4",
+    "search": "Sniper Elite 4",
     "gameplayMain": 10,
     "gameplayMainExtra": 16,
     "gameplayCompletionist": 32.5,
@@ -2010,6 +2369,7 @@
   {
     "id": "60106",
     "name": "Soulcalibur VI",
+    "search": "SOULCALIBUR VI",
     "gameplayMain": 7.5,
     "gameplayMainExtra": 19,
     "gameplayCompletionist": 33,
@@ -2018,6 +2378,7 @@
   {
     "id": "50209",
     "name": "Spintires MudRunner",
+    "search": "MudRunner",
     "gameplayMain": 17.5,
     "gameplayMainExtra": 22,
     "gameplayCompletionist": 37,
@@ -2026,6 +2387,7 @@
   {
     "id": "68189",
     "name": "Spiritfarer",
+    "search": "Spiritfarer",
     "gameplayMain": 22.5,
     "gameplayMainExtra": 29,
     "gameplayCompletionist": 35,
@@ -2034,6 +2396,7 @@
   {
     "id": "71955",
     "name": "Star Renegades",
+    "search": "Star Renegades",
     "gameplayMain": 10.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 0,
@@ -2042,6 +2405,7 @@
   {
     "id": "45153",
     "name": "Star Wars Battlefront II 2017",
+    "search": "STAR WARS Battlefront",
     "gameplayMain": 6,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 52,
@@ -2050,6 +2414,7 @@
   {
     "id": "45153",
     "name": "Star Wars Battlefront II 2017",
+    "search": "STAR WARS Battlefront II",
     "gameplayMain": 6,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 52,
@@ -2058,6 +2423,7 @@
   {
     "id": "60145",
     "name": "Star Wars Jedi Fallen Order",
+    "search": "STAR WARS Jedi",
     "gameplayMain": 16.5,
     "gameplayMainExtra": 21.5,
     "gameplayCompletionist": 30.5,
@@ -2066,6 +2432,7 @@
   {
     "id": "46403",
     "name": "State of Decay 2",
+    "search": "State of Decay 2",
     "gameplayMain": 17,
     "gameplayMainExtra": 29.5,
     "gameplayCompletionist": 70.5,
@@ -2074,6 +2441,7 @@
   {
     "id": "28182",
     "name": "State of Decay YearOne",
+    "search": "State of Decay: Year-One",
     "gameplayMain": 17.5,
     "gameplayMainExtra": 23,
     "gameplayCompletionist": 83,
@@ -2082,6 +2450,7 @@
   {
     "id": "37186",
     "name": "Stellaris",
+    "search": "Stellaris",
     "gameplayMain": 20.5,
     "gameplayMainExtra": 46.5,
     "gameplayCompletionist": 62.5,
@@ -2090,6 +2459,7 @@
   {
     "id": "68766",
     "name": "Stranger Things 3 The Game",
+    "search": "Stranger Things 3: The Game",
     "gameplayMain": 8.5,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 13,
@@ -2098,6 +2468,7 @@
   {
     "id": "76482",
     "name": "Streets of Rage 4",
+    "search": "Streets of Rage 4",
     "gameplayMain": 3,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 21.5,
@@ -2106,6 +2477,7 @@
   {
     "id": "44813",
     "name": "Streets of Rogue",
+    "search": "Streets of Rogue",
     "gameplayMain": 10.5,
     "gameplayMainExtra": 21.5,
     "gameplayCompletionist": 34,
@@ -2114,6 +2486,7 @@
   {
     "id": "23740",
     "name": "Subnautica",
+    "search": "Subnautica",
     "gameplayMain": 28,
     "gameplayMainExtra": 44.5,
     "gameplayCompletionist": 58,
@@ -2122,6 +2495,7 @@
   {
     "id": "21278",
     "name": "Sunset Overdrive",
+    "search": "Sunset Overdrive",
     "gameplayMain": 10,
     "gameplayMainExtra": 18.5,
     "gameplayCompletionist": 34,
@@ -2130,6 +2504,7 @@
   {
     "id": "46426",
     "name": "Super Luckys Tale",
+    "search": "Super Lucky's Tale",
     "gameplayMain": 6,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 11,
@@ -2138,6 +2513,7 @@
   {
     "id": "62224",
     "name": "Supraland",
+    "search": "Supraland",
     "gameplayMain": 13,
     "gameplayMainExtra": 17,
     "gameplayCompletionist": 23,
@@ -2146,6 +2522,7 @@
   {
     "id": "45951",
     "name": "Surviving Mars",
+    "search": "Surviving Mars",
     "gameplayMain": 18.5,
     "gameplayMainExtra": 39.5,
     "gameplayCompletionist": 129,
@@ -2154,6 +2531,7 @@
   {
     "id": "53186",
     "name": "Sword Art Online Fatal Bullet",
+    "search": "SWORD ART ONLINE: FATAL BULLET",
     "gameplayMain": 26,
     "gameplayMainExtra": 46,
     "gameplayCompletionist": 150,
@@ -2162,6 +2540,7 @@
   {
     "id": "9608",
     "name": "Tales of Vesperia",
+    "search": "Tales of Vesperia",
     "gameplayMain": 50.5,
     "gameplayMainExtra": 73,
     "gameplayCompletionist": 171,
@@ -2170,6 +2549,7 @@
   {
     "id": "46226",
     "name": "Tekken 7",
+    "search": "TEKKEN 7",
     "gameplayMain": 3.5,
     "gameplayMainExtra": 7,
     "gameplayCompletionist": 15.5,
@@ -2178,6 +2558,7 @@
   {
     "id": "71968",
     "name": "Tell Me Why",
+    "search": "Tell Me Why",
     "gameplayMain": 9,
     "gameplayMainExtra": 11,
     "gameplayCompletionist": 13,
@@ -2186,6 +2567,7 @@
   {
     "id": "9705",
     "name": "Terraria",
+    "search": "Terraria",
     "gameplayMain": 92,
     "gameplayMainExtra": 73,
     "gameplayCompletionist": 30,
@@ -2194,6 +2576,7 @@
   {
     "id": "57523",
     "name": "Tetris Effect",
+    "search": "Tetris Effect",
     "gameplayMain": 2.5,
     "gameplayMainExtra": 9.5,
     "gameplayCompletionist": 33,
@@ -2202,6 +2585,7 @@
   {
     "id": "9772",
     "name": "The Bards Tale 2004",
+    "search": "The Bard's Tale ARPG : Remastered and Resnarkled",
     "gameplayMain": 14,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 31,
@@ -2210,6 +2594,7 @@
   {
     "id": "69339",
     "name": "The Bards Tale IV Directors Cut",
+    "search": "The Bard's Tale IV: Director's Cut",
     "gameplayMain": 44.5,
     "gameplayMainExtra": 60.5,
     "gameplayCompletionist": 81.5,
@@ -2218,6 +2603,7 @@
   {
     "id": "59950",
     "name": "The Bards Tale Trilogy",
+    "search": "The Bard's Tale Trilogy",
     "gameplayMain": 24,
     "gameplayMainExtra": 49,
     "gameplayCompletionist": 129,
@@ -2226,6 +2612,7 @@
   {
     "id": "69525",
     "name": "The Dark Crystal Age of Resistance Tactics",
+    "search": "The Dark Crystal: Age of Resistance Tactics",
     "gameplayMain": 18.5,
     "gameplayMainExtra": 23,
     "gameplayCompletionist": 0,
@@ -2234,6 +2621,7 @@
   {
     "id": "67361",
     "name": "The Dark Pictures Man of Medan",
+    "search": "The Dark Pictures Anthology: Man Of Medan",
     "gameplayMain": 4,
     "gameplayMainExtra": 5,
     "gameplayCompletionist": 9.5,
@@ -2242,6 +2630,7 @@
   {
     "id": "17596",
     "name": "The Elder Scrolls Online",
+    "search": "The Elder Scrolls Online",
     "gameplayMain": 85,
     "gameplayMainExtra": 206,
     "gameplayCompletionist": 32,
@@ -2250,6 +2639,7 @@
   {
     "id": "56088",
     "name": "The Gardens Between",
+    "search": "The Gardens Between",
     "gameplayMain": 2.5,
     "gameplayMainExtra": 2.5,
     "gameplayCompletionist": 2.5,
@@ -2258,6 +2648,7 @@
   {
     "id": "43633",
     "name": "The Hunter Call of the Wild",
+    "search": "theHunter: Call of the Wild",
     "gameplayMain": 23,
     "gameplayMainExtra": 90,
     "gameplayCompletionist": 130,
@@ -2266,6 +2657,7 @@
   {
     "id": "50275",
     "name": "The Jackbox Party Pack 4",
+    "search": "The Jackbox Party Pack 4",
     "gameplayMain": 0,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 16,
@@ -2274,6 +2666,7 @@
   {
     "id": "21471",
     "name": "The Long Dark",
+    "search": "The Long Dark",
     "gameplayMain": 18.5,
     "gameplayMainExtra": 46.5,
     "gameplayCompletionist": 152,
@@ -2282,6 +2675,7 @@
   {
     "id": "60176",
     "name": "The Messenger 2018",
+    "search": "The Messenger",
     "gameplayMain": 11,
     "gameplayMainExtra": 14,
     "gameplayCompletionist": 15,
@@ -2290,6 +2684,7 @@
   {
     "id": "62935",
     "name": "The Outer Worlds",
+    "search": "The Outer Worlds",
     "gameplayMain": 12.5,
     "gameplayMainExtra": 24,
     "gameplayCompletionist": 35.5,
@@ -2298,6 +2693,7 @@
   {
     "id": "20992",
     "name": "The Sims 4",
+    "search": "The Sims 4",
     "gameplayMain": 44,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -2306,6 +2702,7 @@
   {
     "id": "67880",
     "name": "The Surge 2",
+    "search": "The Surge 2",
     "gameplayMain": 22.5,
     "gameplayMainExtra": 25.5,
     "gameplayCompletionist": 37.5,
@@ -2314,6 +2711,7 @@
   {
     "id": "70671",
     "name": "The Touryst",
+    "search": "The Touryst",
     "gameplayMain": 5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 6,
@@ -2322,6 +2720,7 @@
   {
     "id": "38891",
     "name": "The Turing Test",
+    "search": "The Turing Test",
     "gameplayMain": 5,
     "gameplayMainExtra": 6,
     "gameplayCompletionist": 6,
@@ -2330,6 +2729,7 @@
   {
     "id": "10250",
     "name": "The Walking Dead  A Telltale Games Series",
+    "search": "The Walking Dead: The Complete First Season",
     "gameplayMain": 13.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -2338,6 +2738,7 @@
   {
     "id": "66845",
     "name": "The Walking Dead 2017",
+    "search": "The Walking Dead",
     "gameplayMain": 1,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -2346,6 +2747,7 @@
   {
     "id": "66845",
     "name": "The Walking Dead 2017",
+    "search": "The Walking Dead",
     "gameplayMain": 1,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -2354,6 +2756,7 @@
   {
     "id": "66845",
     "name": "The Walking Dead 2017",
+    "search": "The Walking Dead",
     "gameplayMain": 1,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -2362,6 +2765,7 @@
   {
     "id": "66845",
     "name": "The Walking Dead 2017",
+    "search": "The Walking Dead",
     "gameplayMain": 1,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -2370,6 +2774,7 @@
   {
     "id": "66845",
     "name": "The Walking Dead 2017",
+    "search": "The Walking Dead",
     "gameplayMain": 1,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -2378,6 +2783,7 @@
   {
     "id": "10270",
     "name": "The Witcher 3 Wild Hunt",
+    "search": "The Witcher 3: Wild Hunt",
     "gameplayMain": 51.5,
     "gameplayMainExtra": 102,
     "gameplayCompletionist": 173,
@@ -2386,6 +2792,7 @@
   {
     "id": "61381",
     "name": "Thronebreaker The Witcher Tales",
+    "search": "Thronebreaker: The Witcher Tales",
     "gameplayMain": 27.5,
     "gameplayMainExtra": 35.5,
     "gameplayCompletionist": 42,
@@ -2394,6 +2801,7 @@
   {
     "id": "10330",
     "name": "Ticket to Ride",
+    "search": "Ticket to Ride",
     "gameplayMain": 1,
     "gameplayMainExtra": 2.5,
     "gameplayCompletionist": 11.5,
@@ -2402,6 +2810,7 @@
   {
     "id": "16621",
     "name": "Titanfall",
+    "search": "Titanfall",
     "gameplayMain": 12,
     "gameplayMainExtra": 18,
     "gameplayCompletionist": 40,
@@ -2410,14 +2819,25 @@
   {
     "id": "38000",
     "name": "Titanfall 2",
+    "search": "Titanfall 2",
     "gameplayMain": 6,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 14,
     "imageUrl": "https://howlongtobeat.com/games/38000_Titanfall_2.jpeg"
   },
   {
+    "id": "21279",
+    "name": "Tom Clancys Rainbow Six Siege",
+    "search": "Tom Clancy's Rainbow Six Siege ",
+    "gameplayMain": 7.5,
+    "gameplayMainExtra": 91,
+    "gameplayCompletionist": 380,
+    "imageUrl": "https://howlongtobeat.com/games/Rainbow_Six_siege_photo_2014-06-14_17-51.jpg"
+  },
+  {
     "id": "52878",
     "name": "Totally Accurate Battle Simulator",
+    "search": "Totally Accurate Battle Simulator ",
     "gameplayMain": 5.5,
     "gameplayMainExtra": 7.5,
     "gameplayCompletionist": 10,
@@ -2426,6 +2846,7 @@
   {
     "id": "69333",
     "name": "Totally Reliable Delivery Service",
+    "search": "Totally Reliable Delivery Service",
     "gameplayMain": 1,
     "gameplayMainExtra": 10,
     "gameplayCompletionist": 0,
@@ -2434,6 +2855,7 @@
   {
     "id": "60261",
     "name": "Touhou Luna Nights",
+    "search": "Touhou Luna Nights",
     "gameplayMain": 5,
     "gameplayMainExtra": 6.5,
     "gameplayCompletionist": 9.5,
@@ -2442,6 +2864,7 @@
   {
     "id": "56055",
     "name": "Trailmakers",
+    "search": "Trailmakers",
     "gameplayMain": 11.5,
     "gameplayMainExtra": 13.5,
     "gameplayCompletionist": 120,
@@ -2450,6 +2873,7 @@
   {
     "id": "74885",
     "name": "Train Sim World 2020",
+    "search": "Train Sim World 2020",
     "gameplayMain": 19.5,
     "gameplayMainExtra": 33,
     "gameplayCompletionist": 39,
@@ -2458,14 +2882,25 @@
   {
     "id": "60043",
     "name": "Two Point Hospital",
+    "search": "Two Point Hospital",
     "gameplayMain": 37.5,
     "gameplayMainExtra": 72.5,
     "gameplayCompletionist": 122,
     "imageUrl": "https://howlongtobeat.com/games/60043_two_point_hospital.jpg"
   },
   {
+    "id": "10749",
+    "name": "UFC Undisputed 2010",
+    "search": " UFC 2",
+    "gameplayMain": 27,
+    "gameplayMainExtra": 0,
+    "gameplayCompletionist": 0,
+    "imageUrl": "https://howlongtobeat.com/games/240px-UFC_Undisputed_2010_cover.jpg"
+  },
+  {
     "id": "69349",
     "name": "Undermine",
+    "search": "UnderMine",
     "gameplayMain": 19,
     "gameplayMainExtra": 29.5,
     "gameplayCompletionist": 45,
@@ -2474,6 +2909,7 @@
   {
     "id": "26763",
     "name": "Unravel",
+    "search": "Unravel",
     "gameplayMain": 6,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 12.5,
@@ -2482,6 +2918,7 @@
   {
     "id": "57358",
     "name": "Unravel 2",
+    "search": "Unravel Two",
     "gameplayMain": 5,
     "gameplayMainExtra": 6.5,
     "gameplayCompletionist": 9,
@@ -2490,6 +2927,7 @@
   {
     "id": "64458",
     "name": "Unruly Heroes",
+    "search": "Unruly Heroes",
     "gameplayMain": 8,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 13,
@@ -2498,6 +2936,7 @@
   {
     "id": "66086",
     "name": "Untitled Goose Game",
+    "search": "Untitled Goose Game",
     "gameplayMain": 3,
     "gameplayMainExtra": 4,
     "gameplayCompletionist": 5,
@@ -2506,6 +2945,7 @@
   {
     "id": "49816",
     "name": "Unto The End",
+    "search": "Unto The End",
     "gameplayMain": 4.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 0,
@@ -2514,6 +2954,7 @@
   {
     "id": "67877",
     "name": "Vambrace Cold Soul",
+    "search": "Vambrace: Cold Soul",
     "gameplayMain": 0,
     "gameplayMainExtra": 19,
     "gameplayCompletionist": 0,
@@ -2522,6 +2963,7 @@
   {
     "id": "10976",
     "name": "Viva Piata",
+    "search": "Viva Piñata",
     "gameplayMain": 18.5,
     "gameplayMainExtra": 31.5,
     "gameplayCompletionist": 51,
@@ -2530,6 +2972,7 @@
   {
     "id": "10976",
     "name": "Viva Piata",
+    "search": "Viva Piñata",
     "gameplayMain": 18.5,
     "gameplayMainExtra": 31.5,
     "gameplayCompletionist": 51,
@@ -2538,6 +2981,7 @@
   {
     "id": "67475",
     "name": "Void Bastards",
+    "search": "Void Bastards",
     "gameplayMain": 8.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 20.5,
@@ -2546,6 +2990,7 @@
   {
     "id": "61653",
     "name": "Wargroove",
+    "search": "Wargroove",
     "gameplayMain": 20,
     "gameplayMainExtra": 38,
     "gameplayCompletionist": 72,
@@ -2554,6 +2999,7 @@
   {
     "id": "51768",
     "name": "Warhammer Vermintide 2",
+    "search": "Warhammer: Vermintide 2",
     "gameplayMain": 19.5,
     "gameplayMainExtra": 65,
     "gameplayCompletionist": 0,
@@ -2562,14 +3008,25 @@
   {
     "id": "11099",
     "name": "Wasteland 2",
+    "search": "Wasteland 2: Director's Cut",
     "gameplayMain": 39.5,
     "gameplayMainExtra": 64,
     "gameplayCompletionist": 109,
     "imageUrl": "https://howlongtobeat.com/games/Wasteland2art.jpg"
   },
   {
+    "id": "42532",
+    "name": "Wasteland 3",
+    "search": "Wasteland 3 ",
+    "gameplayMain": 36.5,
+    "gameplayMainExtra": 51,
+    "gameplayCompletionist": 71,
+    "imageUrl": "https://howlongtobeat.com/games/42532_Wasteland_3.jpg"
+  },
+  {
     "id": "74755",
     "name": "Wasteland Remastered",
+    "search": "Wasteland Remastered",
     "gameplayMain": 8,
     "gameplayMainExtra": 24,
     "gameplayCompletionist": 27,
@@ -2578,6 +3035,7 @@
   {
     "id": "27102",
     "name": "We Happy Few",
+    "search": "We Happy Few",
     "gameplayMain": 21,
     "gameplayMainExtra": 43.5,
     "gameplayCompletionist": 64,
@@ -2586,6 +3044,7 @@
   {
     "id": "77696",
     "name": "West of Dead",
+    "search": "West of Dead",
     "gameplayMain": 11.5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 37,
@@ -2594,6 +3053,7 @@
   {
     "id": "45392",
     "name": "What Remains of Edith Finch",
+    "search": "What Remains of Edith Finch",
     "gameplayMain": 2,
     "gameplayMainExtra": 2.5,
     "gameplayCompletionist": 3,
@@ -2602,6 +3062,7 @@
   {
     "id": "26294",
     "name": "Wizard of Legend",
+    "search": "Wizard of Legend",
     "gameplayMain": 6.5,
     "gameplayMainExtra": 16,
     "gameplayCompletionist": 23,
@@ -2610,6 +3071,7 @@
   {
     "id": "57504",
     "name": "Wolfenstein Youngblood",
+    "search": "Wolfenstein: Youngblood",
     "gameplayMain": 9,
     "gameplayMainExtra": 14,
     "gameplayCompletionist": 27.5,
@@ -2618,6 +3080,7 @@
   {
     "id": "64828",
     "name": "World War Z 2019",
+    "search": "World War Z",
     "gameplayMain": 7,
     "gameplayMainExtra": 11.5,
     "gameplayCompletionist": 20,
@@ -2626,6 +3089,7 @@
   {
     "id": "39481",
     "name": "Worms WMD",
+    "search": "Worms W.M.D",
     "gameplayMain": 14.5,
     "gameplayMainExtra": 17,
     "gameplayCompletionist": 24.5,
@@ -2634,6 +3098,7 @@
   {
     "id": "71596",
     "name": "Xeno Crisis",
+    "search": "Xeno Crisis",
     "gameplayMain": 1.5,
     "gameplayMainExtra": 5.5,
     "gameplayCompletionist": 0,
@@ -2642,6 +3107,7 @@
   {
     "id": "43056",
     "name": "Yakuza 0",
+    "search": "Yakuza 0",
     "gameplayMain": 31,
     "gameplayMainExtra": 65,
     "gameplayCompletionist": 140,
@@ -2650,6 +3116,7 @@
   {
     "id": "39484",
     "name": "Yakuza Kiwami",
+    "search": "Yakuza Kiwami",
     "gameplayMain": 18,
     "gameplayMainExtra": 33,
     "gameplayCompletionist": 85,
@@ -2658,6 +3125,7 @@
   {
     "id": "49620",
     "name": "Yakuza Kiwami 2",
+    "search": "Yakuza Kiwami 2",
     "gameplayMain": 18.5,
     "gameplayMainExtra": 34.5,
     "gameplayCompletionist": 74,
@@ -2666,14 +3134,25 @@
   {
     "id": "71500",
     "name": "Yes Your Grace",
+    "search": "Yes, Your Grace",
     "gameplayMain": 5.5,
     "gameplayMainExtra": 8,
     "gameplayCompletionist": 10.5,
     "imageUrl": "https://howlongtobeat.com/games/71500_Yes_Your_Grace.jpg"
   },
   {
+    "id": "68031",
+    "name": "YookaLaylee and the Impossible Lair",
+    "search": "Yooka-Laylee and the Impossible Lair",
+    "gameplayMain": 13,
+    "gameplayMainExtra": 15,
+    "gameplayCompletionist": 21,
+    "imageUrl": "https://howlongtobeat.com/games/68031_Yooka-Laylee_and_the_Impossible_Lair.jpg"
+  },
+  {
     "id": "52069",
     "name": "Zoo Tycoon Ultimate Animal Collection",
+    "search": "Zoo Tycoon: Ultimate Animal Collection",
     "gameplayMain": 14,
     "gameplayMainExtra": 15,
     "gameplayCompletionist": 82,
@@ -2682,6 +3161,7 @@
   {
     "id": "11609",
     "name": "Zuma",
+    "search": "Zuma",
     "gameplayMain": 5,
     "gameplayMainExtra": 0,
     "gameplayCompletionist": 24,
@@ -2690,6 +3170,7 @@
   {
     "id": "11611",
     "name": "Zumas Revenge",
+    "search": "Zuma's Revenge!",
     "gameplayMain": 5,
     "gameplayMainExtra": 9,
     "gameplayCompletionist": 19,
@@ -2698,6 +3179,7 @@
   {
     "id": "2295",
     "name": "de Blob",
+    "search": "de Blob",
     "gameplayMain": 7.5,
     "gameplayMainExtra": 12,
     "gameplayCompletionist": 19,
