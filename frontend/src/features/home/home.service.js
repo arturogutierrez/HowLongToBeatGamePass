@@ -1,4 +1,5 @@
 import GameInfo from './home.model';
+import moment from 'moment';
 
 const homeService = {
   loadGames,
@@ -17,7 +18,7 @@ async function loadGames() {
         i.gameplayMainExtra,
         i.gameplayCompletionist,
         i.imageUrl,
-        i.releaseDate,
+        moment(i.releaseDate, 'MMM YYYY').toDate(),
         i.metacritic,
       ),
   );

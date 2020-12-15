@@ -2,6 +2,8 @@ import React from 'react';
 import { withRouter } from 'react-router';
 import { connect } from 'react-redux';
 import { homeActions } from '../home';
+import MaterialTable from 'material-table';
+import moment from 'moment';
 
 import AppBar from '@material-ui/core/AppBar';
 import Container from '@material-ui/core/Container';
@@ -32,6 +34,8 @@ const styles = (theme) => ({
 });
 
 class HomeScreen extends React.Component {
+  chart = React.createRef();
+
   componentWillMount() {
     this.props.onComponentMounted();
   }
@@ -40,6 +44,10 @@ class HomeScreen extends React.Component {
     const { classes } = this.props;
     const { loading } = this.props;
     const { games } = this.props;
+
+    if (!loading) {
+      // Create table data
+    }
 
     return (
       <React.Fragment>
@@ -70,7 +78,72 @@ class HomeScreen extends React.Component {
             </Container>
             <div className={classes.tableContent}>
               {loading && <CircularProgress variant="indeterminate" />}
-              {!loading && <div id="tableContentBody"></div>}
+              {!loading && (
+                <div style={{ maxWidth: '100%' }}>
+                  <MaterialTable
+                    options={{
+                      pageSize: 50,
+                      pageSizeOptions: [20, 50],
+                    }}
+                    columns={[
+                      { title: 'Name', field: 'name' },
+                      {
+                        title: 'Gameplay Main',
+                        field: 'gameplayMain',
+                        type: 'numeric',
+                        render: (rowData) => {
+                          if (rowData.gameplayMain > 0) {
+                            return rowData.gameplayMain;
+                          }
+                          return 'N/A';
+                        },
+                      },
+                      {
+                        title: 'Gameplay Main Extra',
+                        field: 'gameplayMainExtra',
+                        type: 'numeric',
+                        render: (rowData) => {
+                          if (rowData.gameplayMainExtra > 0) {
+                            return rowData.gameplayMainExtra;
+                          }
+                          return 'N/A';
+                        },
+                      },
+                      {
+                        title: 'Gameplay Completionist',
+                        field: 'gameplayCompletionist',
+                        type: 'numeric',
+                        render: (rowData) => {
+                          if (rowData.gameplayCompletionist > 0) {
+                            return rowData.gameplayCompletionist;
+                          }
+                          return 'N/A';
+                        },
+                      },
+                      {
+                        title: 'Release Date',
+                        field: 'releaseDate',
+                        type: 'date',
+                        render: (rowData) => moment(rowData.releaseDate).format('MMM YYYY'),
+                      },
+                      {
+                        title: 'Metacritic',
+                        field: 'metacritic',
+                        type: 'numeric',
+                        defaultSort: 'desc',
+                        render: (rowData) => {
+                          if (rowData.metacritic > 0) {
+                            return rowData.metacritic;
+                          }
+                          return 'N/A';
+                        },
+                      },
+                    ]}
+                    data={games}
+                    title=""
+                  />
+                </div>
+              )}
             </div>
           </div>
         </main>
