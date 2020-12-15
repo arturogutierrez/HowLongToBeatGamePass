@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/HowLongToBeatGamePass/static/css/main.e37a426c.chunk.css",
+    "main.js": "/HowLongToBeatGamePass/static/js/main.bfc17368.chunk.js",
+    "main.js.map": "/HowLongToBeatGamePass/static/js/main.bfc17368.chunk.js.map",
+    "runtime-main.js": "/HowLongToBeatGamePass/static/js/runtime-main.df23b40b.js",
+    "runtime-main.js.map": "/HowLongToBeatGamePass/static/js/runtime-main.df23b40b.js.map",
+    "static/js/2.4d954e20.chunk.js": "/HowLongToBeatGamePass/static/js/2.4d954e20.chunk.js",
+    "static/js/2.4d954e20.chunk.js.map": "/HowLongToBeatGamePass/static/js/2.4d954e20.chunk.js.map",
+    "static/js/3.28605437.chunk.js": "/HowLongToBeatGamePass/static/js/3.28605437.chunk.js",
+    "static/js/3.28605437.chunk.js.map": "/HowLongToBeatGamePass/static/js/3.28605437.chunk.js.map",
+    "static/js/4.5a79c701.chunk.js": "/HowLongToBeatGamePass/static/js/4.5a79c701.chunk.js",
+    "static/js/4.5a79c701.chunk.js.map": "/HowLongToBeatGamePass/static/js/4.5a79c701.chunk.js.map",
+    "static/js/5.39844713.chunk.js": "/HowLongToBeatGamePass/static/js/5.39844713.chunk.js",
+    "static/js/5.39844713.chunk.js.map": "/HowLongToBeatGamePass/static/js/5.39844713.chunk.js.map",
+    "static/js/6.5ed5941d.chunk.js": "/HowLongToBeatGamePass/static/js/6.5ed5941d.chunk.js",
+    "static/js/6.5ed5941d.chunk.js.map": "/HowLongToBeatGamePass/static/js/6.5ed5941d.chunk.js.map",
+    "index.html": "/HowLongToBeatGamePass/index.html",
+    "static/css/main.e37a426c.chunk.css.map": "/HowLongToBeatGamePass/static/css/main.e37a426c.chunk.css.map",
+    "static/js/2.4d954e20.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/2.4d954e20.chunk.js.LICENSE.txt",
+    "static/js/3.28605437.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/3.28605437.chunk.js.LICENSE.txt",
+    "static/js/4.5a79c701.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/4.5a79c701.chunk.js.LICENSE.txt",
+    "static/js/5.39844713.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/5.39844713.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df23b40b.js",
+    "static/js/3.28605437.chunk.js",
+    "static/css/main.e37a426c.chunk.css",
+    "static/js/main.bfc17368.chunk.js"
+  ]
+}
