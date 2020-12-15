@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/HowLongToBeatGamePass/static/css/main.e37a426c.chunk.css",
-    "main.js": "/HowLongToBeatGamePass/static/js/main.bfc17368.chunk.js",
-    "main.js.map": "/HowLongToBeatGamePass/static/js/main.bfc17368.chunk.js.map",
-    "runtime-main.js": "/HowLongToBeatGamePass/static/js/runtime-main.df23b40b.js",
-    "runtime-main.js.map": "/HowLongToBeatGamePass/static/js/runtime-main.df23b40b.js.map",
-    "static/js/2.4d954e20.chunk.js": "/HowLongToBeatGamePass/static/js/2.4d954e20.chunk.js",
-    "static/js/2.4d954e20.chunk.js.map": "/HowLongToBeatGamePass/static/js/2.4d954e20.chunk.js.map",
-    "static/js/3.28605437.chunk.js": "/HowLongToBeatGamePass/static/js/3.28605437.chunk.js",
-    "static/js/3.28605437.chunk.js.map": "/HowLongToBeatGamePass/static/js/3.28605437.chunk.js.map",
-    "static/js/4.5a79c701.chunk.js": "/HowLongToBeatGamePass/static/js/4.5a79c701.chunk.js",
-    "static/js/4.5a79c701.chunk.js.map": "/HowLongToBeatGamePass/static/js/4.5a79c701.chunk.js.map",
-    "static/js/5.39844713.chunk.js": "/HowLongToBeatGamePass/static/js/5.39844713.chunk.js",
-    "static/js/5.39844713.chunk.js.map": "/HowLongToBeatGamePass/static/js/5.39844713.chunk.js.map",
-    "static/js/6.5ed5941d.chunk.js": "/HowLongToBeatGamePass/static/js/6.5ed5941d.chunk.js",
-    "static/js/6.5ed5941d.chunk.js.map": "/HowLongToBeatGamePass/static/js/6.5ed5941d.chunk.js.map",
+    "main.js": "/HowLongToBeatGamePass/static/js/main.9cc2971f.chunk.js",
+    "main.js.map": "/HowLongToBeatGamePass/static/js/main.9cc2971f.chunk.js.map",
+    "runtime-main.js": "/HowLongToBeatGamePass/static/js/runtime-main.247f051c.js",
+    "runtime-main.js.map": "/HowLongToBeatGamePass/static/js/runtime-main.247f051c.js.map",
+    "static/js/2.5a4070a5.chunk.js": "/HowLongToBeatGamePass/static/js/2.5a4070a5.chunk.js",
+    "static/js/2.5a4070a5.chunk.js.map": "/HowLongToBeatGamePass/static/js/2.5a4070a5.chunk.js.map",
+    "static/js/3.97e1e285.chunk.js": "/HowLongToBeatGamePass/static/js/3.97e1e285.chunk.js",
+    "static/js/3.97e1e285.chunk.js.map": "/HowLongToBeatGamePass/static/js/3.97e1e285.chunk.js.map",
+    "static/js/4.2957f302.chunk.js": "/HowLongToBeatGamePass/static/js/4.2957f302.chunk.js",
+    "static/js/4.2957f302.chunk.js.map": "/HowLongToBeatGamePass/static/js/4.2957f302.chunk.js.map",
+    "static/js/5.d677383b.chunk.js": "/HowLongToBeatGamePass/static/js/5.d677383b.chunk.js",
+    "static/js/5.d677383b.chunk.js.map": "/HowLongToBeatGamePass/static/js/5.d677383b.chunk.js.map",
+    "static/js/6.3a6e592a.chunk.js": "/HowLongToBeatGamePass/static/js/6.3a6e592a.chunk.js",
+    "static/js/6.3a6e592a.chunk.js.map": "/HowLongToBeatGamePass/static/js/6.3a6e592a.chunk.js.map",
     "index.html": "/HowLongToBeatGamePass/index.html",
     "static/css/main.e37a426c.chunk.css.map": "/HowLongToBeatGamePass/static/css/main.e37a426c.chunk.css.map",
-    "static/js/2.4d954e20.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/2.4d954e20.chunk.js.LICENSE.txt",
-    "static/js/3.28605437.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/3.28605437.chunk.js.LICENSE.txt",
-    "static/js/4.5a79c701.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/4.5a79c701.chunk.js.LICENSE.txt",
-    "static/js/5.39844713.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/5.39844713.chunk.js.LICENSE.txt"
+    "static/js/2.5a4070a5.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/2.5a4070a5.chunk.js.LICENSE.txt",
+    "static/js/3.97e1e285.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/3.97e1e285.chunk.js.LICENSE.txt",
+    "static/js/4.2957f302.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/4.2957f302.chunk.js.LICENSE.txt",
+    "static/js/5.d677383b.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/5.d677383b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.df23b40b.js",
-    "static/js/3.28605437.chunk.js",
+    "static/js/runtime-main.247f051c.js",
+    "static/js/3.97e1e285.chunk.js",
     "static/css/main.e37a426c.chunk.css",
-    "static/js/main.bfc17368.chunk.js"
+    "static/js/main.9cc2971f.chunk.js"
   ]
 }
