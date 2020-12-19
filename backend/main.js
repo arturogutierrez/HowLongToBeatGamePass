@@ -111,7 +111,10 @@ function curateRetryName(originalName) {
 }
 
 function specificGameNameMapping(gameName) {
-   const map = new Map([['The Walking Dead: Season Two', 'The Walking Dead Season 2']]);
+   const map = new Map([
+      ['The Walking Dead: Season Two', 'The Walking Dead Season 2'],
+      ['Wilmot’s Warehouse', "Wilmot's Warehouse"],
+   ]);
    const value = map.get(gameName);
    if (value != null) {
       return gameName.replace(gameName, value);
