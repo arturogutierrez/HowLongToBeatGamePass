@@ -1,6 +1,5 @@
 import React from 'react';
-import { Route, Router, Switch } from 'react-router-dom';
-import history from './history';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 // Routes
 import { INDEX } from '../routes';
 // Screens
@@ -29,11 +28,11 @@ const theme = createMuiTheme({
 function App() {
   return (
     <ThemeProvider theme={theme}>
-      <Router history={history}>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
-          <Route exact path={INDEX} component={HomeScreen} />
+          <Route path={INDEX} component={HomeScreen} />
         </Switch>
-      </Router>
+      </BrowserRouter>
     </ThemeProvider>
   );
 }

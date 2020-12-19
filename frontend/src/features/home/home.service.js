@@ -6,7 +6,7 @@ const homeService = {
 };
 
 async function loadGames() {
-  const response = await fetch('games.json');
+  const response = await fetch('HowLongToBeatGamePass/games.json');
   const items = await response.json();
   return items.map(
     (i) =>
