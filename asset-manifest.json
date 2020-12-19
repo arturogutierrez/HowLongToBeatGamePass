@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HowLongToBeatGamePass/static/css/main.e37a426c.chunk.css",
-    "main.js": "/HowLongToBeatGamePass/static/js/main.16833026.chunk.js",
-    "main.js.map": "/HowLongToBeatGamePass/static/js/main.16833026.chunk.js.map",
+    "main.js": "/HowLongToBeatGamePass/static/js/main.19725753.chunk.js",
+    "main.js.map": "/HowLongToBeatGamePass/static/js/main.19725753.chunk.js.map",
     "runtime-main.js": "/HowLongToBeatGamePass/static/js/runtime-main.185f0989.js",
     "runtime-main.js.map": "/HowLongToBeatGamePass/static/js/runtime-main.185f0989.js.map",
     "static/js/2.c768e0b8.chunk.js": "/HowLongToBeatGamePass/static/js/2.c768e0b8.chunk.js",
@@ -26,6 +26,6 @@
     "static/js/runtime-main.185f0989.js",
     "static/js/3.f5b2c5f0.chunk.js",
     "static/css/main.e37a426c.chunk.css",
-    "static/js/main.16833026.chunk.js"
+    "static/js/main.19725753.chunk.js"
   ]
 }
