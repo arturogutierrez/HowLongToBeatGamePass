@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/HowLongToBeatGamePass/static/css/main.e37a426c.chunk.css",
-    "main.js": "/HowLongToBeatGamePass/static/js/main.9cc2971f.chunk.js",
-    "main.js.map": "/HowLongToBeatGamePass/static/js/main.9cc2971f.chunk.js.map",
-    "runtime-main.js": "/HowLongToBeatGamePass/static/js/runtime-main.247f051c.js",
-    "runtime-main.js.map": "/HowLongToBeatGamePass/static/js/runtime-main.247f051c.js.map",
-    "static/js/2.5a4070a5.chunk.js": "/HowLongToBeatGamePass/static/js/2.5a4070a5.chunk.js",
-    "static/js/2.5a4070a5.chunk.js.map": "/HowLongToBeatGamePass/static/js/2.5a4070a5.chunk.js.map",
-    "static/js/3.97e1e285.chunk.js": "/HowLongToBeatGamePass/static/js/3.97e1e285.chunk.js",
-    "static/js/3.97e1e285.chunk.js.map": "/HowLongToBeatGamePass/static/js/3.97e1e285.chunk.js.map",
-    "static/js/4.2957f302.chunk.js": "/HowLongToBeatGamePass/static/js/4.2957f302.chunk.js",
-    "static/js/4.2957f302.chunk.js.map": "/HowLongToBeatGamePass/static/js/4.2957f302.chunk.js.map",
-    "static/js/5.d677383b.chunk.js": "/HowLongToBeatGamePass/static/js/5.d677383b.chunk.js",
-    "static/js/5.d677383b.chunk.js.map": "/HowLongToBeatGamePass/static/js/5.d677383b.chunk.js.map",
+    "main.js": "/HowLongToBeatGamePass/static/js/main.19725753.chunk.js",
+    "main.js.map": "/HowLongToBeatGamePass/static/js/main.19725753.chunk.js.map",
+    "runtime-main.js": "/HowLongToBeatGamePass/static/js/runtime-main.185f0989.js",
+    "runtime-main.js.map": "/HowLongToBeatGamePass/static/js/runtime-main.185f0989.js.map",
+    "static/js/2.c768e0b8.chunk.js": "/HowLongToBeatGamePass/static/js/2.c768e0b8.chunk.js",
+    "static/js/2.c768e0b8.chunk.js.map": "/HowLongToBeatGamePass/static/js/2.c768e0b8.chunk.js.map",
+    "static/js/3.f5b2c5f0.chunk.js": "/HowLongToBeatGamePass/static/js/3.f5b2c5f0.chunk.js",
+    "static/js/3.f5b2c5f0.chunk.js.map": "/HowLongToBeatGamePass/static/js/3.f5b2c5f0.chunk.js.map",
+    "static/js/4.2cc792d3.chunk.js": "/HowLongToBeatGamePass/static/js/4.2cc792d3.chunk.js",
+    "static/js/4.2cc792d3.chunk.js.map": "/HowLongToBeatGamePass/static/js/4.2cc792d3.chunk.js.map",
+    "static/js/5.b65f6550.chunk.js": "/HowLongToBeatGamePass/static/js/5.b65f6550.chunk.js",
+    "static/js/5.b65f6550.chunk.js.map": "/HowLongToBeatGamePass/static/js/5.b65f6550.chunk.js.map",
     "static/js/6.3a6e592a.chunk.js": "/HowLongToBeatGamePass/static/js/6.3a6e592a.chunk.js",
     "static/js/6.3a6e592a.chunk.js.map": "/HowLongToBeatGamePass/static/js/6.3a6e592a.chunk.js.map",
     "index.html": "/HowLongToBeatGamePass/index.html",
     "static/css/main.e37a426c.chunk.css.map": "/HowLongToBeatGamePass/static/css/main.e37a426c.chunk.css.map",
-    "static/js/2.5a4070a5.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/2.5a4070a5.chunk.js.LICENSE.txt",
-    "static/js/3.97e1e285.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/3.97e1e285.chunk.js.LICENSE.txt",
-    "static/js/4.2957f302.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/4.2957f302.chunk.js.LICENSE.txt",
-    "static/js/5.d677383b.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/5.d677383b.chunk.js.LICENSE.txt"
+    "static/js/2.c768e0b8.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/2.c768e0b8.chunk.js.LICENSE.txt",
+    "static/js/3.f5b2c5f0.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/3.f5b2c5f0.chunk.js.LICENSE.txt",
+    "static/js/4.2cc792d3.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/4.2cc792d3.chunk.js.LICENSE.txt",
+    "static/js/5.b65f6550.chunk.js.LICENSE.txt": "/HowLongToBeatGamePass/static/js/5.b65f6550.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.247f051c.js",
-    "static/js/3.97e1e285.chunk.js",
+    "static/js/runtime-main.185f0989.js",
+    "static/js/3.f5b2c5f0.chunk.js",
     "static/css/main.e37a426c.chunk.css",
-    "static/js/main.9cc2971f.chunk.js"
+    "static/js/main.19725753.chunk.js"
   ]
 }
